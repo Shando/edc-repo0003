@@ -1,0 +1,4 @@
+Changes - 24th April 2016
+-------------------------
+
+Now supports floppy disk images in Laser DOS V1.0 format.

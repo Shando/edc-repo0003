@@ -1,0 +1,7 @@
+Changes - 7th July 2004
+-----------------------
+
+ - Fixed a bug which kept you from switching back to VGA mode  
+ - A controller bug has been fixed
+ - Fixed a bug in the video renderer which caused some crashes   
+

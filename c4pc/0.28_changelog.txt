@@ -1,0 +1,9 @@
+Changes - 17th September 2001
+-----------------------------
+
+Looks like the 0.27 release contained some nasty bugs :
+- Dialog box "Unknown IRQ index (11)" would appear after short time (due to fake IRQ getting triggered by accident)
+- Console file transfer gave a lot of CRC errors while there should be none (due to calling interrupt handler while it was still busy)
+- Changed the way 8-bit timer0/1 interrupts are handled (greatly decreased the number of triggered IRQ / sec)
+
+Also keep in mind that the major problem of this emulator is speed ... at this point not really important, there are still quite a few bugs to find/remove and features to add. Once I am happy about the functionality/compatibilty I will try to make it faster, although I don't expect it to run full speed on anything slower than 1Ghz.
