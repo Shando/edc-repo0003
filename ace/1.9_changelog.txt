@@ -1,0 +1,13 @@
+Changes - 240th February 2002
+-----------------------------
+
+// version 1.9
+
+ - Added the ability to read Nebula .dat files (thanks ElSemi). All CPS2 games
+   whose code roms have been decrypted are playable, now.
+ - Added Waku waku 7 (neogeo).
+ - Improved clipped sprite blitting a bit.
+ - Finally an (almost) serious readme.txt file 8-)
+ - Fixed the annoying left memory deallocation on chip bug (this is for the freaks
+   at emuita.it trying to translate into Italian all the new ace features. 
+   now translate this 8-)

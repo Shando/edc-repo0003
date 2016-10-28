@@ -1,0 +1,26 @@
+Changes - 28th April 2016
+-------------------------
+
+What's new in 1.65:
+-------------------
+
+
+     * New drivers:
+         - Metal Slug 2: Super Vehicle-001/II Turbo (hack)
+         - Last Resort (Prototype)
+         - Crossed Swords 2 (NEO CD conversion)
+         - Dragons' Heaven (early Prototype, not fully playable)
+         - Rage of the Dragons (set 2)
+
+         - Street Fighter Alpha 3 (US 980616 sample)
+         - X-Men Vs. Street Fighter (Japan 961023)
+         - Ring of Destruction: Slammasters II (Hispanic 940902)
+         - Super Street Fighter II Turbo (Hispanic 940223)
+
+         - Varth - Operation Thunderstorm (Japan Resale Ver. 920714)
+         - Final Fight (US 900424)
+         - Forgotten Worlds (World newer)
+
+     * Added missing ROM into fightfeva.
+     * Changed xmvsfur2 ROM names to match MAME 0164.
+     * Fixed 'The King of Fighters 2003 (set2)' graphics not rendering correctly.
