@@ -1,0 +1,11 @@
+Changes - 21st November 2000
+----------------------------
+
+Version 0.42:
+ -QSound games run with z80 disabled
+ -Saved callus95 video settings
+ -Street Fighter 2 Rainbow Edition support (sf2rb)
+ -Slammasters crashes a bit less often
+ -Fixed Dynasty Wars layer priority
+ -Fixed Muscle Bomber Duo copy protection
+

@@ -1,0 +1,21 @@
+Changes - 18th February 2007
+----------------------------
+
+2.25b
+	PGM
+	Added Knights of Valour Super Heroes. Thanks to KOFBOBO and the rest 
+	of peole in BOBO KOV WORLD (http://kofbobo.chinae3.com/) for the donation 
+	of a PGM motherboard and game Cart for kovsh to extract the protection program.
+	Added Martial Masters
+	Added The Killing Blade (only Rev 109 works)
+	Added internal protection program for Photoy2k, removed simulation.
+
+
+	NEOGEO
+	Fixed kof2002 and Matrimelee drivers
+
+	CPS1
+	Fixed CPSQ & CPS_Extra dat files
+
+	GENERAL
+	Added some cheats, transparency tables and tracklists.
