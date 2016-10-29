@@ -1,0 +1,40 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-01-06 16:48:25 ....A        10968      1139116  caspak\laser2001-salora\andromed.cas
+2015-01-06 16:48:25 ....A        10713               caspak\laser2001-salora\caveman.cas
+2015-01-06 16:48:25 ....A        10176               caspak\laser2001-salora\crazycak.cas
+2015-01-06 05:13:58 ....A        72661               caspak\creativision\cvdemo.cas
+2015-01-06 04:03:15 ....A        58482               caspak\creativision\fflare.cas
+2015-01-06 18:18:09 ....A        14484               caspak\laser2001-salora\pipeline.cas
+2015-01-06 16:48:25 ....A         4125               caspak\laser2001-salora\tekstink.cas
+2015-01-06 20:09:16 ....A         3444               caspak\laser2001-salora\tukialus.cas
+2015-01-06 16:48:25 ....A         5069               caspak\laser2001-salora\yksikat.cas
+2016-01-02 21:58:19 ....A      1047552               SDL2.dll
+2016-01-03 09:57:26 ....A        44032               SDL2_net.dll
+2016-04-24 12:53:57 ....A        17920               utils\windows\bas2cas.exe
+2016-04-24 12:53:58 ....A        18432               utils\windows\cas2wav.exe
+2016-04-24 12:55:14 ....A       470528               creatiVision.exe
+2016-04-24 12:54:18 ....A        23040               utils\windows\cvgfx.exe
+2016-04-24 12:54:19 ....A        32768               utils\windows\smbloader.exe
+2016-04-24 12:54:20 ....A        23552               utils\windows\txt2cas.exe
+2016-04-24 12:44:33 ....A       510564               doc\creatiVision Emulator.pdf
+2016-04-24 10:51:48 ....A        26979               doc\Creativision Keypad Matrix.pdf
+2015-01-18 16:02:01 ....A        48762               doc\MSBASIC File Formats.pdf
+2016-04-24 10:51:48 ....A        27058               doc\Salora Manager Keyboard Scan Code Matrix.pdf
+2000-08-24 15:32:04 ....A         2048               bios\bioscv.rom
+2014-05-30 10:41:51 ....A        16384               bios\cslbios.rom
+2014-12-30 15:15:32 ....A        16384               bios\cslbiossm.rom
+2016-01-10 16:59:41 ....A         7680               bios\disk.rom
+2014-01-26 13:06:29 ....A        16384               bios\laser2001.rom
+2014-01-12 22:05:52 ....A        16384               bios\saloram.rom
+2015-01-06 21:36:42 ....A           35               roms\dir.txt
+2015-01-06 21:36:42 D....            0            0  bios
+2015-01-06 21:36:42 D....            0            0  utils
+2015-01-06 21:36:42 D....            0            0  utils\windows
+2015-01-06 21:36:42 D....            0            0  roms
+2015-01-06 21:36:42 D....            0            0  doc
+2015-01-06 21:36:42 D....            0            0  caspak
+2015-01-06 21:36:42 D....            0            0  caspak\creativision
+2015-01-06 21:36:42 D....            0            0  caspak\laser2001-salora
+------------------- ----- ------------ ------------  ------------------------
+2016-04-24 12:55:14            2556608      1139116  28 files, 8 folders

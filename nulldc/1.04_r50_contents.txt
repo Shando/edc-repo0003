@@ -1,0 +1,25 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2010-05-22 21:36:03 ....A       131072       730839  data\fsca-table.bin
+2010-06-20 06:31:48 ....A        39424               Plugins\drkMapleDevices_Win32.dll
+2010-06-20 06:31:46 ....A       113152               Plugins\drkPvr_Win32.dll
+2010-06-20 06:31:18 ....A        72704               emitter_Win32.dll
+2010-06-20 06:31:50 ....A         8192               Plugins\EmptyAICA_Win32.dll
+2010-06-20 06:31:50 ....A        35328               Plugins\ImgReader_Win32.dll
+2010-06-20 06:31:28 ....A        48128               Plugins\nullAICA_Win32.dll
+2010-06-20 06:31:34 ....A       301056               nullDC_GUI_Win32.dll
+2010-06-20 06:31:37 ....A        15360               Plugins\nullExtDev_Win32.dll
+2010-05-22 21:36:02 ....A       167936               Plugins\pfctoc.dll
+2010-06-20 06:31:18 ....A       425472               Plugins\PuruPuru_Win32.dll
+2010-05-22 21:36:05 ....A       324096               SDL.dll
+2010-06-20 06:31:46 ....A        88576               Plugins\vbaARM_Win32.dll
+2010-06-20 06:31:23 ....A        16384               Plugins\XMaple_Win32.dll
+2010-06-20 06:32:15 ....A       352256               nullDC_Win32_Release-NoTrace.exe
+2010-05-22 21:35:58 ....A         2369               composition.fx
+2010-05-22 21:35:58 ....A         9342               ps_hlsl.fx
+2010-05-22 21:35:58 ....A         3215               vs_hlsl.fx
+2010-05-22 21:36:03 ....A           50               data\Put dc_boot here.txt
+2010-05-22 21:36:03 D....            0            0  Plugins
+2010-05-22 21:36:03 D....            0            0  data
+------------------- ----- ------------ ------------  ------------------------
+2010-06-20 06:32:15            2154112       730839  19 files, 2 folders
