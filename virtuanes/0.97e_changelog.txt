@@ -1,0 +1,15 @@
+Changes - 14th October 2007
+---------------------------
+
+v0.97
+
+Addition:
+---------
+
+Change:
+-------
+
+Revision:
+---------
+
+-Correct an AVI output.

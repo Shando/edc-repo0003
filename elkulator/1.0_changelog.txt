@@ -1,0 +1,15 @@
+Changes - 17th July 2010
+------------------------
+
+Changes from v0.7:
+* Improved stability 
+* CSS Sound Expansion emulation 
+* Plus 1 and First Byte joystick emulation 
+* Sound pitch fixed 
+* FDI disc support 
+* Save states added 
+* Debugger added 
+* Redefinable keyboard 
+* Bugfix to Master RAM Board emulation 
+* Few other fixes 
+* Linux port 
