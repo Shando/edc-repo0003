@@ -1,0 +1,13 @@
+Changes - 1st April 2012
+------------------------
+
+Version 2012.04:
+
+* Adjusting Timers / O programs to minimize blockages.
+* Adding a new graphical tool to emulate the keyboard EXL100 using the PC mouse.
+* Refresh the screen when the BAPA register of the video processor is changed.
+* Magenta color adjustment for a more realistic rendering of Exelvision palette.
+* Slight modification of the organization of the menu bar.
+* Various fixes and minor improvements
+
+*** Translated from French using Google Translate ***
