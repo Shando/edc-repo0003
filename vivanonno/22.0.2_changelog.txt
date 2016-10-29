@@ -1,0 +1,11 @@
+22.0.2	 1 Aug 2002	minor version up
+			some problems might be fixed.
+			- setting dialog didn't open in some versions of windows
+			- failed to enter full-screen mode
+
+			the sound emulation was improved. (not completed)
+			- eliminated pop-up noise
+			- tuned interpolation filter
+			- fixed handling of SEs
+
+			added "Use MIPMAP" check box in the gfx setting.

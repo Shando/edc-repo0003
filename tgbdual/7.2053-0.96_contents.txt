@@ -1,0 +1,26 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2001-09-26 14:22:12 ....A         2998        36025  Translation source\Icon_1.ico
+2001-09-26 14:22:12 ....A          884               Translation source\resources.rc
+2001-09-17 12:46:12 ....A        15131               docs\COPYING-2.0.txt
+2001-09-26 15:59:46 ....A         3535               English Version Readme.txt
+2000-11-16 23:30:10 ....A         1141               docs\gbddk.txt
+2001-03-24 15:10:26 ....A         1141               devices\gbddk.txt
+2001-09-22 21:10:38 ....A        52058               docs\history.txt
+2000-12-16 19:06:48 ....A         2071               docs\Netplay.txt
+2000-11-14 23:39:50 ....A          920               docs\PAR.txt
+2001-09-19 00:28:08 ....A          619               devices\ReadMe.txt
+2001-09-22 21:10:52 ....A         8693               docs\ReadMe.txt
+2001-06-21 22:59:16 ....A         1865               devices\tbr_readme.txt
+2001-07-03 00:02:36 ....A          712               devices\tic_readme.txt
+2001-09-26 16:04:40 ....A        97792       209552  TGB_Dual.exe
+2001-09-19 10:46:42 ....A        15872               devices\tbr_dll.dll
+2001-09-15 01:16:26 ....A        35840               devices\tgbr_dll.dll
+2001-09-19 10:45:40 ....A        15360               devices\tic.dll
+2001-08-26 01:06:14 ....A        23040               devices\tppe_dll.dll
+2001-09-19 10:36:06 ....A        53760               devices\TPPE_KAI.dll
+2016-10-29 17:39:56 D....            0            0  Translation source
+2016-10-29 17:39:56 D....            0            0  docs
+2016-10-29 17:39:56 D....            0            0  devices
+------------------- ----- ------------ ------------  ------------------------
+2016-10-29 17:39:56             333432       245577  19 files, 3 folders

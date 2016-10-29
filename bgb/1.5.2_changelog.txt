@@ -1,0 +1,2 @@
+New in BGB 1.5.2 (2015-08-17)
+- Fixed a large number of bugs and problems, including: glitches in pokemon linking. Screensaver now doesn't start if you play with gamepad. Crash/stability fixes. Many small improvements, including efficiency improvements. Added support for more joypad axes (xbox 360 controller). Various debugger GUI improvements including local symbols.mbols.

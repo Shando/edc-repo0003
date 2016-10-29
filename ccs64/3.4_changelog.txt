@@ -1,0 +1,249 @@
+CCS64 V3 Bug-Fix List
+
+ 
+
+Device-Oriented Bugs :
+
+·     To check/fix the HardSID support, given that the SID Emulation code has been changed to a more reSID-style sound.  More information below:
+
+ I have a HardSID PCI with a SID 6581 in Bank 1.  CCS64 seems to use it properly, except for Channel 4, but crashes when the Mix Mode is set to 'Channels 1-4 Buffered'.  The other two modes work, but 'Channel 1-3 Burst, 4 Emulated' causes the HardSID to produce some high-pitched noise that almost over-powers the emulated sound, when Channel 4 is used.  CCS64 currently reports my HardSID at $FFF8.
+
+ 
+
+CCS64 V3 Bug-Fixes Made
+
+ 
+
+1.  User-Discovered Bug-Fixes Made :
+
+ 
+
+Kernel-Oriented Bug-Fixes :
+
+·        A program that should install an interrupt-driven music player, in order to play music, just quits back to BASIC instead.
+
+ 
+
+Device-Oriented Bug-Fixes :
+
+·        Various problems with T64 files - the file-pointer does not move on to the next file in a multi-part T64 file and file-names are not interpreted correctly.
+
+·        When loading a file with the "LOAD" command, the "SEARCHING FOR" and "LOADING" lines of text do not appear.  This can cause problems with programs that put LOAD commands on the screen, and then execute them, by filling the keyboard buffer.
+
+·        The game Galleon crashes, whilst it is loading.
+
+·        The game Continental Circus crashes, whilst it is loading.
+
+·         The demo Error 23 crashes, whilst it is loading.
+
+·         The demo +H2K crashes, whilst it is loading.
+
+·         When using the Simons BASIC cartridge with the Printer emulation, there are some problems.  Firstly, no MS-DOS text file is produced, after you issue a "CLOSE #n" command.  Secondly, when you perform a "PRINT #n" command, you get the BASIC error message "? DEVICE NOT PRESENT ERROR", but not when you give the "PRINT #n" command a text string to print.  The whole procedure works fine when using the standard BASIC.
+
+·         Various problems with the The Final Cartridge III (TFC-III) cartridge.
+
+·          Games freezed with The Final Cartridge III (TFC-III) cartridge did not load correctly.
+
+·          The program Ex-DOS does not work correctly.
+
+  
+
+Game-Oriented Bug-Fixes :
+
+·       In the game Haunted House, your ghost dies, before you can really play the game.  [The problem is with the Sprite Background Collision Detection Register ($D01F).  Every bit that is set to 1 indicates that the corresponding sprite was involved in a collision with background data.  On a real C64, the bits in this register remain set until they are read (i.e. PEEKed).  Once read, the register is automatically cleared, so that it can detect the next collision.  The emulator does not clear the register, after it has been read.]
+
+·         In the game Frankie Goes To Hollywood, when you enter a sub-game, the emulator hangs.
+
+·         In the game Road Raiders, after exiting out of the building that is downwards and to the east (where there is an arrow pointing), the emulator hangs.
+
+·          In the game Platoon, there was a flickering small graphic glitch on the title screen.
+
+  
+
+Demo-Oriented Bug-Fixes :
+
+·       The demo Krestage 3 didn't display the 9th sprite.
+
+·       The demo Krestage 3 didn't start. [The problem is with the Sprite Sprite Collision Detection Register ($D01E)].
+
+·       Programs protected with the emu-fuxx0r v2 didn't start. [The problem is with the Sprite Sprite Collision Detection Register ($D01E)].
+
+·       In the demo Coma Light, the Kefrens Bar part didn't display correctly.
+
+·       In the demo Aurora 90%, to pass the emu-fuxxor part the user had to press the run/stop key to continue.
+
+·       In the demo Aurora 90%, the scroll text with credits didn't display correctly.
+
+·       The demo Sharp didn't work correctly.
+
+ 
+
+Sound-Oriented Bug-Fixes :
+
+·        To write-through $D418 to the HardSID, when emulated sound is disabled.
+
+·        To re-set the HardSID, when you exit the emulator.
+
+·        In the game Loco, when you die (i.e. when your loco-motive breaks down), there is no dying noise, just a constant background tone.  There should be a dying noise, followed by a period of silence, then it waits for the <SPACE BAR> key or the Fire button to be pressed, before re-starting the game.
+
+·         Within certain games, e.g. Retrograde, you can sometimes hear a popping sound.  The S-Express tune demonstrates this very well.  There may be a requirement to allow the user to set the sound buffer size (50 msec to 400 msec, in intervals of 50 msec, should be adequate).
+
+·         To improve the accuracy of the SID Filter emulation.
+
+ 
+
+Other Bug-Fixes :
+
+·         The $LOADPATH saved setting is not updated when running TAP/PRG/P00 files, but it is when running D64/G64/T64 files.
+
+·         When entering/exiting the paused mode, this causes to colour palette to be re-set to "Normal", when it should not automatically do this.
+
+·         When using 2 joysticks under Windows 2000 (Y-Cable), one of the joysticks always draws to the left.  This seems to be a bug in the emulator, because it is attached to the Virtual C64 Port (i.e. the same player in a game).  It makes no difference if you swap the ports (ALT + F10) or switch joysticks.
+
+·         To not crash when selecting a non-existent C64 image file. 
+
+ 
+
+2.  Developer-Discovered Bug-Fixes Made :
+
+ 
+
+Device-Oriented Bug-Fixes :
+
+·        Improved 1541 read/write head bit-rate emulation.
+
+·        The CPU emulation starts a random off-set after the VIC-II emulation starts, after a system re-set, instead of always starting after the VIC-II chip is re-aligned to the base point.
+
+ 
+
+Sound-Oriented Bug-Fixes :
+
+·    The SID emulation is completely re-set, after a system re-set (both internal registers and visible registers are zeroed).
+
+ 
+
+CCS64 V3 Enhancement List
+
+ 
+
+Other Enhancements 
+
+·         To be able to specify the default Bank to be automatically switched to, when entering the MC Monitor, as a saved setting.
+
+·         To have a TAP File Manager built in - (1) To be able to specify which Block to begin loading from within TAP files, as a saved setting; (2) To be able to copy/paste Blocks from one TAP file to another, and to be able to delete Blocks from a TAP file.
+
+ 
+
+Windows-Oriented Enhancements
+
+·         CCS64 should treat the Keyboard and a DirectInput Device in exactly the same manner.  When assigning a Joystick Axis/Button, the user should be able to press Joystick Buttons/Axes, as well as Keyboard keys.  This would also solve the problems with some devices that have more than two axes.  The Calibration option might be un-necessary, since DirectInput already does that.  But, this does not solve this Jump 'N' Run problem completely - you could assign, for example, a Game Pad Button as the "Up" Axis, but what about games that contain both a Jump 'N' Run element and a Side-Scrolling Shooter element?  You would have to re-assign the "Up" axis several times.  This problem would be solved by an Alternate Button Selection, such as in MAME.  You could then assign the "Up" axis to both an Axis and a Button at the same time.
+
+ 
+
+CCS64 V3 Enhancements Made
+
+ 
+
+1.  User-Requested Enhancements Made :
+
+ 
+
+Device-Oriented Enhancements :
+
+·         To toggle the Scroll Lock LED, whenever the 1541 Device is being read from/written to, as an option.
+
+·         Support for the Comal 80, the Super SnapShot 5, and the Serpentine cartridges.
+
+ 
+
+Graphics-Oriented Enhancements :
+
+·         To make the emulator work as a true Windows application with a Windows Windowed mode (instead of the DirectX Windowed mode, which did not work correctly for everybody).
+
+·         The ability to choose the actual graphics re-fresh rate, instead of having to use third-party graphics re-fresh rate tweaking programs.
+
+·         Frame-skipping for the graphic modes.  At the moment, if a machine is not powerful enough, the whole execution slows-down.
+
+·         Full-screen anti-aliasing, as an option, in order to remove any blockiness in the graphics (i.e. pixelised graphics).
+
+·         To support the Scale2x graphical filter, but in all of the available graphical resolutions (i.e. 1x, 2x, 3x, full-screen).
+
+ 
+
+Sound-Oriented Enhancements 
+
+·         To add support for the HardSID sound card, in the same version of CCS64.   This is so that both HardSID users and non-HardSID users can use the same version of CCS64, meaning that there is a consistency of functionality.  This would also make the development and distribution of updated versions of CCS64 a lot easier.
+
+ 
+
+Windows-Oriented Enhancements :
+
+·         To be able to drag-and-drop D64/G64/T64/TAP/PRG/P00 files on to the CCS64 window, when running CCS64 in windowed mode, which will auto- load/run the file that has been dragged-and-dropped.
+
+·         To be able to save AVI (Audio Video Interleaving) files of emulator activity, with both picture and sound content, in the same manner as sound sampling is done at the moment.
+
+ 
+
+Other Enhancements :
+
+·         There is an SDK for net-play, especially for emulators, called Kaillera.  Can this be implemented in CCS64?
+
+·         Two new Machine Code Monitor commands, CD and DIR, which support both 8.3 format file-names and long file-names, as well as relative file-paths.
+
+·         Extended command syntax in the Machine Code Monitor:  BA <xxxx>[-<yyyy>] [RWX] [<xx>[-<yy>]].
+
+·         Commands in the Machine Code Monitor that presents possibly long listings can now be interrupted by pressing escape.
+
+  
+
+2.  Developer-Added Enhancements Made :
+
+ 
+
+Device-Oriented Enhancements :
+
+·         Support for the Magic Formel cartridge.
+
+·         Support for the Ross, Structured BASIC, and Dela-EP64 cartridges.  These have not been tested yet, as no CRT images have been located for them.
+
+·         When the CPU enters halt mode, to show the address that this occurs, and to allow the option of either entering the MC Monitor or of performing a hard re-set of the system.
+
+·         Two new short-cut key combinations - Select Next Disk Into Drive 8 (ALT + F5) and Select Previous Disk Into Drive 8 (ALT + F6).
+
+·         Another new short-cut key combination - Screen-Shot Menu Contents (ALT + SHIFT + F2).
+
+·         Another new short-cut key combination - Warp Speed Toggle (ALT + SHIFT + F3).
+
+·         To add a C2N Noise option, which allows the tape loading noise to be heard.
+
+·          New Menu added for configuration of the keyboard mapping, which now can be altered to match for example German keyboards where the Z and Y keys are interchanged.  
+
+·          Another new short-cut key combination - Insert Special C64 Keystroke (ALT + K).
+
+·          Another new short-cut key combination - Sound Recording On/Off (ALT + SHIFT + S).
+
+·          Another new short-cut key combination - Video Recording On/Off (ALT + SHIFT + V).
+
+·          Message when maximum 1541 speed is active can be turned on/off.
+
+ 
+
+Windows-Oriented Enhancements :
+
+·         Key Repetitions are supported.
+
+·         Registration menu options have been added.
+
+·         Program registration information is shown in the About program box.
+
+·         New program icons.  The new main program icon was contributed by Owziee.
+
+·         Application Menus have been added, which link to the appropriate internal Textual Menus.
+
+·         When valid C64 image file extensions (e.g. D64) are associated in the Windows Registry with CCS64, whenever the user double-clicks on one of those files in Windows, the file is automatically started within CCS64.
+
+·          More Application Menus have been added, several of them now use the Windows default File Dialog for choosing files and paths for loading or saving various files.
+
+·          The size of the C64 screen visible in Window mode can be changed by editing the c64.cfg config file (WINDOWSIZEX,-Y), so that a larger part of the borders can be seen.
+
+ 

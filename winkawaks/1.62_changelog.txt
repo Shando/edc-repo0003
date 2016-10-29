@@ -1,0 +1,27 @@
+What's new in 1.62:
+-------------------
+
+     * New drivers:
+
+         - X-Men: Children of the Atom (Japan 950105)
+         - X-Men: Children of the Atom (Hispanic 950105)
+         - Street Fighter Alpha 3 (Hispanic 980629)
+         - Giga Wing (Hispanic 990222)
+         - Eco Fighters (Hispanic 931203)
+         - Dungeons and Dragons: Tower of Doom (Hispanic 940113)
+
+         - Real Bout Fatal Fury Special (Korean version)
+         - Quiz Daisousa Sen: The Last Count Down (Korean version)
+         - Quiz King of fighters (Korean version)
+
+         - Final Fight (Japan hack)
+         - Biaofeng Zhanjing (Chinese bootleg)
+         - Dinosaur Hunter (Chinese bootleg)
+         - Pang! 3 (Euro 950601)
+         - Street Fighter II - The World Warrior (Thunder Edition)
+
+     * Changed Ironclads C and P ROM makeup to how its suspected they
+       would have been on a real MVS cart.
+     * Fixed incorrect ROM sizes in KODB and WOFHFH.
+     * Fixed KNIGHTS and clones ROM names to match MAME.
+     * Fixed HSF2J ROMs to match MAME.
