@@ -1,0 +1,29 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-09-28 10:14:48 ....A      2224359      1591383  cheats.bml
+2016-03-16 12:27:50 ....A           66               WonderSwan Color.sys\manifest.bml
+2016-06-25 04:51:52 ....A          345               Super Famicom.sys\manifest.bml
+2016-07-08 15:24:12 ....A           23               Mega Drive.sys\manifest.bml
+2013-01-12 22:08:03 ....A           20               Famicom.sys\manifest.bml
+2013-01-12 22:08:32 ....A           58               Game Boy.sys\manifest.bml
+2013-01-12 22:09:42 ....A           68               Game Boy Advance.sys\manifest.bml
+2013-01-12 22:09:07 ....A           65               Game Boy Color.sys\manifest.bml
+2016-03-16 12:27:41 ....A           59               WonderSwan.sys\manifest.bml
+2016-10-30 03:53:09 ....A         4278               settings.bml
+2016-08-01 10:53:54 ....A       320573               Database\Super Famicom.bml
+2016-08-08 06:15:27 ....A      3843584               higan.exe
+2016-08-08 06:15:27 ....A       888320               icarus.exe
+2012-04-18 11:25:05 ....A         2048               Game Boy Color.sys\boot.rom
+2012-04-18 11:12:51 ....A          256               Game Boy.sys\boot.rom
+2012-04-18 11:00:33 ....A           64               Super Famicom.sys\ipl.rom
+2012-04-18 11:00:33 D....            0            0  Famicom.sys
+2012-04-18 11:00:33 D....            0            0  Game Boy Color.sys
+2012-04-18 11:00:33 D....            0            0  Super Famicom.sys
+2012-04-18 11:00:33 D....            0            0  Game Boy.sys
+2012-04-18 11:00:33 D....            0            0  Game Boy Advance.sys
+2012-04-18 11:00:33 D....            0            0  WonderSwan Color.sys
+2012-04-18 11:00:33 D....            0            0  Database
+2012-04-18 11:00:33 D....            0            0  WonderSwan.sys
+2012-04-18 11:00:33 D....            0            0  Mega Drive.sys
+------------------- ----- ------------ ------------  ------------------------
+2016-10-30 03:53:09            7284186      1591383  16 files, 9 folders
