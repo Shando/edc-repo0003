@@ -1,0 +1,132 @@
+January 24th 2000:
+Fixed:
+  * Quiting with Alt+F4 in Windows version now should save the configuration file. 
+  * Strange filenames like pi, should now be correctly loaded when using the automatic reset and load feature. 
+  * The pause mode with interlaced mode should now work better. 
+  * The windowed mode for DirectX with 32-bits of color resolution should now work better. 
+Added:
+  * New cartridge type 12 (Rex Cartridge). 
+December 31st 1999:
+Fixed:
+  * Fixed some problems with the printer emulation (CMD command in BASIC). 
+  * Fixed some problems with DirectX and WindowsNT, the Menu should now be visible when pressing F9. 
+Added:
+  * Windowed mode for the DirectX version. Also new commandline option for forcing this. Probably just supports 16 and 24 bits of color resolution. 
+  * New commandline option for selecting the correct HardSID soundcard. 
+December 12th 1999:
+Fixed:
+  * Recompiled the executables as it seems like there is a problem with the last release because of wrong built, corrupted object files while compiling or something. 
+Added:
+  * Better handling of .G41/G64 files in the menu, now possible to view the directory contents. 
+December 4th 1999:
+Added:
+  * Emulation of paddles, using either mouse, joystick or keys. 
+December 1st 1999:
+Fixed:
+  * Some minor changes that might work better with Win NT for graphics in the menu. 
+Added:
+  * Ability to save from C2N to .TAP-file. 
+  * Printer emulation, traps Kernal calls and saves output to text-file. 
+  * Ability to change emulation mode in the 1541 status menu. 
+October 3rd 1999:
+Added:
+  * Ability to load/save the emulator state (Freeze) with different filenames (Alt+F11,Alt+F12). 
+  * Color saturation control for the palette. 
+  * Various new command-line options, selectable name of config-file (C64.CFG default) and options of fastload and autorun. 
+  * New fast-keys, like Alt+Shft+R for hard reset and Alt+Shft+8 for status page of device 8. 
+October 2nd 1999:
+Added:
+  * Ability to swap (Alt + 1 to 8) between different session screens in the MC Monitor. 
+  * Cartridge types 7 to 11 (Fun Play, Super Games, Atomic Power, Epyx Fastload, Westermann). 
+September 19th 1999:
+Added:
+  * Help (with F1) and other status pages (F2-F4) within the machine code monitor. 
+Fixed:
+  * More keys now work in the machine code monitor and the menu for the DOS version. 
+August 21th 1999:
+Added:
+  * Option for different reset memory patterns. 
+Fixed:
+  * Breakpoints triggered on execution. 
+August 19th 1999:
+Added:
+  * Option for maximum 1541 speed while loading or writing. 
+  * Sound support for Windows NT by adding driver for old Windows MCI sound device. 
+  * Page up/down scrolling in the monitor. 
+Fixed:
+  * Freeze load/save completely rewritten (it was really a lot of work). 
+  * Backspace now works while editing the filename for creating new .D64 disks. 
+  * Better display of $D000-DFFF memory area in monitor. 
+January 6th 1999:
+Added:
+  * On-screen display for C2N counter 
+  * Config settings in the config file for menu colors. 
+Fixed:
+  * Play button in the C2N Menu now gives response to the C64. 
+  * Nr of 1541 drives is now stored in the config file. 
+December 24th 1998:
+Fixed:
+  * Monitor breakpoints now works better (removed BRK bug...) 
+  * New default color scheme, digitized from my old C64 from 1983. 
+  * Menu now has separate memory of last selected files and indexes. 
+December 13th 1998:
+Added:
+  * Monitor has ability to manipulate virtual breakpoints. 
+  * Monitor can save and load memory to files. 
+  * Monitor supports various commands for hunting sequences, manipulating memory and registers. 
+  * Monitor can evaluate expressions. 
+  * Status screens for 1541 and C2N. 
+  * Autofire support with adjustable speed for joysticks. 
+  * On-screen display for 1541 status. 
+  * GCR file-formats in .G41 or .G64 supported. 
+  * C2N can change the play button status, for pausing tape playback. 
+  * C2N can forward and reverse the tape file. 
+  * Added new cartridge type for Ocean games (investigated by Markus Brenner and Adam Lorentzon). 
+Fixed:
+  * VIC-II now accesses the cartridge rom data better when in Ultimax mode. 
+  * C2N now accelerates and deaccelerates the virtaual tape motor. 
+September 20th 1998:
+Added:
+  * Monitor now can assemble mnemonics, new command A. Example: "A 1000 LDA#$19" 
+  * Monitor now supports illegal opcodes. 
+  * New version of the .TAP format, now handles long delays (24-bit) using 00 xx xx xx sequence. 
+Fixed:
+  * The DirectX routines now has a delay of one second before initializing. 
+September 15th 1998:
+Added:
+  * Speed-o-meter option in the specials menu. This shows the speed compared to real C64 and how many frames per second that are actually drawn to the screen. 
+  * The DOS version now has VESA screen modes like 512x384, 640x480 and 800x600. 
+Fixed:
+  * Increased speed. 
+  * For the DOS version the syncrate option "Screen" now syncronizes to the vertical blank. 
+August 21th 1998:
+Fixed:
+  * Recompiled the DOS version with total rebuild. Somehow the DOS version was fucked up when I updated to Visual C++ 6.0. Very very strange! 
+August 19th 1998:
+Added:
+  * Filter emulation on/off option. 
+  * Increased .P00 support, now handles filenames like "@:filename" and "0:filename". 
+Fixed:
+  * Now supports two PC joysticks with DOS version. 
+  * Fixed crash when specified illegal filename for autostart at command line. 
+  * Increased speed (especially with 320x200 mode). 
+July 29th 1998:
+Fixed:
+  * Changed DOS extender to PModeW V1.33 
+  * DirectX version now changes to 8-bit colordepth before changing width and height. 
+  * Volume changing in Device 1 menu now also with Enter and Right cursor keys. 
+  * Final Cartridge III register and reset procudure. Note: still not correct gfx at freezer menu. 
+July 23rd 1998:
+Added:
+  * REU support 128 Kb to 16 Mb. 
+  * Final Cartridge III support.. 
+  * Simons Basic support. 
+  * Mouse C1351. 
+  * 1541 RAM Expansion (DolphinDOS). 
+  * Continous saving of .D64. 
+  * Increased .P00 support, multifile and directory loading. 
+Fixed:
+  * Restore key trouble (DrCreep). 
+  * Win32 version lock-up after exit. 
+  * Various other bugs. 
+ 

@@ -1,0 +1,13 @@
+What's new in TGB Dual 7.2053
+As usual, what I noticed while translating:
+
+You can now select GBA from the Mode menu. This is similar to WinGBC's "GBC(GBA)" option in that it pretends to be running the GB(C) games on a GBA. There is also an option called "Default GBA", but I haven't been able to figure that one out.
+
+
+What's new in translation 0.96:
+
+Added the new menu items.
+
+Translated the rest of the sound options, based on the source code.
+
+Re-packed the EXE file when I was done hacking. I forgot to do it in 0.95. :P

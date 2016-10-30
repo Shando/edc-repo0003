@@ -1,0 +1,3 @@
+22.0.3  20 Aug 2002	minor version up
+			RRS1 (Japan-B), RV1 (Japan-A, World-B) were supported.
+			CRC of RV1CG1.BIN was fixed (by courtesy of Team AnkokuFuumi and The Guru)

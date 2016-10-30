@@ -1,0 +1,16 @@
+NeoCD/SDL 0.3.1
+---------------
+NeoCD/SDL is a port of NeoCD using SDL libraries.
+SDL parts written by Fosters(2001,2003-2004).
+
+Original NeoCD(Dos Version) by Martinez Fabrice
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+
+Whats New in 0.3.1
+------------------
+-Fixed broken 2nd player joystick handling
+-Fixed broken loading screen between levels of KOF.

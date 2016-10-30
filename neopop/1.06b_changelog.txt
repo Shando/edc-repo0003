@@ -1,0 +1,27 @@
+10 SEP 2002
+===========
+
+        Core v0.71
+        ----------
+        - TLCS-900h counts extra cycles for addressing modes.
+        - Tweaked and optimised the timers, now they're more accurate.
+        - Fixes music in "Cool Cool Jam" and improves "Card Fighters".
+        - Emulates more instructions per 'emulate' call, makes things faster.
+        - Put frameskipping back in.
+        - Made flash writes even more secure.
+
+        Win32 v1.06
+        -----------
+        - Fixed the window size, it was 1 pixel too tall and was causing
+          subtle stretching artefacts.
+        - Mostly translated the link-up dialog.
+        - "Misc. Options" dialog. for various options.
+        - Windowed/Full-screen mode is restored from registry on startup.
+        - More translated strings/dialogs/menus.
+        - Added adaptoid N64 D-Pad support.
+        - Put frameskipping back in.
+        - Compressed with the latest version of UPX.
+        - Improved sound consistancy, especially the noise channel - tones and
+          noises are now maintained during mute, etc. And will be restored
+          correctly from a saved state. This was a long-time problem.
+        - Added full screen width stretching.
