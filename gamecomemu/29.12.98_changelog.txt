@@ -1,0 +1,9 @@
+Changes - 29th December 1998
+----------------------------
+
+New:
+* Reset button.
+* "Breakpoint crash" bug fixed.
+* 32-bit screen code changed.
+* Command line path bug fixed.
+* Some messageboxes suppressed unless command line option -debug is used. 

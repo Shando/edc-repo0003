@@ -1,0 +1,7 @@
+Changes - 22nd February 2005
+----------------------------
+
+v 0.3 - Fixed Character display where code >= 192 (Super Cruiser)
+        When you Load a snapshot no key is automatically pressed.
+        Memory back to 6k RAM because of some incompatibilities
+        (Memory expansion will be emulated with the new emulator)
