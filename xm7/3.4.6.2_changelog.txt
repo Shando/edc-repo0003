@@ -1,0 +1,16 @@
+Changes - 23rd April 2014
+-------------------------
+
+<Modify>
+    • If the full screen switching 16-bit color at the time can not be used, TrueColor mode
+      Change so as to be TrueColor mode (32-bit color), even if you do not give priority to do.
+      In addition, forced to change so that the 32-bit color mode in Windows 8 / 8.1
+    Change-in memory management sub-window as 1MB all area is displayed
+
+<Modify>
+    DirectX components in-state the mouse is not connected (Windows tablet, etc.)
+      Fixed a problem that can not be started with the failure of the initialization
+
+
+
+*** Translated from Japanese using Google Translate ***

@@ -1,0 +1,35 @@
+Changes - 8th August 2016
+-------------------------
+
+byuu says (in the public announcement):
+
+Not a large changelog this time, sorry. This release is mostly to fix
+the SA-1 issue, and to get some real-world testing of the new scheduler
+model. Most of the work in the past month has gone into writing a 68000
+CPU core; yet it's still only about half-way finished.
+
+Changelog (since the previous release):
+
+  - fixed SNES SA-1 IRQ regression (fixes Super Mario RPG level-up
+    screen)
+  - new scheduler for all emulator cores (precision of 2^-127)
+  - icarus database adds nine new SNES games
+  - added Input/Frequency to settings file (allows simulation of
+    latency)
+
+byuu says (in the WIP forum):
+
+Changelog:
+
+  - in 32-bit mode, Thread uses uint64\_t with 2^-63 time units (10^-7
+    precision in the worst case)
+      - nearly ten times the precision of an attosecond
+  - in 64-bit mode, Thread uses uint128\_t with 2^-127 time units
+    (10^-26 precision in the worst case)
+      - far more accurate than yoctoseconds; almost closing in on planck
+        time
+
+Note: a quartz crystal is accurate to 10^-4 or 10^-5. A cesium fountain
+atomic clock is accurate to 10^-15. So ... yeah. 2^-63 was perfectly
+fine; but there was no speed penalty whatsoever for using uint128\_t in
+64-bit mode, so why not?
