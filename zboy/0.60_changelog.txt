@@ -1,0 +1,19 @@
+Changes - 30th April 2015
+-------------------------
+
+zBoy v0.60 [30 Apr 2015]
+ - Migrated from SDL to SDL2,
+ - Created a DOS port using the Allegro library (the port comes with its own setup utility),
+ - Dropped the '--noscreensaver' parameter (always enabled now), and replaced the custom screen-saver inhibitor by SDL2's generic routine,
+ - zBoy's configuration changes are persistent now,
+ - Added a custom colorization feature (--custcolor), so players can colorize games themselves,
+ - Fullscreen can be switched in-game on the SDL2 backend (ALT+ENTER),
+ - Added colorization support for Pipe Dream,
+ - Removed the '--bootlogo' option,
+ - Added '--resetcfg' to reset the configuration to default values,
+ - Hi-score persistent memory (--hiscores) is enabled by default,
+ - PCX screenshots are saved with a 4bpp depth (results in 50% smaller screenshot files),
+ - Renamed the '--colorization' option to a shorter '--colorize',
+ - Renamed '--hiscoresmem' to '--hiscores' and added '--nohiscores',
+ - Renamed '--nospeedlimit' to '--fullspeed' and added '--nofullspeed',
+ - Renamed '--nocpuidle' to '--cpuburn' and added '--nocpuburn'.

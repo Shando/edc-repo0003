@@ -1,0 +1,13 @@
+Changes - 11th June 2008
+------------------------
+
+V2.05
+-----
+- New Feature:
+  * Suppported MBC6 partially - no network update. Thanks Toshi.
+- New game supported:
+  * Net de Gate: Mini-Game @ 100 for GBC (only game known in MBC6).
+- Bugs Fixed:
+  * Fixed the graphics glitches in Donkey Kong Country. With this fix, the
+    lower part of the exclaimation mark flashed before race start in Razor
+    Freestyle Scooter.
