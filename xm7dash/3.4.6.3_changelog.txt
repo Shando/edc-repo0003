@@ -1,0 +1,32 @@
+Changes - 9th August 2015
+-------------------------
+
+<New>
+  · FM77AV20 mode, FM77AV20EX mode, add FM77AV40 mode.
+    (Thanks for Ryu Takegami and Haserin)
+  · Tenmaru's was based on the creation of the icon FM77AV20, FM77AV40, the FM77AV20EX of icon
+    add to.
+  - Add a display of high-speed MMR mode to MMR subwindow.
+  Kanji ROM, cassette tape, line printer, the sub-CPU interrupt subwindow
+    Additional (conform to the specifications that have been implemented in XM7 V1.0).
+
+<Modify>
+  Kanji ROM and organize the source of around a printing little
+  - The format of the interrupt sub-window and change to the specification, which has been implemented in XM7 V1.0, display
+    Move to the debug menu under from the bottom menu.
+  • When you change the behavior model, changes to the default cycle steel set in the model after the change
+    Changes to the specifications.
+  Physical address display of memory dump disassembled sub-window of the main system
+    Mode, change to display the physical address range in the title.
+  · Add the VM stop switch in the print dialog displayed in the operation setting property.
+
+<Modify>
+  · SYNC / CWAI waiting for the number of execution cycles of the state is waiting at the time of state rush remains of the number of cycles
+    Modify the have problems.
+  · CWAI waiting for the number of execution cycles when that contains the interruption in the state is a problem that has been excessively added
+    Modify.
+  - Fixed an issue that was supposed to build error in the makefile of the official version.
+  · FM77AV mode, standard FM sound source to perform the operation setting at the time of the OFF setting in FM77AV40EX mode
+    And always fix the problem that has been reset.
+
+*** Translated from Japanese using Google Translate ***
