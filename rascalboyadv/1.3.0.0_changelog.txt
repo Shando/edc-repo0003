@@ -1,0 +1,9 @@
+Changes - 10th February 2006
+----------------------------
+
+1.3.0.0
+----------------------
+> New in this version
+
+  + Fixed few bugs SaveState features.
+  + Added Backup plugins.

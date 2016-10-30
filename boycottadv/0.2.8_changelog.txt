@@ -1,0 +1,12 @@
+Changes - 17th May 2003
+-----------------------
+
+0.2.8 THE BOYCOTTADVANCE RELOADED",
+- (WIN32) Added skip intro hacks option (Gollum)
+- Fixes intro hacks when reloading a rom (Gollum)
+- Improved sound quality by rewriting mixing engine (Gollum)
+- Added a skip intro hacks option (you can combine it with skip BIOS option) (Gollum)
+- Fixed a huge bug for LDM opcodes [Golden Sun 2/Dragon Ball Z] (Gollum)
+- A few optimizations for Thumb CPU (Gollum)
+- Added BIOS call 1F [Metroid Fusion] (Gollum)
+
