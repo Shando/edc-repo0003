@@ -1,0 +1,45 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2009-02-28 15:37:12 ....A       242688      1230432  cygncurses-8.dll
+2008-06-12 04:35:52 ....A      1872884               cygwin1.dll
+2009-03-01 12:42:00 ....A        66048               cygz.dll
+2007-12-30 09:09:46 ....A       321536               SDL.dll
+2005-07-20 04:48:10 ....A        59904               zlib1.dll
+2009-03-23 23:30:10 ....A         8192               bin2dol.exe
+2009-03-23 23:30:10 ....A       843264               gcube.exe
+2005-01-10 15:44:54 ....A       196608               gCubeFront.exe
+2009-03-23 23:30:10 ....A        11776               isopack.exe
+2009-03-23 23:30:10 ....A        17408               tplx.exe
+2009-03-20 10:33:36 .R..A          103               maps\.svn\all-wcprops
+2009-03-20 10:33:36 .R..A          110               screenshots\.svn\all-wcprops
+2009-03-22 09:59:20 .R..A          304               maps\.svn\entries
+2009-03-22 09:59:20 .R..A          311               screenshots\.svn\entries
+2009-03-20 10:33:26 .R..A            2               maps\.svn\format
+2009-03-20 10:33:26 .R..A            2               screenshots\.svn\format
+2009-03-20 02:46:28 ....A         1092               ChangeLog
+2009-03-20 02:46:30 ....A        17992               COPYING
+2009-03-23 23:43:56 ....A         6475               doc\README
+2009-03-23 23:03:36 ....A          135               doc\TODO
+2009-03-23 23:19:46 ....A         1160               gcuberc
+2009-03-23 23:19:46 D....            0            0  maps\.svn\props
+2009-03-23 23:19:46 D....            0            0  bin
+2009-03-23 23:19:46 D....            0            0  screenshots\.svn\prop-base
+2009-03-23 23:19:46 D....            0            0  maps\.svn\tmp
+2009-03-23 23:19:46 D....            0            0  screenshots\.svn\props
+2009-03-23 23:19:46 D....            0            0  maps\.svn\tmp\props
+2009-03-23 23:19:46 D....            0            0  screenshots\.svn\text-base
+2009-03-23 23:19:46 D....            0            0  screenshots
+2009-03-23 23:19:46 D....            0            0  screenshots\.svn\tmp
+2009-03-23 23:19:46 D....            0            0  maps\.svn\text-base
+2009-03-23 23:19:46 D....            0            0  screenshots\.svn\tmp\prop-base
+2009-03-23 23:19:46 D.H..            0            0  maps\.svn
+2009-03-23 23:19:46 D....            0            0  screenshots\.svn\tmp\props
+2009-03-23 23:19:46 D....            0            0  maps\.svn\prop-base
+2009-03-23 23:19:46 D....            0            0  maps\.svn\tmp\prop-base
+2009-03-23 23:19:46 D.H..            0            0  screenshots\.svn
+2009-03-23 23:19:46 D....            0            0  screenshots\.svn\tmp\text-base
+2009-03-23 23:19:46 D....            0            0  maps
+2009-03-23 23:19:46 D....            0            0  doc
+2009-03-23 23:19:46 D....            0            0  maps\.svn\tmp\text-base
+------------------- ----- ------------ ------------  ------------------------
+2009-03-23 23:43:56            3667994      1230432  21 files, 20 folders

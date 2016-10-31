@@ -1,0 +1,73 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2014-07-04 06:00:50 ....A         3131      7105555  Source\GB_Emulator.1
+2014-07-04 06:00:50 ....A        43903               Source\SDL2_rotozoomALT.c
+2014-07-04 06:00:50 ....A        43017               Source\CPU.cpp
+2014-07-04 06:00:50 ....A         9331               Source\main.cpp
+2014-07-04 06:00:50 ....A        14314               Source\Memory.cpp
+2014-07-04 06:00:50 ....A        17004               Source\Menu.cpp
+2014-07-04 06:00:50 ....A        21450               Source\Sound.cpp
+2014-07-04 06:00:50 ....A        19560               Source\Video.cpp
+2014-07-04 06:00:50 ....A       501760               libfreetype-6.dll
+2014-07-04 06:00:50 ....A      1007104               SDL2.dll
+2014-07-04 06:00:50 ....A        52224               SDL2_ttf.dll
+2014-07-04 06:00:50 ....A       123904               zlib1.dll
+2014-07-04 06:00:50 ....A      2532352               Binary\fgbwindows.exe
+2014-07-04 06:00:50 ....A      2532352               FireGB.exe
+2014-07-04 06:00:50 ....A      6498200               vcredist_x86.exe
+2014-07-04 06:00:50 ....A         4086               Source\SDLMain.h.gch
+2014-07-04 06:00:50 ....A         2698               Source\CPU.h
+2014-07-04 06:00:50 ....A          767               Source\main.h
+2014-07-04 06:00:50 ....A         1056               Source\Memory.h
+2014-07-04 06:00:50 ....A          699               Source\Menu.h
+2014-07-04 06:00:50 ....A         3345               Source\SDL2_rotozoomALT.h
+2014-07-04 06:00:50 ....A          374               Source\SDLMain.h
+2014-07-04 06:00:50 ....A          476               Source\Sound.h
+2014-07-04 06:00:50 ....A         1920               Source\Video.h
+2014-07-04 06:00:50 ....A        11201               Source\SDLMain.m
+2014-07-04 06:00:50 ....A           41               README.md
+2014-07-04 06:00:50 ....A        14667               FireGBXCode.xcodeproj\project.pbxproj
+2014-07-04 06:00:50 ....A          483               FireGBXCode.xcodeproj\xcuserdata\frank.xcuserdatad\xcschemes\xcschememanagement.plist
+2014-07-04 06:00:50 ....A          478               FireGBXCode.xcodeproj\xcuserdata\frankrburton.xcuserdatad\xcschemes\xcschememanagement.plist
+2014-07-04 06:00:50 ....A          294               macosxinstall.sh
+2014-07-04 06:00:50 ....A       146324               LiberationSerif-Regular.ttf
+2014-07-04 06:00:50 ....A       146324               ExtraFiles\LiberationSerif-Regular.ttf
+2014-07-04 06:00:50 ....A        29592               Source\Prototype.ttf
+2014-07-04 06:00:50 ....A        17992               ExtraFiles\FontLicense.txt
+2014-07-04 06:00:50 ....A         4009               ExtraFiles\FontLicenseExtra.txt
+2014-07-04 06:00:50 ....A          983               Source\Prototype.txt
+2014-07-04 06:00:50 ....A          319               ReadmeLinux.txt
+2014-07-04 06:00:50 ....A          596               ReadmeMacOSX.txt
+2014-07-04 06:00:50 ....A          364               ReadmeWindows.txt
+2014-07-04 06:00:50 ....A           91               FireGBXCode.xcodeproj\xcuserdata\frankrburton.xcuserdatad\xcdebugger\Breakpoints.xcbkptlist
+2014-07-04 06:00:50 ....A           91               FireGBXCode.xcodeproj\xcuserdata\frank.xcuserdatad\xcdebugger\Breakpoints.xcbkptlist
+2014-07-04 06:00:50 ....A          762               FireGBXCode.xcodeproj\xcuserdata\frankrburton.xcuserdatad\xcdebugger\Breakpoints_v2.xcbkptlist
+2014-07-04 06:00:50 ....A         1483               FireGBXCode.xcodeproj\project.xcworkspace\xcshareddata\FireGBXCode.xccheckout
+2014-07-04 06:00:50 ....A         3435               FireGBXCode.xcodeproj\xcuserdata\frankrburton.xcuserdatad\xcschemes\FireGB.xcscheme
+2014-07-04 06:00:50 ....A         3088               FireGBXCode.xcodeproj\xcuserdata\frank.xcuserdatad\xcschemes\GB Emulator.xcscheme
+2014-07-04 06:00:50 ....A        25740               FireGBXCode.xcodeproj\project.xcworkspace\xcuserdata\frank.xcuserdatad\UserInterfaceState.xcuserstate
+2014-07-04 06:00:50 ....A        58821               FireGBXCode.xcodeproj\project.xcworkspace\xcuserdata\frankrburton.xcuserdatad\UserInterfaceState.xcuserstate
+2014-07-04 06:00:50 ....A          156               FireGBXCode.xcodeproj\project.xcworkspace\contents.xcworkspacedata
+2014-07-04 06:00:50 ....A       130221               Binary\fgblinux
+2014-07-04 06:00:50 ....A       115308               Binary\fgbmacosx
+2016-10-30 15:15:44 ....A           50               fgbtemp
+2014-07-04 06:00:50 ....A        18025               LICENSE
+2014-07-04 06:00:50 ....A          500               Makefile
+2014-07-04 06:00:50 D....            0            0  Binary
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\xcuserdata\frankrburton.xcuserdatad\xcdebugger
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\xcuserdata\frank.xcuserdatad
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\project.xcworkspace\xcuserdata
+2014-07-04 06:00:50 D....            0            0  Source
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\project.xcworkspace\xcuserdata\frank.xcuserdatad
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\xcuserdata\frank.xcuserdatad\xcdebugger
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\xcuserdata
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\xcuserdata\frank.xcuserdatad\xcschemes
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\project.xcworkspace\xcuserdata\frankrburton.xcuserdatad
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\project.xcworkspace
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\project.xcworkspace\xcshareddata
+2014-07-04 06:00:50 D....            0            0  ExtraFiles
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\xcuserdata\frankrburton.xcuserdatad
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj\xcuserdata\frankrburton.xcuserdatad\xcschemes
+2014-07-04 06:00:50 D....            0            0  FireGBXCode.xcodeproj
+------------------- ----- ------------ ------------  ------------------------
+2016-10-30 15:15:44           14166465      7105555  53 files, 16 folders
