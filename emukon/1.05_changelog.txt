@@ -1,0 +1,18 @@
+Changes - 2nd July 2004
+-----------------------
+
+[V1.05]
+        - Renamed eSMS to Emukon
+        - -debug command line option
+        - right click into label window to add or remove a breakpoint
+        - Added File->Reload ROM
+        - in windowed video mode, the mouse can now be moved out of the window
+        - brighter palette
+        - sms soft pause button is now mapped to the gg start button,
+          the p-key is always hard-pause, no more alt+p
+        - added multiple screenshots options
+        - added frameskipping options
+        - resizeable file requesters
+        - added netplay via Kaillera (still experimental)
+        - fixed Code Masters mapper emulation
+        - bug fixes
