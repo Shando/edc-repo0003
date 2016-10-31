@@ -1,0 +1,10 @@
+Changes - 5th December 2011
+---------------------------
+
+v1.0
+---------------------
+-> Sound Emulation of channel 1, 2, 3 and 4. (Vin output is not emulated)
+-> Save State feature added.
+-> Increased compatibility. Graphical glitches in games (like Aladdin(CGB version), Tomb Raider, Shantae, Ken Griffey etc) are fixed.
+-> Battery Bug Fixed. Some games have illegal filename characters in their internal ROM name.
+-> VisualBoy inspired Turbo Button. Press Space to speed up the game.

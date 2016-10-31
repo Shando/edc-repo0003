@@ -1,0 +1,5 @@
+Changes - 22nd June 2003
+------------------------
+
+ - Modified rendering code for portability
+ - Modified memory handling to fix banked PSG access

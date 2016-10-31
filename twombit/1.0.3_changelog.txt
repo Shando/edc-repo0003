@@ -1,0 +1,9 @@
+Changes - 21st May 2012
+-----------------------
+
+v 1.0.3
+- [feature] added mac support
+- [feature] added linux support
+- [feature] added correct aspect switch
+- [bugfix] scanlines in higher resolutions were displayed too thin
+- [bugfix] better autodetection of pal games (the ones, which makes problems in a ntsc region).

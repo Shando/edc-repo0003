@@ -1,0 +1,39 @@
+Changes - 11th June 2011
+------------------------
+
+v1.16
+  
+  + Made possible to start a game staying paused
+
+  + Stop current video when a game is closed or a new one is opened
+
+  + Made quick save and quick load process whole video file rather than truncate
+ it by current frame count
+
+  + Updating screen immediately after reset or quick load
+
+  + Frame counter no more disabled when no video file played
+
+  + Windows: Supported key combinations
+
+
+  + Implemented quick save and load to particular slots
+
+  + Movie file format altered to record whether this is a Game Gear game
+
+  + Now uses ROM file header rather than file extension to determine
+ game type
+
+  + Added optional new portable Z80 core from Final Burn Alpha (originally MAME)
+
+  + Fixed a number of emulation bugs affecting a variety of games
+
+  + Fixed flickering issue with SDL version affecting games which change the
+ palette during the frame
+
+  + degavi ported to Windows using VfW
+
+  + Windows: act more friendly to the CPU by not busy looping
+
+  + Added capability for loading/saving SRAM in save states
+ (fixed "The Flash")

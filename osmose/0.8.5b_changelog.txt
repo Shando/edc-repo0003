@@ -1,0 +1,10 @@
+Changes - 15th January 2009
+---------------------------
+
+Osmose-0-8-5b 11th public (beta) release
+----------------------------------------
+-Use a lookup table instead of switch / if else for TextWriter (Faster).
+-FPS is now writen into emulated display instead of Window's Title so it can
+ be seen in fullscreen.
+-Add option -bilinear to force hardware bilinear filtering on the video
+ output. The default is nearest neighbour.

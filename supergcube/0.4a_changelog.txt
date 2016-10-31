@@ -1,0 +1,8 @@
+Changes - 28th March 2009
+-------------------------
+
+  0.4a  - new project branch by spartan11-7
+
+        - some major optimizations and cleanup, mostly in low-level compilation
+
+        - updated to use the latest versions of zlib, SDL and libjpeg
