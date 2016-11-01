@@ -1,0 +1,10 @@
+Changes - 16th May 2009
+-----------------------
+
+v2.2b
+-----
+
+- Improvement program exit problem
+- Improving below freezing Vista
+
+*** Translated from Hungarian using Google Translate ***

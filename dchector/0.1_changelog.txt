@@ -1,0 +1,30 @@
+Changes - 10th November 2005
+----------------------------
+
+2005-11-03: Release of version 0.0 ==================================== 0.0
+            Program test version under development.
+            Interact, 1 Hector, Hector + 2 HR function (except her).
+            Hector HRX 2: the FORTH function is the only operational.
+            No warranty. No help. No support.
+
+2005-11-04: Fixed bug boot of Interact Family Computer
+
+2005-11-05: Amelioration of the screen to display:
+            Limiting the size of the area displayed in high resolution
+            border color c0 replaced by black border (HR and BR)
+            hecwav2k7 broadcast v1.0 and v1.1
+
+2005-11-06: Cassette Playback Programming HRX
+
+2005-11-07: Printer Output Programming HR + (HRX remains to be done)
+            (In Basic LLIST list the program in the dchector.prn file)
+            processor speed adjustment for the emulated machines
+
+2005-11-08: Programming printout HRX
+
+2005-11-09: writing the programming k7 HRX
+            Partial writing online help
+
+2005-11-10: Release of version 0.1 ==================================== 0.1
+
+*** Translated from French using Google Translate ***

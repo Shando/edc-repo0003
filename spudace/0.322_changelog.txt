@@ -1,0 +1,5 @@
+Changes - 20th July 2015
+------------------------
+
+v0.322
+FIXED: Spooling didn't interpret ' and , correctly. [spt]

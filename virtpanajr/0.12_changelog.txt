@@ -1,0 +1,9 @@
+Changes - 25th March 2002
+-------------------------
+
+0.12
+	Added presumed cassette interrupt.  Helps with Joe Junkman, but still not right.
+	Scripting system now replaces appended cassette files.
+	Sound works slightly better.
+	Fixed the LIST/LLIST problem (bug in the CPU core).
+	Replaced the CPU core, but it didn't fix LIST/LLIST.

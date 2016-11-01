@@ -1,0 +1,8 @@
+Changes - 25th January 2016
+---------------------------
+
+v0.323
+ADDED: Command line now has a switch, "-i" will create or use a config in the same folder as SpudACE executable.
+ADDED: 300% display window option.
+ADDED: SpudACE can now autoload tapes.
+FIXED: Command line didn't load .tap, .wav or .txt files.
