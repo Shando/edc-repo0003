@@ -1,0 +1,10 @@
+Changes - 30th November 2015
+----------------------------
+
+Version 1.2 (by Paul Farrow)
+* Bug fixes to:
+  - Words were incorrectly displayed for the stack in debugging window
+  - Labels no longer displayed for read, write, input and output breakpoints
+  - Writing to Chroma QS Character RAM ignored unless QS Character mode enabled
+  - Last IO accesses
+* Alteration to Memory Window scrolling

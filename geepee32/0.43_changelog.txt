@@ -1,0 +1,9 @@
+Changes - 15th June 2004
+------------------------
+
+VERSION 0.43
+------------
+* fixed : DirectX joystick/gamepad code is now anti-polling proof.
+* fixed : smartmedia file/directory corruption.
+* fixed : flash verify failure at address 0x2AAA.
+* added : automatic refresh option for memory editor.

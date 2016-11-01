@@ -1,0 +1,50 @@
+Changes - 12th February 2007
+----------------------------
+
+0.06: (Core)
+      Experimented with an alternate memory access method, which didn't help performance much
+      Halved timeslice sizes
+      Move CLUT to be a memory region rather than part of the chip
+      Compute buffer size and pixel aspect ratio accurately in the OP, pass to window system
+      Cleaned up CPU and RISC interrupt systems, added CPU stop object interrupt
+	  Rewrote Tom PIT to the correct spec (and fixed the stall bug I found in it too)
+	  Rewrote Jerry PIT to correct an awful inaccuracy. However, to get AvP sound right
+            I had to add a hack to multiply the rate by 4. I don't understand why, I don't
+            know where the bug is, and in particular I don't know if I should apply the same
+            hack to the Tom PIT as well.
+	  Fixed a bug that was causing writes to the start of some memory regions to be misdirected
+      Rewrote OP towards optional line-granularity
+	  Added option to disable DSP altogether
+	  Added all DSP wavetables, or at least guesses at same
+	  Hacked around a problem that was causing the 'superzapper recharge' sample not to appear in T2K. Also
+	        hacked the 'gappy sample' issue by slowing the music replay rate down 2% in the native
+	        sound routine
+      GPU/Risc fixes: truly embarassing bug with sat8, equally rubbish bug with move pc,
+            MMULT instruction, kick off small timeslice on all RISC starts to avoid race if the RISC
+            sets a status flag which the 68k then checks, possibly the largest bug in the history
+            of errors in RISC interrupts (which weren't saving flags), ADDQMOD instruction,
+            PACKUNPACK instruction, PC register, hidata register
+	  OP bugfixes: don't infinite loop on zero vscale, abort if hit address zero, fully
+	        clipped objects off left side fix, some colour transparency, RGB16 conversion
+	        was incorrect, scaled objects needed signed height, 8-bit OP scaled objects,
+	        improved horizontal scaling accuracy, added RGB24 mode
+	  Blitter bugfixes: bit to pixel expansion bits were reversed bit order, 32bpp phrasemode
+            blits were using wrong address mask, moved srcshade inside transparency check, fixed
+            8-bit phrasemode blit alignment several times, added byte-to-phrase blits
+	  Blitter improvements: added blitter A1 inc sign, added blitter Y inc, added 8-bit
+			srcshade, additive blits
+      (Debugger)
+      Track RISC history (some of these need compile switches)
+      Append register name comments to disasm output
+      Added help menu in debugger because I'm too stupid to remember my own commands
+      Tidied up some registers
+      Kill OP object option
+      (Windows)
+      Fixed fullscreen on certain widescreen machines
+      Connected OP screen width hook
+	  Went up to W4 and fixed most of the additional warnings
+	  Reversed left and right sound channels
+	  Fixed the remaining bugs with fastcall and switched to it, for a small performance gain
+	  Added joystick button configuration
+	  (All)
+	  Clean up headers, clearly define core/window system interface
