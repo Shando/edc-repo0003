@@ -1,0 +1,206 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2011-04-28 07:36:28 ....A      1474560      1890718  ROM\card.bin
+2015-10-06 14:00:00 ....A          256               eeprom.bin
+2015-10-06 14:00:02 ....A          406               MMC_CARD\js\sdsbest.bin
+2008-06-05 07:28:42 ....A       118074               ROM\sp0256.bin
+2015-11-16 03:03:44 ....A       131072               Examples\ROM_Cartridges\Spectrum\Spectrum_ZXC3_Example.bin
+2015-10-06 14:00:02 ....A          512               ROM\zx81-font.bin
+2015-11-16 03:03:30 ....A       131072               Examples\ROM_Cartridges\ZX81\ZX81_ZXC3_Example.bin
+2008-06-05 07:28:42 ....A         2110               ROM\Spec128.rom.cset.bmp
+2008-06-05 07:28:42 ....A         2110               ROM\Spec48.rom.cset.bmp
+2015-10-06 14:00:02 ....A         2110               ROM\zx80.rom.cset.bmp
+2015-10-06 14:00:02 ....A         2110               ROM\zx81.rom.cset.bmp
+1998-10-13 00:44:22 ....A        24585               Examples\Dock\etoolkit.dck
+1998-10-17 09:53:46 ....A            9               Examples\Dock\EXROMDSK.DCK
+1998-04-07 06:33:12 ....A        16393               Examples\Dock\OS_64.DCK
+1998-04-07 06:33:42 ....A            9               Examples\Dock\ramdisk.dck
+1998-04-07 06:33:56 ....A        24585               Examples\Dock\SHOTZ.DCK
+1998-04-07 06:55:30 ....A        24585               Examples\Dock\SHOTZEXR.DCK
+1998-04-07 06:34:10 ....A        16393               Examples\Dock\SPECEMU.DCK
+1998-09-27 09:35:30 ....A        16393               Examples\Dock\ts2048.dck
+2015-11-30 13:46:04 ....A      4705792               EightyOne.exe
+2015-10-06 14:00:02 ....A         6144               MMC_CARD\js\sdstitle.hrg
+2005-01-30 21:17:32 .R..A       819200               Examples\Disks\disciple.mgt
+2005-01-30 18:52:28 .R..A       819200               Examples\Disks\plusd.mgt
+2015-11-30 13:48:04 ....A         8192               nvram\divide.nv
+2007-07-12 04:45:48 .R..A         8192               nvram\ZX1541.nv
+2015-11-30 13:48:04 ....A       262144               nvram\zx97.nv
+2015-11-30 13:48:04 ....A      1048576               nvram\zxcf.nv
+2015-10-06 14:00:02 ....A        10558               MMC_CARD\js\3dm-fast.p
+2006-02-08 11:28:40 ....A         2392               Examples\Tapes\ZX81\DETECT.p
+2015-10-06 14:00:02 ....A        16168               MMC_CARD\js\ebdt-zxp.p
+2015-10-06 14:00:02 ....A         9110               MMC_CARD\js\fungaloi.p
+2015-10-28 15:58:14 .R..A         1190               MMC_CARD\js\FUNPATCH.P
+2015-10-28 16:01:48 .R..A         1206               MMC_CARD\js\IFPATCH.P
+2015-10-06 14:00:02 ....A         7658               MMC_CARD\js\invasion.p
+2015-10-06 14:00:02 ....A        12894               MMC_CARD\js\mazogzxp.p
+2015-10-28 15:04:12 ....A         8993               MMC_CARD\MENU.p
+2015-10-06 14:00:02 ....A        15851               MMC_CARD\js\minerman.p
+2015-10-06 14:00:02 ....A        14110               MMC_CARD\js\nanakzxp.p
+2015-10-06 14:00:02 ....A         9995               MMC_CARD\js\sds.p
+2015-11-15 07:13:22 ....A         4411               MMC_CARD\js\showscr.p
+2015-10-06 14:00:02 ....A         3425               MMC_CARD\js\tpstzpnd.p
+2015-10-06 14:00:02 ....A        15266               MMC_CARD\js\uwol81.p
+2015-10-06 14:00:02 ....A         8073               MMC_CARD\js\wrofkong.p
+2008-06-05 07:28:42 ....A         8192               ROM\8300.rom
+2008-06-05 07:28:42 ....A         9989               ROM\_mwcfide.rom
+2008-06-05 07:28:42 ....A         8192               ROM\ace.rom
+2008-06-05 07:28:42 ....A         4096               ROM\aszmic.rom
+2008-06-05 07:28:42 ....A        16384               ROM\disciple.rom
+2008-06-05 07:28:42 ....A         4096               ROM\dkchr.rom
+2008-06-05 07:28:42 ....A         2048               ROM\g007hrg.rom
+2008-06-05 07:28:42 ....A         8192               ROM\H4th.rom
+2002-02-09 07:47:00 ....A        16384               ROM\IF2_G10R.rom
+2002-02-09 07:48:34 ....A        16384               ROM\IF2_G12R.rom
+2002-02-09 07:48:12 ....A        16384               ROM\IF2_G13R.rom
+2002-02-09 07:45:10 ....A        16384               ROM\IF2_G22R.rom
+2002-02-09 07:48:02 ....A        16384               ROM\IF2_G24R.rom
+2002-02-09 07:48:54 ....A        16384               ROM\IF2_G9R.rom
+2008-06-05 07:28:42 ....A         8192               ROM\Lambda.rom
+2008-06-05 07:28:42 ....A         2048               ROM\larken81.rom
+2008-06-05 07:28:42 ....A          512               ROM\lmbfnt.rom
+2008-06-05 07:28:42 ....A         2048               ROM\memohrg.rom
+2008-06-05 07:28:42 ....A         8192               ROM\mf128.rom
+2008-06-05 07:28:42 ....A         8192               ROM\mfp3.rom
+2008-06-05 07:28:42 ....A        14648               ROM\mwcfide.rom
+2008-06-05 07:28:42 ....A         8192               ROM\opusd.rom
+2008-06-05 07:28:42 ....A         8192               ROM\PLUS2TST.ROM
+2008-06-05 07:28:42 ....A         8192               ROM\plusd.rom
+2008-06-05 07:28:42 ....A        49152               ROM\ql_jm.rom
+2008-06-05 07:28:42 ....A        49152               ROM\ql_js.rom
+2008-06-05 07:28:42 ....A         8192               ROM\ringo470.rom
+2008-06-05 07:28:42 ....A         8192               ROM\sg81.rom
+2009-04-27 06:46:44 ....A         8192               ROM\shadow_ZX81.ROM
+2008-06-05 07:28:42 ....A        16384               ROM\sp81.rom
+2008-06-05 07:28:42 ....A        32768               ROM\spec128.rom
+2008-06-05 07:28:42 ....A        16384               ROM\Spec48.rom
+2009-09-02 01:01:18 ....A         8192               ROM\specif1_1.rom
+2008-06-05 07:28:42 ....A         8192               ROM\specif1_2.rom
+2008-06-05 07:28:42 ....A        32768               ROM\specp2.rom
+2008-06-05 07:28:42 ....A        65536               ROM\specp3.rom
+2008-06-05 07:28:42 ....A        65536               ROM\Specp3e.rom
+2008-06-05 07:28:42 ....A        65536               ROM\specp3ecf.rom
+2008-06-05 07:28:42 ....A        32768               ROM\SpecSE.rom
+2008-06-05 07:28:44 ....A        16384               ROM\tc2048.rom
+2008-06-05 07:28:44 ....A        10240               ROM\tk85.rom
+2008-06-05 07:28:44 ....A        16384               ROM\tk90.rom
+2008-06-05 07:28:44 ....A        16384               ROM\tk95.rom
+2008-06-05 07:28:44 ....A        16384               ROM\trdos.rom
+2008-06-05 07:28:42 ....A         8192               ROM\Tree4th.rom
+2008-06-05 07:28:44 ....A         8192               ROM\ts1500.rom
+2008-06-05 07:28:44 ....A        24576               ROM\ts2068.rom
+2008-06-05 07:28:44 ....A         2048               ROM\uspeech.rom
+2015-10-06 14:00:02 ....A         8192               ROM\zx80-zxpand.rom
+2015-10-06 14:00:02 ....A         4096               ROM\zx80.rom
+2014-09-30 05:10:34 ....A         8192               ROM\zx81-zxpand.rom
+2015-10-06 14:00:02 ....A         8192               ROM\zx81.rom
+2008-06-05 07:28:44 ....A        16384               ROM\zx8blbs.rom
+2008-06-05 07:28:44 ....A        32768               ROM\zx97.rom
+2008-06-05 07:28:44 ....A        16384               ROM\zxcflba.rom
+2008-06-05 07:28:44 ....A        16384               ROM\zxidelbs.rom
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\2Sights.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\4ThDimen.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Aloha.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Bear.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Breath.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Creator.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\crying.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\CurEight.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Deadlock.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\DLuxLogo.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Finality.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Forever.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\FrgBirds.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\GamOver2.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\GamOver3.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\GFrTGods.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\GhGoblns.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\GoodMorn.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\GreatWav.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\GrEscape.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\HBSpeccy.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\HellClwn.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\HnchBack.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\HotCold.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\HummBird.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Hundra.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\JdgeAnde.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\LOILOSCR.SCR
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Merc4HD.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Mystery.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Nepeban.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\NLSGOver.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\OldMaste.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Phantis.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Piggy.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Proftime.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Real.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\RetStage.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Rizc.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Robocop.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\RRaccoon.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Rusalka.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\SA.SCR
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\SAR4EVER.SCR
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\SpcHarri.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\SpeedBot.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\StarsDie.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Stellar.scr
+2015-11-15 07:13:22 ....A         6912               MMC_CARD\js\SCREENS\STRELKA.SCR
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Strmlord.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Suckseye.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\SureShot.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Unreal.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Vega.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Vera.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Waterfal.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Witches.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Wood.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\Woody.scr
+2015-11-15 07:13:20 ....A         6912               MMC_CARD\js\SCREENS\WTSStill.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Xzema.scr
+2015-11-15 07:13:18 ....A         6912               MMC_CARD\js\SCREENS\Z2DESNF.scr
+2008-06-05 07:28:42 ....A          366               ROM\ace.rom.sym
+2015-10-06 14:00:02 ....A         5654               ROM\zx80.rom.sym
+2015-10-06 14:00:02 ....A        10616               ROM\zx81.rom.sym
+2003-09-25 14:48:42 ....A       122964               Examples\Tapes\ZX81\demo.T81
+2003-09-20 16:42:00 ....A        41812               Examples\Tapes\ZX81\Dungeons of Ymir.T81
+2003-09-20 16:40:00 ....A        11216               Examples\Tapes\ZX81\HR_Chess.T81
+2003-10-03 16:16:32 ....A        13444               Examples\Tapes\ZX81\Maxdemo.T81
+2006-01-05 18:16:28 ....A         5328               Examples\Tapes\ZX81\QS.ASTEROIDS.T81
+2006-01-05 18:21:14 ....A         6068               Examples\Tapes\ZX81\QS.SCRAMBLE.T81
+2006-02-05 06:44:08 ....A         5293               Examples\Tapes\ZX81\rezurrection.T81
+2015-11-16 04:46:10 ....A         8474               Examples\Tapes\Spectrum\DiamondGeezer(Spectra).tap
+1998-11-26 09:20:44 ....A          977               Examples\Dock\ETOOLKIT.TXT
+1998-11-26 09:25:54 ....A          277               Examples\Dock\EXROMDSK.TXT
+2015-11-15 07:13:20 ....A         3238               MMC_CARD\js\SCREENS\Files.txt
+2015-10-06 14:00:00 ....A        14938               gpl.txt
+2006-04-30 04:45:04 ....A           52               nvram\nvram.txt
+1998-11-26 09:20:58 ....A          366               Examples\Dock\OS_64.TXT
+1998-11-26 09:24:54 ....A          217               Examples\Dock\RAMDISK.TXT
+2015-11-30 12:59:10 ....A        26762               Release history.txt
+1998-11-26 11:52:58 ....A         2097               Examples\Dock\SHOTZ.TXT
+1998-11-26 11:53:12 ....A         2294               Examples\Dock\SHOTZEXR.TXT
+1998-11-26 09:22:18 ....A          249               Examples\Dock\SPECEMU.TXT
+1998-11-26 09:23:56 ....A          449               Examples\Dock\TS2048.TXT
+2015-11-15 05:28:22 ....A          842               ZXpand readme.txt
+2015-11-15 15:45:12 ....A        13442               Examples\Tapes\ZX81\Mazogs_Colour.tzx
+2006-12-06 16:15:24 ....A          443               Examples\Tapes\Spectrum\midi.tzx
+2007-01-08 09:15:34 ....A         6594               Examples\Tapes\ZX81\super9.tzx
+2007-01-08 09:15:34 D....            0            0  Examples\ROM_Cartridges\Spectrum
+2007-01-08 09:15:34 D....            0            0  Examples\ROM_Cartridges\ZX81
+2007-01-08 09:15:34 D....            0            0  ROM
+2007-01-08 09:15:34 D....            0            0  Examples\Tapes\Spectrum
+2007-01-08 09:15:34 D....            0            0  MMC_CARD
+2007-01-08 09:15:34 D....            0            0  nvram
+2007-01-08 09:15:34 D....            0            0  Examples\Tapes
+2007-01-08 09:15:34 D....            0            0  Examples\Tapes\ZX81
+2007-01-08 09:15:34 D....            0            0  MMC_CARD\js\SCREENS
+2007-01-08 09:15:34 D....            0            0  MMC_CARD\js
+2007-01-08 09:15:34 D....            0            0  Examples\Dock
+2007-01-08 09:15:34 D....            0            0  Examples\Disks
+2007-01-08 09:15:34 D....            0            0  Examples
+2007-01-08 09:15:34 D....            0            0  Examples\ROM_Cartridges
+------------------- ----- ------------ ------------  ------------------------
+2015-11-30 13:48:04           11463321      1890718  188 files, 14 folders
