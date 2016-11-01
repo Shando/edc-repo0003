@@ -1,0 +1,290 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2006-07-05 10:51:44 ....A       212182      1616101  examples\4-tris\4-tris.asm
+2006-07-02 17:04:46 ....A         3153               examples\tank\atr_data.asm
+2006-07-05 10:51:44 ....A        24820               examples\balls1\balls1.asm
+2006-07-05 10:51:44 ....A        29037               examples\balls2\balls2.asm
+2006-07-05 10:51:44 ....A        12907               examples\bankdemo\bankdemo.asm
+2006-07-05 14:11:46 ....A         5575               doc\historic\intellicart\banksw.asm
+2006-07-05 10:51:44 ....A        57920               examples\banktest\banktest.asm
+2006-07-02 17:04:46 ....A        77714               examples\bankworld\bankworld.asm
+2006-07-02 17:04:46 ....A        53671               examples\4-tris\behappy.asm
+2006-07-05 10:51:44 ....A        25199               examples\bncpix\bncpix.asm
+2006-07-02 17:04:46 ....A       853543               examples\4-tris\chindnce.asm
+2006-07-02 17:04:46 ....A        13132               examples\library\colorsq.asm
+2006-07-02 17:04:46 ....A         7605               examples\library\colorsq_clip.asm
+2006-07-02 17:04:46 ....A         7457               examples\library\colorsq_sv.asm
+2006-07-05 10:51:44 ....A        23197               examples\csumexec\csumexec.asm
+2006-07-02 17:04:46 ....A        23745               examples\library\dec16dec32.asm
+2006-07-02 17:04:46 ....A        14424               examples\library\dec16only.asm
+2006-07-05 10:51:44 ....A         9919               examples\library\dist_fast.asm
+2006-07-05 10:51:44 ....A        16734               examples\library\dividivu.asm
+2006-07-05 10:51:44 ....A        51369               examples\ecscable\ec_mon2.asm
+2006-07-05 10:51:44 ....A        12072               examples\library\fastdivu.asm
+2006-07-02 17:04:46 ....A         4028               examples\library\fillmem.asm
+2006-07-05 14:11:46 ....A        25263               examples\4-tris\font.asm
+2006-07-05 14:11:46 ....A        34045               examples\geese\geese.asm
+2006-07-02 17:04:46 ....A        22456               examples\tank\gfx_data.asm
+2006-07-02 17:04:46 ....A        38601               examples\library\gimini.asm
+2006-07-05 10:51:44 ....A        17432               examples\gram_scroll\gram_scroll.asm
+2006-07-05 10:51:44 ....A        20540               examples\gram_scroll2\gram_scroll2.asm
+2006-07-05 10:51:44 ....A        33115               examples\handdemo\handdemo.asm
+2006-07-05 10:51:44 ....A         5759               examples\hello\hello.asm
+2006-07-02 17:04:46 ....A         5336               examples\library\hex16.asm
+2006-07-02 17:04:46 ....A         6001               examples\library\hexdisp.asm
+2006-07-02 17:04:46 ....A        12480               examples\library\ic_banksw.asm
+2006-07-05 10:51:44 ....A        26286               examples\library\ivoice.asm
+2006-07-02 17:04:46 ....A        19897               examples\kbd_test\kbd_test.asm
+2006-07-05 10:51:44 ....A        47064               examples\life\life.asm
+2006-07-05 10:51:44 ....A        23428               examples\mazedemo\mazedemo.asm
+2006-07-05 10:51:44 ....A        48387               examples\mem_test\mem_test.asm
+2006-07-05 10:51:44 ....A         6621               examples\library\memcmp.asm
+2006-07-05 10:51:44 ....A         6699               examples\library\memcpy.asm
+2006-07-05 10:51:44 ....A         5200               examples\library\memset.asm
+2006-07-05 10:51:44 ....A         6779               examples\library\memunpk.asm
+2006-07-02 17:04:46 ....A         6770               examples\tank\mob_data.asm
+2006-07-02 17:04:46 ....A        46684               examples\tank\mob_ll.asm
+2006-07-05 10:51:44 ....A        41472               examples\mob_test\mob_test.asm
+2006-07-02 17:04:46 ....A       260718               examples\4-tris\nut1mrch.asm
+2006-07-02 17:04:46 ....A        36999               examples\tank\objects.asm
+2006-07-02 17:04:46 ....A        12285               examples\library\print.asm
+2006-07-02 17:04:46 ....A        14885               examples\library\prnum16.asm
+2006-07-02 17:04:46 ....A        16145               examples\library\prnum32.asm
+2006-07-02 17:04:46 ....A         7042               examples\library\rand.asm
+2006-07-02 17:04:46 ....A         3460               examples\library\resrom.asm
+2006-07-05 10:51:44 ....A         5872               examples\library\saynum16.asm
+2006-07-05 10:51:44 ....A        39014               examples\task\scanhand.asm
+2006-07-05 14:11:46 ....A        60739               doc\historic\intellicart\simple.asm
+2006-07-05 10:51:44 ....A        14717               examples\sky\sky.asm
+2006-07-05 10:51:44 ....A         7209               examples\task\sleep.asm
+2006-07-05 10:51:44 ....A         9835               examples\library\sqrt.asm
+2006-07-02 17:04:46 ....A         7187               examples\tank\status.asm
+2006-07-05 10:51:44 ....A        24142               examples\tagalong\tagalong.asm
+2006-07-05 10:51:44 ....A        53751               examples\tagalong2\tagalong2.asm
+2006-07-05 10:51:44 ....A        66461               examples\tagalong2\tagalong2b.asm
+2006-07-02 17:04:46 ....A        20305               examples\tank\tank.asm
+2006-07-05 10:51:44 ....A        18151               examples\task\taskq.asm
+2006-07-05 10:51:44 ....A        20608               examples\task\timer.asm
+2006-07-02 17:04:46 ....A         1342               examples\tank\util.asm
+2006-07-02 17:04:46 ....A        76583               examples\world\world.asm
+2006-07-05 14:11:46 ....A        87070               doc\tech\ivoice.c
+2006-07-05 14:11:46 ....A         8229               examples\4-tris\mkfont16.c
+2006-07-05 14:11:46 ....A        43591               examples\4-tris\pm16.c
+2006-07-02 17:04:46 ....A        12907               examples\tank\profile.c
+2006-07-04 11:56:44 ....A       258048               bin\SDL.dll
+2006-07-06 05:57:22 ....A       683744               bin\as1600.exe
+2006-07-06 05:57:26 ....A        72622               bin\bin2rom.exe
+2006-07-06 05:57:24 ....A        18443               bin\crc32.exe
+2006-07-06 05:57:26 ....A        44026               bin\dasm0256.exe
+2006-07-06 05:57:32 ....A        26962               bin\dasm1600.exe
+2006-07-06 05:57:30 ....A        22580               bin\dasm1600o.exe
+2006-07-06 05:57:30 ....A       126761               bin\dis1600.exe
+2006-07-06 05:57:24 ....A        19771               bin\frombit.exe
+2006-07-06 05:57:24 ....A        19771               bin\frombit_r.exe
+2006-07-06 05:57:24 ....A        19965               bin\fromhex.exe
+2006-07-06 05:57:26 ....A        27476               bin\gms2rom.exe
+2006-07-06 05:57:28 ....A        35525               bin\imvtogif.exe
+2006-07-06 05:57:28 ....A        25628               bin\imvtoppm.exe
+2006-07-06 05:57:14 ....A       506246               bin\jzintv.exe
+2006-07-06 05:57:26 ....A        73163               bin\rom2bin.exe
+2006-07-06 05:57:28 ....A        80968               bin\rom_merge.exe
+2006-07-06 05:57:24 ....A        24133               bin\show_grom.exe
+2006-07-06 05:57:28 ....A        80929               bin\split_rom.exe
+2006-07-06 05:57:24 ....A        17739               bin\tobit.exe
+2006-07-06 05:57:26 ....A        17914               bin\tobit_f.exe
+2006-07-06 05:57:24 ....A        17739               bin\tobit_r.exe
+2006-07-06 05:57:24 ....A        17581               bin\tohex.exe
+2006-07-02 17:04:46 ....A           20               doc\historic\intellicart\.exrc
+2006-07-02 17:04:46 ....A           60               doc\jzintv\.exrc
+2006-07-02 17:04:46 ....A           31               doc\tech\.exrc
+2006-07-02 17:04:46 ....A         6762               doc\tech\fig\block_diagram.fig
+2006-07-02 17:04:46 ....A        17518               doc\tech\fig\cart_bot.fig
+2006-07-02 17:04:46 ....A        17778               doc\tech\fig\cart_top.fig
+2006-07-02 17:04:46 ....A         2229               doc\voice\filtstage.fig
+2006-07-02 17:04:46 ....A         2229               doc\tech\fig\filtstage.fig
+2006-07-02 17:04:46 ....A         8991               doc\tech\fig\intrm_busrq.fig
+2006-07-02 17:04:46 ....A         2641               doc\tech\fig\sp0256_block.fig
+2006-07-02 17:04:46 ....A         8620               doc\tech\fig\sp0256_cpu.fig
+2006-07-02 17:04:46 ....A        14644               doc\tech\fig\state_flow_diag.fig
+2006-07-02 17:04:46 ....A        53773               doc\color\intellivision_color_matrix.gif
+2006-07-02 17:04:46 ....A        64838               doc\tech\images\state_flow_diag.gif
+2006-07-02 17:04:46 ....A         4219               doc\tech\thumb\t_state_flow_diag.gif
+2006-07-02 17:04:46 ....A        13032               doc\jzintv\tn4fig1.gif
+2006-07-05 14:11:46 ....A         6157               doc\tech\ivoice.h
+2006-07-04 11:08:10 ....A           41               doc\color\color.html
+2006-07-02 17:04:46 ....A         6741               doc\tech\ecs.html
+2006-07-02 17:04:46 ....A          377               doc\tech\hardware.html
+2006-07-04 11:08:10 ....A         1069               doc\tech\index.html
+2006-07-02 17:04:46 ....A          631               doc\tech\ivoice.html
+2006-07-02 17:04:46 ....A         4734               doc\tech\keyboard.html
+2006-07-02 17:04:46 ....A        51780               doc\tech\master.html
+2006-07-02 17:04:46 ....A         6446               doc\tech\overview.html
+2006-07-02 17:04:46 ....A        63365               doc\tech\sp0256_instr_set.html
+2006-07-04 11:08:10 ....A          751               doc\tech\state_flow_diag.html
+2006-07-05 14:13:16 ....A        76508               misc\jzintv.jpg
+2006-07-05 08:45:32 ....A         1207               doc\jzintv\retrobox.kbd
+2006-07-02 17:04:46 ....A          585               examples\macro\default.mac
+2006-07-02 17:04:46 ....A         6770               examples\macro\gfx.mac
+2006-07-02 17:04:46 ....A         3475               examples\macro\print.mac
+2006-07-02 17:04:46 ....A         3687               examples\macro\psg.mac
+2006-07-02 17:04:46 ....A         2853               doc\historic\jzintv\README.mac
+2006-07-03 19:32:06 ....A        23806               examples\macro\stic.mac
+2006-07-02 17:04:46 ....A        37690               examples\macro\util.mac
+2006-07-02 17:04:46 ....A        72069               doc\utilities\as1600.pdf
+2006-07-04 11:06:38 ....A        31069               doc\programming\cp1600_ref.pdf
+2006-07-02 17:04:46 ....A        70999               doc\rom_fmt\IntellicartManual.booklet.pdf
+2006-07-02 17:04:46 ....A          641               examples\4-tris\4_tris_easter_egg.png
+2006-07-02 17:04:46 ....A          680               examples\4-tris\4_tris_game_over.png
+2006-07-02 17:04:46 ....A          682               examples\4-tris\4_tris_in_game.png
+2006-07-02 17:04:46 ....A         1334               examples\4-tris\4_tris_sound_test.png
+2006-07-02 17:04:46 ....A          738               examples\4-tris\4_tris_title_screen.png
+2006-07-02 17:04:46 ....A        16802               doc\tech\images\block.png
+2006-07-02 17:04:46 ....A        11352               doc\tech\images\cart_bot.png
+2006-07-02 17:04:46 ....A        11808               doc\tech\images\cart_top.png
+2006-07-02 17:04:46 ....A         1167               doc\color\colors_new.png
+2006-07-02 17:04:46 ....A         1177               doc\tech\images\filtstage.png
+2006-07-02 17:04:46 ....A        17912               doc\tech\images\intrm_busrq.png
+2006-07-02 17:04:46 ....A       178478               doc\tech\images\schematic.png
+2006-07-02 17:04:46 ....A         9936               doc\tech\images\sp0256_block.png
+2006-07-02 17:04:46 ....A        10178               doc\tech\images\sp0256_cpu.png
+2006-07-02 17:04:46 ....A         5288               doc\tech\thumb\t_block.png
+2006-07-02 17:04:46 ....A         2300               doc\tech\thumb\t_cart_bot.png
+2006-07-02 17:04:46 ....A         2293               doc\tech\thumb\t_cart_top.png
+2006-07-02 17:04:46 ....A         1343               doc\tech\thumb\t_intrm_busrq.png
+2006-07-02 17:04:46 ....A         3465               doc\tech\thumb\t_schematic.png
+2006-07-06 05:57:28 ....A         1081               rom\emu_ver.rom
+2006-07-06 05:57:22 ....A         2105               rom\event_diag.rom
+2006-07-06 05:57:32 ....A         1081               rom\joy_diag.rom
+2006-07-04 11:08:10 ....A        26999               doc\utilities\as1600.txt
+2006-07-05 14:11:46 ....A         1498               doc\historic\intellicart\banksw.txt
+2006-07-05 14:11:46 ....A         4450               examples\4-tris\behappy3.txt
+2006-07-05 14:11:46 ....A        52170               examples\4-tris\chindnce.txt
+2006-07-05 14:55:14 ....A        18366               COPYING.txt
+2006-07-05 14:11:46 ....A        18679               examples\4-tris\COPYING.txt
+2006-07-05 14:11:46 ....A        14079               doc\programming\cp1600_summary.txt
+2006-07-04 11:08:10 ....A        25154               doc\historic\jzintv\cp_1610.txt
+2006-07-05 14:11:46 ....A        25161               doc\jzintv\cp_1610.txt
+2006-07-02 17:04:46 ....A           25               doc\utilities\dasm0256.txt
+2006-07-02 17:04:46 ....A         2335               doc\utilities\dasm1600.txt
+2006-07-02 17:04:46 ....A       237326               doc\De_Re_Intellivision\dri_1.txt
+2006-07-02 17:04:46 ....A       114566               doc\De_Re_Intellivision\dri_2.txt
+2006-07-02 17:04:46 ....A        75262               doc\De_Re_Intellivision\dri_6.txt
+2006-07-02 17:04:46 ....A        31282               doc\De_Re_Intellivision\dri_9.txt
+2006-07-05 14:11:46 ....A          538               doc\tech\easter.txt
+2006-07-02 17:04:46 ....A         1975               doc\utilities\frombit.txt
+2006-07-02 17:04:46 ....A         1542               doc\utilities\fromhex.txt
+2006-07-02 17:04:46 ....A          860               doc\utilities\gms2rom.txt
+2006-07-05 14:11:46 ....A        20068               doc\jzintv\good_deal_games_interview.txt
+2006-07-02 17:04:46 ....A         2548               examples\GOOD_ROM_NAMES.txt
+2006-07-02 17:04:46 ....A         9239               doc\programming\graphics_mem.txt
+2006-07-05 14:11:46 ....A        36197               doc\rom_fmt\id_tag.txt
+2006-07-05 14:11:46 ....A        28496               doc\voice\instr_set.txt
+2006-07-02 17:04:46 ....A        19764               doc\programming\intellicart.txt
+2006-07-05 10:46:26 ....A        32729               doc\programming\interrupts.txt
+2006-07-05 14:11:46 ....A       106983               doc\programming\intro_to_cp1600.txt
+2006-07-05 14:11:46 ....A        10623               doc\jzintv\joystick.txt
+2006-07-06 05:52:02 ....A         8097               doc\jzintv\jzintv.txt
+2006-07-05 14:11:46 ....A         8162               doc\jzintv\kbdhackfile.txt
+2006-07-06 05:52:02 ....A          314               doc\jzintv\Known-Issues.txt
+2006-07-04 11:08:10 ....A        12475               doc\utilities\macros.txt
+2006-07-02 17:04:46 ....A        10231               doc\programming\memory_map.txt
+2006-07-05 14:11:46 ....A        30351               examples\4-tris\nut1mrch.txt
+2006-07-04 11:08:10 ....A        11406               doc\programming\psg.txt
+2006-07-04 11:08:10 ....A         2923               doc\README.txt
+2006-07-02 17:04:46 ....A          566               examples\gram_scroll\README.txt
+2006-07-02 17:04:46 ....A          612               examples\gram_scroll2\README.txt
+2006-07-05 10:51:44 ....A         2099               examples\banktest\README.txt
+2006-07-05 10:51:44 ....A         1935               examples\mem_test\README.txt
+2006-07-02 17:04:46 ....A         2458               examples\handdemo\README.txt
+2006-07-02 17:04:46 ....A          142               examples\geese\README.txt
+2006-07-05 10:51:44 ....A        11825               examples\mob_test\README.txt
+2006-07-02 17:04:46 ....A           46               examples\hello\README.txt
+2006-07-02 17:04:46 ....A        22190               examples\ecscable\README.txt
+2006-07-05 14:11:46 ....A          149               rom\README.txt
+2006-07-02 17:04:46 ....A           69               examples\bankdemo\README.txt
+2006-07-05 10:51:44 ....A         3832               examples\life\README.txt
+2006-07-02 17:04:46 ....A         1472               examples\tank\README.txt
+2006-07-02 17:04:46 ....A          885               examples\balls2\README.txt
+2006-07-02 17:04:46 ....A         3570               examples\library\README.txt
+2006-07-02 17:04:46 ....A          248               examples\csumexec\README.txt
+2006-07-02 17:04:46 ....A         2769               examples\tagalong2\README.txt
+2006-07-02 17:04:46 ....A         6914               examples\README.txt
+2006-07-05 14:55:14 ....A         1162               README.txt
+2006-07-02 17:04:46 ....A          594               examples\balls1\README.txt
+2006-07-02 17:04:46 ....A          248               examples\mazedemo\README.txt
+2006-07-02 17:04:46 ....A          405               examples\bncpix\README.txt
+2006-07-02 17:04:46 ....A         7991               examples\task\README.txt
+2006-07-05 14:11:46 ....A         4223               examples\4-tris\README.txt
+2006-07-02 17:04:46 ....A         2494               examples\world\README.txt
+2006-07-02 17:04:46 ....A          723               examples\tagalong\README.txt
+2006-07-05 14:55:14 ....A          375               Release-Notes.txt
+2006-07-05 14:11:46 ....A         6297               doc\historic\intvpc\res_file.txt
+2006-07-02 17:04:46 ....A         8071               doc\utilities\show_grom.txt
+2006-07-05 10:51:44 ....A        13962               examples\4-tris\SOURCE.txt
+2006-07-05 14:11:46 ....A         5955               doc\jzintv\source.txt
+2006-07-06 05:58:16 ....A           43               bin\stderr.txt
+2006-07-04 11:08:10 ....A        24298               doc\programming\stic.txt
+2006-07-05 14:11:46 ....A         1231               doc\jzintv\stic.txt
+2006-07-04 11:08:10 ....A          717               doc\utilities\test_cart.txt
+2006-07-04 11:08:10 ....A          886               doc\utilities\test_hcif.txt
+2006-07-02 17:04:46 ....A         3280               doc\utilities\tobit.txt
+2006-07-02 17:04:46 ....A         1912               doc\utilities\tohex.txt
+2006-07-02 17:04:46 ....A         5789               doc\historic\bsr\voicefaq.txt
+2006-07-02 17:04:46 ....A           32               bin\README
+2006-07-02 17:04:46 ....A         1694               doc\rom_fmt\authors
+2006-07-02 17:04:46 ....A        21683               examples\4-tris\_
+2006-07-02 17:04:46 ....A          820               examples\4-tris\digits
+2006-07-02 17:04:46 ....A         3760               examples\4-tris\facefont
+2006-07-02 17:04:46 ....A          820               examples\4-tris\miscfont
+2006-07-02 17:04:46 ....A          410               examples\4-tris\trisfont
+2016-10-31 14:02:08 ....A            0            0  bin\stdout.txt
+2016-10-31 14:02:08 D....            0            0  bin
+2016-10-31 14:02:08 D....            0            0  examples\library
+2016-10-31 14:02:08 D....            0            0  examples\bncpix
+2016-10-31 14:02:08 D....            0            0  examples\mazedemo
+2016-10-31 14:02:08 D....            0            0  doc\programming
+2016-10-31 14:02:08 D....            0            0  examples\mem_test
+2016-10-31 14:02:08 D....            0            0  examples\csumexec
+2016-10-31 14:02:08 D....            0            0  examples
+2016-10-31 14:02:08 D....            0            0  examples\ecscable
+2016-10-31 14:02:08 D....            0            0  doc\voice
+2016-10-31 14:02:08 D....            0            0  doc\jzintv
+2016-10-31 14:02:08 D....            0            0  examples\macro
+2016-10-31 14:02:08 D....            0            0  doc\historic\jzintv
+2016-10-31 14:02:08 D....            0            0  examples\bankdemo
+2016-10-31 14:02:08 D....            0            0  examples\task
+2016-10-31 14:02:08 D....            0            0  examples\banktest
+2016-10-31 14:02:08 D....            0            0  examples\geese
+2016-10-31 14:02:08 D....            0            0  examples\tagalong2
+2016-10-31 14:02:08 D....            0            0  doc\historic\intvpc
+2016-10-31 14:02:08 D....            0            0  doc\tech\thumb
+2016-10-31 14:02:08 D....            0            0  doc\historic\intellicart
+2016-10-31 14:02:08 D....            0            0  examples\tank
+2016-10-31 14:02:08 D....            0            0  examples\gram_scroll
+2016-10-31 14:02:08 D....            0            0  doc\tech
+2016-10-31 14:02:08 D....            0            0  doc\historic\bsr
+2016-10-31 14:02:08 D....            0            0  doc\rom_fmt
+2016-10-31 14:02:08 D....            0            0  examples\world
+2016-10-31 14:02:08 D....            0            0  examples\4-tris
+2016-10-31 14:02:08 D....            0            0  doc\historic
+2016-10-31 14:02:08 D....            0            0  examples\balls2
+2016-10-31 14:02:08 D....            0            0  doc\De_Re_Intellivision
+2016-10-31 14:02:08 D....            0            0  examples\tagalong
+2016-10-31 14:02:08 D....            0            0  misc
+2016-10-31 14:02:08 D....            0            0  doc\utilities
+2016-10-31 14:02:08 D....            0            0  doc\color
+2016-10-31 14:02:08 D....            0            0  doc\tech\fig
+2016-10-31 14:02:08 D....            0            0  doc
+2016-10-31 14:02:08 D....            0            0  examples\balls1
+2016-10-31 14:02:08 D....            0            0  examples\gram_scroll2
+2016-10-31 14:02:08 D....            0            0  examples\sky
+2016-10-31 14:02:08 D....            0            0  rom
+2016-10-31 14:02:08 D....            0            0  examples\mob_test
+2016-10-31 14:02:08 D....            0            0  examples\life
+2016-10-31 14:02:08 D....            0            0  examples\bankworld
+2016-10-31 14:02:08 D....            0            0  examples\handdemo
+2016-10-31 14:02:08 D....            0            0  examples\hello
+2016-10-31 14:02:08 D....            0            0  examples\kbd_test
+2016-10-31 14:02:08 D....            0            0  doc\tech\images
+------------------- ----- ------------ ------------  ------------------------
+2016-10-31 14:02:08            7369264      1616101  238 files, 48 folders

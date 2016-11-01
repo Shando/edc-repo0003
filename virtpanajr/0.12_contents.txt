@@ -1,0 +1,153 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2001-08-28 21:15:22 ....A         7396       255443  cassette\Pigpen\A_24.cjr
+2001-08-05 00:59:58 ....A          254               cassette\paravBlue\A_24.CJR
+2001-09-15 19:02:28 ....A         5025               cassette\Trapit\A_24.CJR
+2001-08-22 16:32:16 ....A          279               cassette\BillPay\A_24.CJR
+2001-08-15 16:58:46 ....A         4658               cassette\DemonDodge\A_24.CJR
+2001-08-01 16:57:26 ....A          282               cassette\RamRom\A_24.CJR
+2001-08-04 08:34:08 ....A          281               cassette\PhaserCommand\A_24.CJR
+2001-08-04 10:45:18 ....A        16286               cassette\Typing\A_24.cjr
+2001-08-25 22:12:36 ....A          284               cassette\Business\A_24.CJR
+2001-08-04 14:04:16 ....A          197               cassette\Vortex\A_24.CJR
+2001-08-04 16:01:16 ....A        13585               cassette\Geography\A_24.CJR
+2001-08-28 20:38:08 ....A         4658               cassette\MisMansionN\A_24.CJR
+2001-08-14 20:33:56 ....A        10734               cassette\Demo\A_24.CJR
+2001-08-14 20:29:30 ....A          282               cassette\CosmicPatrol\A_24.CJR
+2001-08-01 03:21:22 ....A          222               cassette\Solitaire\A_24.CJR
+2001-08-27 18:59:40 ....A         5406               cassette\JunkmanJoe\A_24.CJR
+2001-09-12 22:18:52 ....A          197               cassette\MarsCars\A_24.CJR
+2001-08-22 13:04:52 ....A          893               cassette\Wordwatch\A_24.CJR
+2001-08-01 23:03:10 ....A         1610               cassette\GalChase\A_24.CJR
+2001-08-02 06:43:20 ....A          197               cassette\CrazyMazy\A_24.CJR
+2001-08-02 06:49:16 ....A           84               cassette\CrazyMazy\B_24.cjr
+2001-09-12 22:18:34 ....A           84               cassette\MarsCars\B_24.CJR
+2001-08-28 21:44:38 ....A         8957               cassette\Pigpen\B_24.cjr
+2001-08-14 20:29:20 ....A         2855               cassette\CosmicPatrol\B_24.CJR
+2001-08-04 14:04:02 ....A           84               cassette\Vortex\B_24.CJR
+2001-08-22 13:04:46 ....A        10925               cassette\Wordwatch\B_24.CJR
+2001-08-14 20:33:44 ....A        19764               cassette\Demo\B_24.CJR
+2001-08-04 16:00:44 ....A        13624               cassette\Geography\B_24.CJR
+2001-08-28 20:47:20 ....A        10017               cassette\MisMansionN\B_24.cjr
+2001-09-15 19:26:26 ....A         8957               cassette\Trapit\B_24.cjr
+2001-08-25 22:12:28 ....A         2855               cassette\Business\B_24.CJR
+2001-08-01 16:57:08 ....A         2855               cassette\RamRom\B_24.CJR
+2001-08-22 16:32:06 ....A         2855               cassette\BillPay\B_24.CJR
+2001-08-29 15:44:46 ....A        10097               cassette\DemonDodge\B_24.cjr
+2001-08-01 03:20:44 ....A         5611               cassette\Solitaire\B_24.CJR
+2001-08-04 08:33:58 ....A         2855               cassette\PhaserCommand\B_24.CJR
+2001-08-27 18:57:26 ....A        10655               cassette\JunkmanJoe\B_24.CJR
+2001-08-29 19:59:36 ....A         8431               cassette\GalChase\B_24.cjr
+2001-08-05 00:59:50 ....A         2143               cassette\paravBlue\B_24.CJR
+2001-08-04 08:33:50 ....A           81               cassette\PhaserCommand\C_24.CJR
+2001-08-25 21:43:24 ....A        13940               cassette\BillPay\C_24.cjr
+2001-08-14 20:33:04 ....A         2564               cassette\Demo\C_24.CJR
+2001-08-04 14:08:04 ....A         5256               cassette\Vortex\C_24.cjr
+2001-08-25 22:12:10 ....A        20673               cassette\Business\C_24.CJR
+2001-08-02 06:42:30 ....A         4289               cassette\CrazyMazy\C_24.CJR
+2001-08-22 13:04:10 ....A        22974               cassette\Wordwatch\C_24.CJR
+2001-08-05 00:59:36 ....A        17905               cassette\paravBlue\C_24.CJR
+2001-08-01 16:56:52 ....A          672               cassette\RamRom\C_24.CJR
+2001-08-14 20:29:12 ....A          136               cassette\CosmicPatrol\C_24.CJR
+2001-09-12 22:18:10 ....A         4543               cassette\MarsCars\C_24.CJR
+2001-08-01 03:19:36 ....A        11398               cassette\Solitaire\C_24.CJR
+2001-08-01 16:56:38 ....A        18268               cassette\RamRom\D_24.CJR
+2001-08-14 20:29:02 ....A        15187               cassette\CosmicPatrol\D_24.CJR
+2001-08-04 14:03:12 ....A         5755               cassette\Vortex\D_24.CJR
+2001-08-02 07:51:48 ....A         9296               cassette\CrazyMazy\D_24.cjr
+2001-08-22 13:03:26 ....A        13580               cassette\Wordwatch\D_24.CJR
+2001-08-14 20:32:52 ....A         2198               cassette\Demo\D_24.CJR
+2001-08-05 00:59:04 ....A          259               cassette\paravBlue\D_24.CJR
+2001-09-12 22:52:54 ....A        12737               cassette\MarsCars\D_24.cjr
+2001-08-04 08:33:42 ....A         5250               cassette\PhaserCommand\D_24.CJR
+2001-08-22 13:02:52 ....A         5649               cassette\Wordwatch\E_24.CJR
+2001-08-05 00:58:54 ....A         2143               cassette\paravBlue\E_24.CJR
+2001-08-14 21:05:44 ....A         2508               cassette\Demo\e_24.cjr
+2001-08-01 16:55:56 ....A         1105               cassette\RamRom\E_24.CJR
+2001-08-05 00:58:40 ....A        16925               cassette\paravBlue\F_24.CJR
+2001-08-01 16:55:38 ....A        12868               cassette\RamRom\F_24.CJR
+2002-03-24 13:12:08 ....A       155648               vpanajr.exe
+2002-03-25 11:01:24 ....A         7725               default.ini
+1999-06-19 13:03:34 ....A           68               vpanajr.ini
+2001-08-04 14:17:40 ....A           39               cassette\Vortex\ALLDONE.txt
+2001-08-28 21:46:30 ....A          109               cassette\Pigpen\ALLDONE.TXT
+2001-08-04 08:44:26 ....A           42               cassette\PhaserCommand\ALLDONE.TXT
+2001-09-15 19:50:02 ....A          266               cassette\Trapit\ALLDONE.TXT
+2001-08-04 13:37:38 ....A           72               cassette\Typing\ALLDONE.txt
+2001-08-29 15:40:56 ....A           81               cassette\DemonDodge\ALLDONE.TXT
+2001-08-22 14:17:50 ....A           89               cassette\paravBlue\ALLDONE.TXT
+2001-08-25 21:51:32 ....A          100               cassette\BillPay\ALLDONE.TXT
+2001-08-28 21:49:36 ....A           87               cassette\MisMansionN\ALLDONE.TXT
+2001-08-25 22:44:14 ....A           87               cassette\Business\ALLDONE.TXT
+2001-08-15 14:11:26 ....A           40               cassette\CosmicPatrol\ALLDONE.TXT
+2001-08-28 21:49:50 ....A           81               cassette\JunkmanJoe\ALLDONE.TXT
+2001-08-22 14:14:44 ....A           76               cassette\Wordwatch\ALLDONE.TXT
+2001-08-15 14:28:10 ....A           54               cassette\Demo\ALLDONE.TXT
+2001-08-30 22:50:46 ....A          105               cassette\Geography\ALLDONE.txt
+2001-08-29 20:04:24 ....A           23               cassette\GalChase\ALLDONE.TXT
+2002-03-22 19:51:48 ....A          331               scripts\Business_Analysis.TXT
+2002-03-22 20:06:06 ....A          423               scripts\Cosmic_Patrol.TXT
+2002-03-22 20:09:14 ....A          390               scripts\Crazy_Mazey.TXT
+2002-03-22 19:32:56 ....A          233               scripts\Demo_Breaking_Block.TXT
+2002-03-22 19:27:58 ....A          227               scripts\Demo_Calendar.TXT
+2002-03-22 19:34:58 ....A          233               scripts\Demo_Catching_Stars.TXT
+2002-03-22 19:19:00 ....A          274               scripts\Demo_Demo.TXT
+2002-03-14 13:29:36 ....A          251               scripts\NotWorking\Demon_Dodge.TXT
+2002-03-12 15:29:50 ....A          250               scripts\NotWorking\Galactic_Chase.TXT
+2002-03-22 19:43:38 ....A          285               scripts\Geography_Explorer_USA.TXT
+2002-03-14 12:15:16 ....A          251               scripts\NotWorking\Joe_Junkman.TXT
+2002-03-23 09:36:10 ....A          384               scripts\NotWorking\Mars_Cars.TXT
+2002-03-12 13:48:24 ....A          261               scripts\NotWorking\Mischievous_Mansion.TXT
+2002-03-22 19:48:00 ....A          331               scripts\Personal_Bill_Paying.TXT
+2002-03-22 20:32:24 ....A          427               scripts\Phaser_Command.TXT
+2002-03-12 13:51:04 ....A          239               scripts\NotWorking\Pig_Pen.TXT
+2002-03-23 09:43:36 ....A          473               scripts\NotWorking\Ramrom_Patrol_Klangon_Capture.TXT
+2002-03-23 04:12:56 ....A          400               scripts\NotWorking\Ramrom_Patrol_Ramrom.TXT
+2002-03-23 09:43:06 ....A          473               scripts\NotWorking\Ramrom_Patrol_Tie_Fighter.TXT
+2002-03-25 11:39:52 ....A          676               readme.txt
+2002-03-25 11:22:18 ....A         6132               docs\readme.txt
+2002-03-22 20:21:08 ....A          353               scripts\Santa_Paravia_Regular.TXT
+2002-03-22 20:29:14 ....A          356               scripts\Santa_Paravia_Tournament.TXT
+2001-06-18 11:15:34 ....A           70               QuickTyp\showcolor.txt
+2002-03-23 09:55:40 ....A          333               scripts\Solitaire.TXT
+2001-04-05 11:02:10 ....A          195               QuickTyp\testqt.txt
+2002-03-25 11:34:14 ....A        10968               docs\TMQ_story.txt
+2002-03-23 13:35:38 ....A          240               scripts\NotWorking\Trapit.TXT
+2002-03-23 10:03:46 ....A          218               scripts\Typing_Teacher.TXT
+2002-03-23 10:05:12 ....A          373               scripts\Vortex.TXT
+2002-03-23 11:24:24 ....A          320               scripts\Wordwatch_Hide_N_Spell.TXT
+2002-03-23 11:24:52 ....A          318               scripts\Wordwatch_Spelling_Bee.TXT
+2002-03-23 11:25:16 ....A          320               scripts\Wordwatch_Spelling_Tutor.TXT
+2002-03-23 11:16:42 ....A          315               scripts\Wordwatch_Word_Race.TXT
+2016-11-01 01:20:46 ....A            0            0  cassette\RamRom\ALLDONE.txt
+2016-11-01 01:20:46 ....A            0            0  cassette\Solitaire\ALLDONE.TXT
+2016-11-01 01:20:47 ....A            0            0  cassette\CrazyMazy\ALLDONE.TXT
+2016-11-01 01:20:47 D....            0            0  cassette
+2016-11-01 01:20:47 D....            0            0  cassette\paravBlue
+2016-11-01 01:20:47 D....            0            0  scripts
+2016-11-01 01:20:47 D....            0            0  cassette\MarsCars
+2016-11-01 01:20:47 D....            0            0  scripts\NotWorking
+2016-11-01 01:20:47 D....            0            0  cassette\JunkmanJoe
+2016-11-01 01:20:47 D....            0            0  cassette\Vortex
+2016-11-01 01:20:47 D....            0            0  cassette\Geography
+2016-11-01 01:20:47 D....            0            0  cassette\Trapit
+2016-11-01 01:20:47 D....            0            0  cassette\GalChase
+2016-11-01 01:20:47 D....            0            0  cassette\Solitaire
+2016-11-01 01:20:47 D....            0            0  cassette\DemonDodge
+2016-11-01 01:20:47 D....            0            0  cassette\Pigpen
+2016-11-01 01:20:47 D....            0            0  cassette\Demo
+2016-11-01 01:20:47 D....            0            0  QuickTyp
+2016-11-01 01:20:47 D....            0            0  rom
+2016-11-01 01:20:47 D....            0            0  cassette\Wordwatch
+2016-11-01 01:20:47 D....            0            0  cassette\CrazyMazy
+2016-11-01 01:20:47 D....            0            0  docs
+2016-11-01 01:20:47 D....            0            0  cassette\CosmicPatrol
+2016-11-01 01:20:47 D....            0            0  cassette\Typing
+2016-11-01 01:20:47 D....            0            0  cassette\RamRom
+2016-11-01 01:20:47 D....            0            0  cassette\MisMansionN
+2016-11-01 01:20:47 D....            0            0  cassette\Business
+2016-11-01 01:20:47 D....            0            0  tools
+2016-11-01 01:20:47 D....            0            0  cassette\BillPay
+2016-11-01 01:20:47 D....            0            0  cassette\PhaserCommand
+------------------- ----- ------------ ------------  ------------------------
+2016-11-01 01:20:47             616708       255443  122 files, 27 folders
