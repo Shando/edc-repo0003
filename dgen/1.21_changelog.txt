@@ -1,0 +1,14 @@
+What's New?
+-----------
+V1.21
++ Switched to Richard Mitton's excellent RAZE Z80 emulator, which fixes
+  the out of time music on some games.
+  Most of you described the problem as 'the music isn't in
+  sync with the game'. Anyway, this is now fixed.
+
++ Sonic1/2/3, Aladdin are all fine now. I imagine there will be others.
+  Eternal Champions's music is okay and you can play the game with Musashi.
+
++ DAC sound plays at the right pitch now (e.g. 'Sega' chord, 'Eswat' speech)
+
+- No shadows yet (e.g. Sonic2 bonus game)
