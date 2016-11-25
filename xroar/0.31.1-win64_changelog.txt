@@ -1,0 +1,18 @@
+Version 0.31, Thu Nov 28 2013
+
+  * New option -timeout quits emulator after number of seconds.
+  * Differentiate between combined and concatenated ROMs.
+  * Ctrl+Shift+I toggles Inverse Text.
+  * New option -invert-text.
+  * Added external character generator support.
+  * Many new keymaps.  -keymap help for a list.
+  * New option -machine-keyboard selects layout for machine.
+  * New machine Dragon 200-E.
+  * Shift+Return presses Caps Lock combo in translated mode.
+  * Ctrl+Shift+H presses "Pause" button.
+  * Shift+Space presses Pause Output combo in translated mode.
+  * Fix CoCo RAM select detection.
+  * More accurate sound timing.
+  * SDL, CoreAudio: render audio directly into callback buffer.
+  * New options -ao-fragments, -ao-fragment-ms, -ao-fragment-frames.
+  * Rename option -ao-buffer-samples to -ao-buffer-frames.

@@ -1,0 +1,47 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2013-05-06 12:46:28 ....A        21432       368517  doc\images\callgraph.png
+2011-03-27 17:23:44 ....A         2786               doc\images\devices.png
+2014-06-06 23:52:42 ....A         7451               doc\images\fileselector.png
+2014-06-06 23:52:48 ....A         4861               doc\images\floppydisks.png
+2014-06-06 23:52:34 ....A         3670               doc\images\harddisks.png
+2011-03-27 17:23:44 ....A         2664               doc\images\joystick.png
+2013-05-06 12:46:28 ....A        28668               doc\images\kcachegrind.png
+2011-03-27 17:23:44 ....A         1657               doc\images\keyboard.png
+2011-03-27 17:23:44 ....A         2203               doc\images\main.png
+2011-03-27 17:23:44 ....A         2266               doc\images\memory.png
+2011-03-27 17:23:44 ....A         1800               doc\images\monitor.png
+2011-03-27 17:23:44 ....A         1315               doc\images\newfloppy.png
+2014-03-07 01:21:24 ....A         2809               doc\images\screen.png
+2012-06-10 18:19:38 ....A         5747               doc\images\sound.png
+2013-11-24 14:19:32 ....A         4328               doc\images\system.png
+2011-03-27 17:23:44 ....A         2138               doc\images\tos.png
+2013-05-06 12:46:28 ....A        62681               doc\images\callgraph.svg
+2014-02-26 23:49:06 ....A       524288               tos.img
+2014-07-30 00:01:10 ....A       108852               doc\compatibility.html
+2014-07-29 23:59:58 ....A       158438               doc\manual.html
+2014-06-25 20:50:58 ....A         7381               doc\authors.txt
+2014-06-25 20:50:58 ....A        35756               doc\emutos.txt
+2010-06-12 00:47:42 ....A        17987               gpl.txt
+2012-01-08 23:14:42 ....A          886               doc\keymap-sample.txt
+2012-01-28 14:40:02 ....A         5759               doc\memory-usage.txt
+2014-07-30 00:44:36 ....A          511               README-DLL.txt
+2014-07-30 00:46:14 ....A         1422               README-first.txt
+2007-07-20 00:25:00 ....A          438               README-SDL.txt
+2012-06-19 23:19:04 ....A         1632               doc\readme.txt
+2014-07-30 00:02:32 ....A        10070               readme.txt
+2014-07-30 00:09:18 ....A        59431               doc\release-notes.txt
+2014-06-25 20:50:58 ....A        11797               doc\todo.txt
+2014-07-30 00:50:30 ....A      2077696      1305980  hatari.exe
+2014-07-30 00:55:34 ....A      4388352               hatari_falcon.exe
+2014-06-18 14:37:24 ....A       157184               capsimg.dll
+2014-03-19 23:28:52 ....A       522176               libgcc_s_sjlj-1.dll
+2014-03-19 23:27:06 ....A       204171               libpng16-16.dll
+2014-03-19 23:27:18 ....A       161733               libreadline6.dll
+2010-03-09 23:42:28 ....A        38593               libtermcap-0.dll
+2009-10-17 21:17:00 ....A       324096               SDL.dll
+2010-03-09 00:11:26 ....A        73216               zlib1.dll
+2016-11-25 19:59:11 D....            0            0  doc\images
+2016-11-25 19:59:11 D....            0            0  doc
+------------------- ----- ------------ ------------  ------------------------
+2016-11-25 19:59:11            9050341      1674497  41 files, 2 folders

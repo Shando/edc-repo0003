@@ -1,0 +1,167 @@
+ Version 1.8.0 (2014-07-30):
+ ---------------------------
+
+Emulation:
+- ST video changes :
+  - Handle 0 byte line by switching freq in STE mode
+  - Use high res when ff8260 is set to 3
+  - Randomly return 0 or 1 when reading unused bits 3,7 and 11 of
+    color registers (except when running from ROM)
+  - Better detection of bottom border removal on a 60 Hz screen
+  - support for color change during only 4 cycles
+  - better bitmap/color alignment for STE med res overscan at 60 Hz
+  - Set default value of nSpec512Threshold to "1" instead of "16"
+  - Update the position of the next VBL when 50Hz and 60Hz lines are mixed
+  - When video address is set into IO region, keep the video pointer on 24 bits
+- Videl changes :
+  - correct masking of the true color palette registers
+- CPU changes :
+  - Fix a case when MFP's interrupt happens during the IACK sequence
+    for HBL/VBL
+  - Many prefetch changes required by some game's protection
+- Sound changes :
+  - Fix STE sound mixing using LMC when mixer=0 (DMA sound only)
+  - Fix some crossbar's sound errors for Falcon
+  - Fix Microwire's decoding of mask/data (based on official LMC1992's doc)
+- FDC changes :
+  - Add configurable RPM speed for each floppy drive, the possibility
+    to turn each drive ON/OFF and the choice between single or double
+    sided drive
+  - Correct timings, behaviour and status register for all commands
+    when a drive is OFF or empty.
+  - Rewrite the index pulse part and all the delays expressed as disk's
+    revolution
+  - Add support for the "Force Int on Index Pulse" command
+  - Rewrite the DMA functions for better accuracy
+  - Add support for IPF/CTR files by using the capsimage library
+  - Add open source support for Pasti STX files, including random/fuzzy bits
+    and variable length bits. Also allow to save writes to a .stx file
+    into an additional .wd1772 file (store 'write sector' and 'write track' data)
+  - Don't force drives A and B at $4c2, keep the values detected by TOS
+  - Many other timing / status register improvements
+- GEMDOS HD emulation:
+  - Fix: clip filenames given through GEMDOS calls to 8+3 length
+    using first '.'
+  - Fix: autostarting programs with GEMDOS-illegal host characters
+    in their names
+- ACSI hard disk changes:
+  - Fixed/improved READ CAPACITY and INQUIRY commands
+  - Unsupported commands are now handled correctly
+  - Now using fseeko() instead of fseek() for supporting large images
+- Other changes:
+  - Don't enable MegaST's real time clock by default, it can cause some
+    crashes in STF/STE mode
+  - Improve ACIA's wait state with E clock
+  - Add support for IKBD commands 0x11 and 0x13 (resume/pause output)
+    and 0x17 (joystick monitoring)
+
+Emulator:
+- SDL GUI:
+  - Update clock speed in the status bar when changing bus speed
+    in Falcon mode
+  - In the floppy dialog, use a checkbox to enable/disable drives A and B
+    and another checkbox to choose single/double sided drive
+  - In the screen dialog, add checkbox for --desktop-st option
+  - Add a 2nd line in the status bar, with infos on FDC, joysticks, monitor
+  - Fix OSX performance issue caused by statusbar and overlay LED
+    doing their own SDL_UpdateRects() calls
+- New command line options:
+  - Options --drive-a and --drive-b to enable/disable drives A and B
+  - Options --drive-a-heads and --drive-b-heads to select single or
+    double sided drives A and B
+  - --slowdown option to increase (multiply) VBL wait times
+- New Native Features commands:
+  - NF_EXIT exits emulator with given exit code
+  - NF_DEBUGGER invokes Hatari debugger from native program
+  - NF_FASTFORWARD sets fast forward on/off
+- Tracing improvements:
+  - Add option for tracing NatFeats calls
+  - Fix: Xbios(255) modified the given argument string
+  - Allow BIOS, XBIOS, GEMDOS, VDI and AES tracing to be enabled without
+    enabling also X/BIOS interception, GEMDOS HD emulation or extended
+    VDI mode
+  - Show PC value for traced Bios/XBios/GemDOS calls
+- Debugger:
+  - Fix: release mouse in all cases where debugger can be invoked
+  - Fix: DSP disassembler didn't in all cases show illegal opcodes correctly
+  - Fix: "symbols" command crash when it was used during TOS bootup
+  - Fix: TOS and cartridge addresses weren't (with all TOS versions)
+    in address order which asserted in profile data post-processor
+  - Fix: "next" command didn't work correctly in "hex" number base
+  - Fix: depending on compiler/linker/assembler, DATA/BSS debug symbol
+    offsets can in programs be either relative to their own, or to TEXT
+    section start.  If former fails, try latter when loading symbols.
+  - New "ym" info subcommand to show YM register values
+  - "quit" command by-passes exit confirmation dialog and takes
+    an optional Hatari exit code value
+  - removed limits on breakpoints and their conditions
+  - when entering debugger, current program's DRI/GST format debug
+    symbols are automatically read from it, if such are available
+  - new --debug-except option to specify which exceptions invoke
+    the debugger, and WinUAE CPU core support for -D toggle option
+  - "next"/"dspnext" commands work like in other debuggers, they
+    skip subroutine/exception calls, for all other instructions
+    they works like "step" command (earlier they always moved to
+    next instruction in memory)
+  - "next" and "dspnext" commands support optional "instruction type"
+    argument, which can be used (for example) to continue emulation
+    until subroutine returns
+  - "history" command takes optional parameter specifying how many
+    instructions of history will be tracked
+  - CPU & DSP profile commands have now subcommand for profiling loops
+  - "CpuInstr" and "DspInstr" variables for count of instructions
+    executed since emulation was last continued from debugger
+  - In addition to "!" condition, also "<" and ">" conditions can store
+    the checked value (when both sides of conditions are identical).
+    With above change, this can be e.g. used to detect and profile
+    what are worst frames in games and why
+  - New "rename" command to rename files.  Useful for scripted
+    worst frame and spinloop profiling
+  - Address space in 'dm' command can be given like in DSP disassembly,
+    "dm x:$100", in addition to earlier "dm x $100" syntax
+  - Fix out of bounds memory access that could result in bad disassembly
+    output when using the external disassembler (only "dc.w" were printed)
+
+Tools:
+- Increased max partition size in atari-hd-image script to 512MB.
+- New hatari_spinloop.py script for post-processing loop profile data.
+  It can tell how many times loops were executed, how many times they
+  spinned at minimum and maximum, at which VBL those happened, and what
+  was the standard deviation of that.
+- gst2ascii supports now both section relative and TEXT section relative
+  DATA/BSS symbol offsets
+- hconsole.Main() takes now Hatari command line options as argument
+- AHCC/GCC/VBCC examples on using (all) Native Features APIs
+- Improved mingw cross-compilation support
+
+Fixed demos :
+- 4-pixel plasma screen by TOS Crew (video, color change during only 4 cycles)
+- HighResMode by Paradox (video, color changes in overscan med res at 60 Hz)
+- It's A Girl 2 by Paradox (video, bottom border removal on a 60 Hz screen)
+- Pacemaker by Paradox (microwire, YM sound was muted)
+- Panic by Paulo Simoes (video, was broken since Hatari 1.7)
+- Shforstv.exe by Paulo Simoes (video, did not work in STE mode)
+- Sommarhack 2011 Invitro by DHS (CPU/MFP, top border not removed)
+- Stax Compilation #65 (conflict with Mega ST's RTC)
+- The Union Demo (cpu, memory access, ikbd, protection)
+- The World Is My Oyster - Convention Report Part by Aura (video, res=3)
+- Tymewarp (cpu, bus error)
+- UMD 8730 by PHF (video, unused bits in STF color registers)
+- IKBD no jitter by Nyh (acia/video, use a VBL of 160240 cycles)
+
+Fixed games :
+- Batman The Movie (cpu, exception stack)
+- Chart Attack Compilation (cpu, prefetch)
+- Darkman (cpu, prefetch)
+- Dragon Flight (cpu, illegal instruction)
+- International 3D Tennis (cpu, prefetch)
+- Leavin' Teramis loader text (video address at $ffe100)
+- Lethal Xcess Beta (cpu, bus error, code running at $ff8800)
+- Lethal Xcess (mfp, top border not removed sometimes)
+- Maze (by Martin Dennett & John Parker)
+- Parasol Stars (cpu, prefetch)
+- Reeking Rubber (by Nature), Falcon game
+- Titan (cpu, prefetch)
+- To Be On Top (cpu, memory access, ikbd, protection)
+- Warp (ikbd, interrupt used for decoding sectors)
+- Xenon 2 (cpu, prefetch) 
