@@ -1,0 +1,15 @@
+0.05: (Core)
+      Blitter speed optimisations
+      RISC core speed optimisations
+      OP speed optimisations (contributed by Gravy)
+      Screen capture support
+      Defender 2000 compatibility fixes (some contributed by Firefox, still broken)
+      Native sound for T2K to avoid high DSP load
+      (Windows)
+      Rewrote keyboard system
+      Rewrote D3D fullscreen switch - should have fixed fullscreen change crash
+      Fixed D3D cards that support StretchRect but need no filter specified
+      Options dialog box for configuring controls and directories
+      Saves options into registry
+      Avoid window shrink with repeated restart or fullscreen switch
+      Made fullscreen mode select a wide ratio mode if desktop is in a widescreen mode
