@@ -1,0 +1,21 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2006-09-13 08:17:00 ....A        25214       405052  c64.ico
+2005-12-28 21:16:06 ....A         2238               commodore.ico
+2012-05-18 21:21:38 ....A        39096               Documents\ccs64_list.htm
+2013-12-29 16:20:52 ....A        84950               Documents\CCS64.html
+2005-08-05 22:12:00 ....A        14484               Documents\ccs64faq.html
+2005-08-05 22:12:00 ....A       344395               Documents\CCS64 Keyboard Layout.pdf
+2006-04-11 20:59:00 ....A         2059               User's Application Data Folder\CCS64\C64.CFG
+2005-08-05 22:12:00 ....A         8192               BASIC.ROM
+2005-08-05 22:12:00 ....A        16384               C1541.ROM
+2005-08-05 22:12:00 ....A         4096               CHAR.ROM
+2005-08-05 22:12:00 ....A         8192               KERNAL.ROM
+2013-12-29 16:19:38 ....A      2421760       751497  CCS64.exe
+2005-08-05 22:12:00 ....A        32256               kailleraclient.dll
+2006-04-05 23:00:00 ....A       247376               krm.dll
+2016-11-25 18:29:51 D....            0            0  User's Application Data Folder\CCS64
+2016-11-25 18:29:51 D....            0            0  User's Application Data Folder
+2016-11-25 18:29:51 D....            0            0  Documents
+------------------- ----- ------------ ------------  ------------------------
+2016-11-25 18:29:51            3250692      1156549  14 files, 3 folders

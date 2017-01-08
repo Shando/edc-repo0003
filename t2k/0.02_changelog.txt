@@ -1,0 +1,1 @@
+0.02: Fixed bug with some video cards

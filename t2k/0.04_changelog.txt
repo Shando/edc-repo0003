@@ -1,0 +1,3 @@
+0.04: Fixed no joystick support
+      Added sound capture and level meter
+      More internal work for porting

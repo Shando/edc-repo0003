@@ -1,0 +1,5 @@
+2005-11-03: version 0.0
+            Version de test du programme en cours de développement.
+            Interact, Hector 1, Hector 2 HR+ fonctionnent (sauf le son).
+            Hector 2 HRX : la fonction FORTH est la seule opérationnelle.
+            Aucune garantie de fonctionnement. Pas d'aide. Pas de support.

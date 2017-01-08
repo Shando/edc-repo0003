@@ -1,0 +1,12 @@
+Chankast v0.2 Alpha 
+ - Improved stability, no more random crashes during gameplay
+ - Fixes to the GFX core for games such as Shenmue 1&2 and Soul Calibur
+ - Better compatibility, for example F355, Dead or Alive 2, Virtual On and many, many more
+ - Optimized code for even more speed 
+ - Option to over- and underclock the SH4 CPU
+ - Completly re-done PAD configuration screen
+ - Added support for PAD plugins
+ - Added an option for cable selection
+ - Integrated Capcom hack into the other versions
+ - Re-worked menu and help file
+ - ... and many more fixes we don't really remember ;)

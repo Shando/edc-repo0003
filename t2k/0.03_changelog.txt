@@ -1,0 +1,6 @@
+0.03: Cleaned up fullscreen code a little
+      Cleared all fullscreen backbuffers at init
+      Added automatic resizing of window if too big for screen
+      Fixed (in theory) mono and 8-bit WAV files
+      Added joystick/joypad support
+      Internal code cleaning in preparation for Mac/Linux ports

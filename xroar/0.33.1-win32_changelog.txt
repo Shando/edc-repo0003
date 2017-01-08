@@ -1,0 +1,29 @@
+Version 0.33, Fri May 22 2015
+
+  * Capped mouse polling frequency (could cause high CPU load).
+  * Slight SAM timing tweak.
+  * Fix builtin machine "coco2bus" to use 6847T1.
+  * Tape rewriting now emits sine waves instead of square waves.
+  * New option -tape-ao-rate _hz_ specifies output samplerate for wav files.
+  * New option -timeout-motoroff _s_ quits _s_ seconds after tape motor off.
+  * New option -snap-motoroff _file_ creates snapshots on tape motor off.
+  * New option -tape-channel-mode _mode_ specifies how to read stereo audio
+    files: mix, left or right.
+  * New option -config-print-all prints even default values.
+  * Fix PIA address decode for Dragon 32, Dragon 64.
+  * Timing fixes in fast tape loading.
+  * Recognise key shortcuts in GTK+ tape/drive control dialogues.
+  * Unverified fix for hang in Windows using SDL audio.
+  * IRQ timing tweaked, passes Stewart Orchard's PAL timing test v1.2.
+  * Special-case autorun instructions for some tape programs.
+  * Building from source now uses GNU build system (autotools).
+  * Fix Windows menu selection event drops.
+  * Warn about unrecognised BASIC ROM CRCs.
+  * MPI support.
+  * Add 'eject' option to disk menus on Windows/Mac OS.
+  * Assume single density JVC/DSK where sectors = 10.  Disable with
+    -no-disk-auto-sd.
+  * Fix hook-based printing on switching machines.
+  * Fix GTK+ tape dialog when attached from command line.
+  * Fix Dragon PAL padding.  Passes Steward Orchard's PAL tests v1.3.
+  * Work around breakpoint re-add bug.

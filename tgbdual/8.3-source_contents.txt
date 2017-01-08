@@ -1,0 +1,45 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-03-07 19:23:42 ....A         2998        71887  win32_ui\icon.ico
+2004-02-10 03:26:22 ....A          522               win32_ui\lib\critical_section.h
+2004-03-16 02:55:52 ....A        88980               win32_ui\dialogs.h
+2004-03-09 01:45:22 ....A         1559               win32_ui\dmy_renderer.h
+2004-03-09 02:27:24 ....A         5948               win32_ui\dx_renderer.h
+2004-03-02 02:33:06 ....A        10892               gb_core\gb.h
+2001-09-15 14:49:12 ....A         2179               gbr_interface\gbr.h
+2001-09-15 14:48:12 ....A         1045               gb_core\gb_types.h
+2001-09-15 14:51:56 ....A         2065               win32_ui\keymap.h
+2004-03-09 02:00:46 ....A         6384               win32_ui\network.h
+2001-09-15 14:48:30 ....A        19290               gb_core\op_cb.h
+2001-09-15 14:48:38 ....A        20183               gb_core\op_normal.h
+2001-09-15 14:48:44 ....A         1718               gb_core\renderer.h
+2004-03-10 23:51:14 ....A        10473               win32_ui\resource.h
+2004-03-09 02:24:22 ....A         1992               win32_ui\setting.h
+2001-09-15 14:52:30 ....A         1784               win32_ui\sock.h
+2004-03-07 19:09:02 ....A         4615               win32_ui\lib\socket_lib.h
+2004-03-07 19:08:04 ....A         2117               win32_ui\lib\thread.h
+1999-06-10 02:08:00 ....A         1238               win32_ui\wavwrite.h
+2004-03-06 06:01:06 ....A        16981               gb_core\apu.cpp
+2001-09-15 14:45:46 ....A         6145               gb_core\cheat.cpp
+2001-09-23 09:28:44 ....A        30462               gb_core\cpu.cpp
+2004-03-09 01:45:50 ....A         2274               win32_ui\dmy_renderer.cpp
+2004-03-09 02:23:36 ....A        32295               win32_ui\dx_renderer.cpp
+2001-09-23 09:56:42 ....A        14478               gb_core\gb.cpp
+2001-09-15 16:17:12 ....A         8978               gbr_interface\gbr.cpp
+2001-09-23 08:58:36 ....A        23189               gb_core\lcd.cpp
+2001-09-15 14:48:24 ....A        18310               gb_core\mbc.cpp
+2004-03-02 02:43:12 ....A         2491               gb_core\rom.cpp
+2004-03-09 02:25:56 ....A        19903               win32_ui\setting.cpp
+2004-02-09 16:31:36 ....A         4585               win32_ui\sock.cpp
+2004-03-07 19:08:38 ....A          912               win32_ui\lib\socket_lib.cpp
+1999-08-06 21:49:00 ....A        10426               win32_ui\wavwrite.cpp
+2004-03-16 03:04:46 ....A        35755               win32_ui\winmain.cpp
+2004-03-16 03:04:46 ....A        31417               win32_ui\resource.rc
+2004-03-09 01:31:52 ....A         7155               TGB_Dual.vcproj
+2004-02-08 17:02:40 ....A          916               TGB_Dual.sln
+2016-10-29 16:49:56 D....            0            0  win32_ui\lib
+2016-10-29 16:49:56 D....            0            0  win32_ui
+2016-10-29 16:49:56 D....            0            0  gb_core
+2016-10-29 16:49:56 D....            0            0  gbr_interface
+------------------- ----- ------------ ------------  ------------------------
+2016-10-29 16:49:56             452654        71887  37 files, 4 folders
