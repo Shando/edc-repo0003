@@ -1,0 +1,32 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2004-10-04 15:38:02 ....A            2        47150  patches\version
+2004-10-21 20:10:08 ....A         1836               cart image howto.txt
+2004-10-21 20:21:32 ....A         6128               disk image howto.txt
+2004-10-22 15:04:04 ....A         8789               faq.txt
+2004-10-22 14:37:04 ....A        53990               readme.txt
+2004-10-22 15:09:42 ....A        14624               steem.new
+2001-07-14 12:16:20 ....A         7128               CART_IMG.PRG
+2004-03-11 14:34:56 ....A        37622               DISK_IMG.PRG
+2004-09-25 17:31:24 ....A          249               patches\Corporation Megademo.stp
+2004-10-21 20:28:58 ....A          284               patches\Cuddly Demo - Spreadpoint.stp
+2004-09-25 17:35:04 ....A          451               patches\Enchanted Land.stp
+2004-10-21 20:30:56 ....A          275               patches\Grand Monster Slam.stp
+2004-09-25 17:31:42 ....A          223               patches\International 3D Tennis.stp
+2004-09-25 17:31:50 ....A          252               patches\Lin Wu's Challenge.stp
+2004-09-25 17:31:56 ....A          454               patches\Live and Let Die.stp
+2004-09-25 17:32:00 ....A          255               patches\Nightdawn.stp
+2004-09-25 17:32:06 ....A          389               patches\Psygnosis Games.stp
+2004-09-25 17:32:30 ....A          204               patches\Rainbow Islands (Automation).stp
+2004-09-25 17:32:48 ....A          366               patches\Rambo III (Automation).stp
+2004-09-25 17:33:40 ....A          364               patches\SoWatt Demo.stp
+2004-09-25 17:33:48 ....A          193               patches\Super Monaco GP (Superior).stp
+2004-09-25 17:33:54 ....A          251               patches\V8 Music System Demo.stp
+2004-09-25 17:34:16 ....A          276               patches\Warzone (D-Bug).stp
+2004-11-04 20:21:30 ....A       342170       327435  steem.chm
+2004-10-22 15:04:04 ....A      1281024       400351  Steem.exe
+2004-03-07 22:11:02 ....A        31776               steemupdate.exe
+1997-02-23 01:05:04 ....A        51200               unzipd32.dll
+2017-01-13 11:23:18 D...A            0            0  patches
+------------------- ----- ------------ ------------  ------------------------
+2017-01-13 11:23:18            1840775       774936  27 files, 1 folders

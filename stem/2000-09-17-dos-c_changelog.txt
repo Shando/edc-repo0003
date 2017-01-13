@@ -1,0 +1,3 @@
+Changes
+  * All the emulators now support .ST2 format cartridges. 
+  * A bug in the Windows version (not sensing left keypad '0') was fixed. 
