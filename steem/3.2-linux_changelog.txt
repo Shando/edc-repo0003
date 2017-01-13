@@ -1,0 +1,8 @@
+﻿v3.2
+Made Steem work again on Windows 95. 
+Vastly improved VSync. 
+Fixed read-only disk image read sector bug (thanks Jorge). 
+Fixed some CPU bugs (Wrath of the Demon, Zoolook) 
+Fixed current time seconds bug. 
+Allowed programs to set the time/date (Sewer doc displayer). 
+XSTEEM: Improved non-English keyboard mappings. 

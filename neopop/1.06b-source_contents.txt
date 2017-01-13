@@ -1,0 +1,66 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-09-04 22:23:22 ....A          318        98125  System_Win32\go.ico
+2002-08-17 20:25:06 ....A          766               System_Win32\icon.ico
+2002-09-04 22:56:02 ....A          318               System_Win32\stop.ico
+2002-08-17 20:25:26 ....A         1253               System_Win32\zLIB\infblock.h
+2002-08-17 20:25:26 ....A          764               System_Win32\zLIB\infcodes.h
+2002-08-17 20:25:26 ....A          505               System_Win32\zLIB\inffast.h
+2002-08-17 20:25:26 ....A         9079               System_Win32\zLIB\inffixed.h
+2002-08-17 20:25:26 ....A         2674               System_Win32\zLIB\inftrees.h
+2002-08-17 20:25:26 ....A         3777               System_Win32\zLIB\infutil.h
+2002-09-10 17:33:56 ....A        10417               System_Win32\resource.h
+2002-08-29 00:14:02 ....A         1720               System_Win32\system_comms.h
+2002-09-10 17:30:24 ....A         3334               System_Win32\system_config.h
+2002-09-05 01:26:32 ....A         3509               System_Win32\Debugger\system_debug.h
+2002-08-27 23:23:56 ....A         2170               System_Win32\system_graphics.h
+2002-08-17 20:25:06 ....A         2148               System_Win32\system_input.h
+2002-08-22 22:34:34 ....A         1641               System_Win32\system_language.h
+2002-09-11 17:46:46 ....A         2339               System_Win32\system_main.h
+2002-08-17 20:25:06 ....A         1735               System_Win32\system_rom.h
+2002-08-17 20:25:06 ....A         1821               System_Win32\system_sound.h
+2002-08-17 20:25:26 ....A        10205               System_Win32\zLIB\unzip.h
+2002-08-17 20:25:26 ....A         8089               System_Win32\zLIB\zconf.h
+2002-08-17 20:25:26 ....A        41801               System_Win32\zLIB\zlib.h
+2002-08-17 20:25:26 ....A         5780               System_Win32\zLIB\zutil.h
+2002-08-17 20:25:26 ....A         1293               System_Win32\zLIB\adler32.c
+2002-08-17 20:25:26 ....A         7136               System_Win32\zLIB\crc32.c
+2002-09-05 00:58:28 ....A         7421               System_Win32\Debugger\debug_breakpoint.c
+2002-09-05 12:23:08 ....A         8740               System_Win32\Debugger\debug_codeview.c
+2002-09-05 11:05:42 ....A         6964               System_Win32\Debugger\debug_memview.c
+2002-09-05 00:58:46 ....A        10166               System_Win32\Debugger\debug_regview.c
+2002-09-07 14:12:38 ....A         9533               System_Win32\Debugger\debug_watch.c
+2002-09-05 00:58:46 ....A        10596               System_Win32\Debugger\debug_z80regview.c
+2002-08-17 20:25:26 ....A        12841               System_Win32\zLIB\infblock.c
+2002-08-17 20:25:26 ....A         7872               System_Win32\zLIB\infcodes.c
+2002-08-17 20:25:26 ....A         5958               System_Win32\zLIB\inffast.c
+2002-08-17 20:25:26 ....A        10022               System_Win32\zLIB\inflate.c
+2002-08-17 20:25:26 ....A        16454               System_Win32\zLIB\inftrees.c
+2002-08-17 20:25:26 ....A         2086               System_Win32\zLIB\infutil.c
+2002-09-10 12:53:02 ....A        21349               System_Win32\system_comms.c
+2002-09-10 17:31:16 ....A        27288               System_Win32\system_config.c
+2002-09-10 12:56:30 ....A        12681               System_Win32\Debugger\system_debug.c
+2002-09-10 17:30:10 ....A        16166               System_Win32\system_graphics.c
+2002-09-11 19:08:10 ....A        11593               System_Win32\system_input.c
+2002-09-09 16:16:12 ....A        10366               System_Win32\system_input_dialog.c
+2002-08-18 12:25:28 ....A         4334               System_Win32\system_io.c
+2002-09-10 17:35:18 ....A        16344               System_Win32\system_language.c
+2002-09-11 17:43:08 ....A        41866               System_Win32\system_main.c
+2002-08-18 12:46:18 ....A         7176               System_Win32\system_rom.c
+2002-09-10 12:57:26 ....A        12428               System_Win32\system_sound.c
+2002-08-17 20:25:26 ....A        35835               System_Win32\zLIB\unzip.c
+2002-08-17 20:25:26 ....A         5457               System_Win32\zLIB\zutil.c
+2002-09-10 17:34:50 ....A        34288               System_Win32\Resource.rc
+2002-09-10 18:41:34 ....A        19072               NeoPop.dsp
+2002-06-06 15:13:42 ....A          537               NeoPop.dsw
+2002-09-10 17:36:20 ....A         5303               System_Win32\docs\changelog.txt
+2002-09-09 15:52:04 ....A         1488               System_Win32\docs\NeoPop DirectSound.txt
+2002-09-10 11:39:08 ....A          913               System_Win32\docs\todo.txt
+2002-09-11 19:08:10 ....A        49664               NeoPop.opt
+2002-09-10 17:34:50 ....A        63092               System_Win32\Resource.aps
+2017-01-12 22:36:25 D....            0            0  System_Win32\zLIB
+2017-01-12 22:36:25 D....            0            0  System_Win32\docs
+2017-01-12 22:36:25 D....            0            0  System_Win32\Debugger
+2017-01-12 22:36:25 D....            0            0  System_Win32
+------------------- ----- ------------ ------------  ------------------------
+2017-01-12 22:36:25             630485        98125  58 files, 4 folders

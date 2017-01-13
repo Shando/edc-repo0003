@@ -1,0 +1,87 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2002-08-18 00:18:36 ....A         1740        73719  Core\bios.h
+2002-08-17 20:24:02 ....A        14093               Core\z80\Codes.h
+2002-08-17 20:24:02 ....A        11624               Core\z80\CodesCB.h
+2002-08-17 20:24:02 ....A         7727               Core\z80\CodesED.h
+2002-08-17 20:24:02 ....A         3353               Core\z80\CodesXCB.h
+2002-08-17 20:24:02 ....A        14983               Core\z80\CodesXX.h
+2002-08-17 20:24:40 ....A         1935               Core\dma.h
+2002-08-17 20:24:40 ....A         1949               Core\flash.h
+2002-08-25 22:10:44 ....A         2669               Core\gfx.h
+2002-09-09 12:43:16 ....A         2845               Core\interrupt.h
+2002-09-07 23:53:12 ....A         2610               Core\mem.h
+2002-09-10 12:56:18 ....A        14371               Core\neopop.h
+2002-08-17 20:24:40 ....A         2452               Core\sound.h
+2002-08-18 00:13:54 ....A         3204               Core\state.h
+2002-08-17 20:24:02 ....A        24075               Core\z80\Tables.h
+2002-08-17 20:24:16 ....A         2473               Core\TLCS-900h\TLCS900h_disassemble.h
+2002-08-21 22:45:12 ....A         4200               Core\TLCS-900h\TLCS900h_interpret.h
+2002-08-17 20:24:16 ....A         2825               Core\TLCS-900h\TLCS900h_interpret_dst.h
+2002-08-17 20:24:16 ....A         5030               Core\TLCS-900h\TLCS900h_interpret_reg.h
+2002-08-17 20:24:16 ....A         3217               Core\TLCS-900h\TLCS900h_interpret_single.h
+2002-08-17 20:24:16 ....A         3738               Core\TLCS-900h\TLCS900h_interpret_src.h
+2002-09-02 19:13:42 ....A         4102               Core\TLCS-900h\TLCS900h_registers.h
+2002-08-17 20:24:16 ....A         2484               Core\TLCS-900h\TLCS900h_registers_mapB.h
+2002-08-17 20:24:16 ....A         6145               Core\TLCS-900h\TLCS900h_registers_mapCodeB0.h
+2002-08-17 20:24:16 ....A         6389               Core\TLCS-900h\TLCS900h_registers_mapCodeB1.h
+2002-08-17 20:24:16 ....A         6388               Core\TLCS-900h\TLCS900h_registers_mapCodeB2.h
+2002-08-17 20:24:16 ....A         6388               Core\TLCS-900h\TLCS900h_registers_mapCodeB3.h
+2002-08-17 20:24:16 ....A         2178               Core\TLCS-900h\TLCS900h_registers_mapCodeL0.h
+2002-08-17 20:24:16 ....A         2223               Core\TLCS-900h\TLCS900h_registers_mapCodeL1.h
+2002-08-17 20:24:16 ....A         2223               Core\TLCS-900h\TLCS900h_registers_mapCodeL2.h
+2002-08-17 20:24:16 ....A         2223               Core\TLCS-900h\TLCS900h_registers_mapCodeL3.h
+2002-08-17 20:24:16 ....A         4377               Core\TLCS-900h\TLCS900h_registers_mapCodeW0.h
+2002-08-17 20:24:16 ....A         4565               Core\TLCS-900h\TLCS900h_registers_mapCodeW1.h
+2002-08-17 20:24:16 ....A         4564               Core\TLCS-900h\TLCS900h_registers_mapCodeW2.h
+2002-08-17 20:24:16 ....A         4565               Core\TLCS-900h\TLCS900h_registers_mapCodeW3.h
+2002-08-17 20:24:16 ....A         2279               Core\TLCS-900h\TLCS900h_registers_mapL.h
+2002-08-17 20:24:16 ....A         2279               Core\TLCS-900h\TLCS900h_registers_mapW.h
+2002-08-17 20:24:02 ....A         8090               Core\z80\Z80.h
+2002-08-17 20:24:40 ....A         2261               Core\Z80_interface.h
+2002-09-10 12:52:42 ....A        15742               Core\bios.c
+2002-09-06 21:46:00 ....A        15218               Core\biosHLE.c
+2002-08-17 20:24:02 ....A        18940               Core\z80\dasm.c
+2002-08-22 21:02:04 ....A         8791               Core\dma.c
+2002-09-07 23:54:38 ....A         9263               Core\flash.c
+2002-08-25 22:10:34 ....A         2889               Core\gfx.c
+2002-08-17 20:24:40 ....A         8378               Core\gfx_scanline_colour.c
+2002-08-17 20:24:40 ....A         8605               Core\gfx_scanline_mono.c
+2002-09-10 11:04:54 ....A        11043               Core\interrupt.c
+2002-09-07 23:57:48 ....A        14985               Core\mem.c
+2002-09-10 11:03:34 ....A         6230               Core\neopop.c
+2002-09-04 21:24:02 ....A         8875               Core\rom.c
+2002-08-18 12:22:50 ....A        14483               Core\sound.c
+2002-08-18 12:23:42 ....A         5764               Core\state.c
+2002-08-22 21:02:04 ....A        14241               Core\TLCS-900h\TLCS900h_disassemble.c
+2002-08-22 21:02:04 ....A         5983               Core\TLCS-900h\TLCS900h_disassemble_dst.c
+2002-09-07 16:24:36 ....A         6328               Core\TLCS-900h\TLCS900h_disassemble_extra.c
+2002-08-22 21:02:04 ....A        13890               Core\TLCS-900h\TLCS900h_disassemble_reg.c
+2002-08-22 21:03:14 ....A        11091               Core\TLCS-900h\TLCS900h_disassemble_src.c
+2002-09-09 11:53:44 ....A        30187               Core\TLCS-900h\TLCS900h_interpret.c
+2002-08-30 17:22:44 ....A         5667               Core\TLCS-900h\TLCS900h_interpret_dst.c
+2002-09-04 21:16:26 ....A        43328               Core\TLCS-900h\TLCS900h_interpret_reg.c
+2002-08-22 21:02:46 ....A         6533               Core\TLCS-900h\TLCS900h_interpret_single.c
+2002-09-04 21:32:50 ....A        25074               Core\TLCS-900h\TLCS900h_interpret_src.c
+2002-08-22 21:02:44 ....A         3990               Core\TLCS-900h\TLCS900h_registers.c
+2002-08-17 20:24:02 ....A        20864               Core\z80\Z80.c
+2002-08-28 00:19:40 ....A         4972               Core\Z80_interface.c
+2002-09-09 12:55:20 ....A         4312               bugs.html
+2002-06-19 11:48:32 ....A           10               Battery\battery.txt
+2002-09-10 11:05:36 ....A         6967               Core\docs\changelog.txt
+2002-05-16 21:28:08 ....A        15206               License.txt
+2002-09-06 21:57:30 ....A        10960               Core\docs\Memory Map.txt
+2002-09-10 18:41:58 ....A         5694               readme.txt
+2002-06-19 11:48:32 ....A           10               Roms\roms.txt
+2002-08-30 12:22:36 ....A         2955               Core\docs\source-readme.txt
+2002-06-19 11:48:32 ....A           10               States\states.txt
+2002-09-10 13:00:40 ....A         1071               Core\docs\todo.txt
+2017-01-12 22:36:52 D....            0            0  States
+2017-01-12 22:36:52 D....            0            0  Roms
+2017-01-12 22:36:53 D....            0            0  Core\z80
+2017-01-12 22:36:53 D....            0            0  Core\TLCS-900h
+2017-01-12 22:36:53 D....            0            0  Core\docs
+2017-01-12 22:36:53 D....            0            0  Core
+2017-01-12 22:36:52 D....            0            0  Battery
+------------------- ----- ------------ ------------  ------------------------
+2017-01-12 22:36:53             593385        73719  76 files, 7 folders
