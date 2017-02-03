@@ -1,0 +1,27 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-09-28 10:14:48 ....A      2224359       338208  cheats.bml
+2013-01-12 22:08:03 ....A           20               Famicom.sys\manifest.bml
+2013-01-12 22:08:32 ....A           58               Game Boy.sys\manifest.bml
+2013-01-12 22:09:07 ....A           65               Game Boy Color.sys\manifest.bml
+2013-01-12 22:09:42 ....A           68               Game Boy Advance.sys\manifest.bml
+2013-01-12 22:10:31 ....A           61               Super Famicom.sys\manifest.bml
+2016-03-16 12:27:41 ....A           59               WonderSwan.sys\manifest.bml
+2016-03-16 12:27:50 ....A           66               WonderSwan Color.sys\manifest.bml
+2016-04-04 07:48:09 ....A         5138               settings.bml
+2012-04-18 11:12:51 ....A          256               Game Boy.sys\boot.rom
+2012-04-18 11:25:05 ....A         2048               Game Boy Color.sys\boot.rom
+2012-04-18 11:00:33 ....A           64               Super Famicom.sys\ipl.rom
+2016-04-04 07:52:10 ....A      4793856      1843161  higan-accuracy.exe
+2016-04-04 07:52:10 ....A      4794368               higan-balanced.exe
+2016-04-04 07:52:11 ....A      4866048               higan-performance.exe
+2016-04-04 07:52:11 ....A       883712               icarus.exe
+2017-02-28 08:33:01 D....            0            0  WonderSwan.sys
+2017-02-28 08:33:01 D....            0            0  WonderSwan Color.sys
+2017-02-28 08:33:01 D....            0            0  Super Famicom.sys
+2017-02-28 08:33:01 D....            0            0  Game Boy.sys
+2017-02-28 08:33:01 D....            0            0  Game Boy Color.sys
+2017-02-28 08:33:01 D....            0            0  Game Boy Advance.sys
+2017-02-28 08:33:01 D....            0            0  Famicom.sys
+------------------- ----- ------------ ------------  ------------------------
+2017-02-28 08:33:01           17570246      2181369  16 files, 7 folders
