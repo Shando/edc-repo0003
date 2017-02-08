@@ -1,0 +1,1273 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2012-03-19 06:09:48 ....A          869       810115  higan\gba\Makefile
+2012-04-28 10:05:26 ....A         1444               higan\processor\Makefile
+2012-04-28 11:19:54 ....A          966               higan\fc\Makefile
+2012-05-07 20:38:03 ....A          934               higan\gb\Makefile
+2013-01-23 00:07:55 ....A         3610               higan\sfc\Makefile
+2013-04-07 02:37:45 ....A         2147               higan\Makefile
+2013-04-10 08:15:55 ....A         1116               ananke\Makefile
+2013-04-12 22:12:39 ....A         3764               higan\target-ethos\Makefile
+2013-07-28 05:09:38 ....A          805               higan\phoenix\Makefile
+2013-07-28 05:09:38 ....A         1514               higan\ruby\Makefile
+2013-07-28 05:09:38 ....A         2602               higan\nall\Makefile
+2009-06-20 13:33:26 ....A         1067               ananke\resource\archive.png
+2009-06-20 13:33:26 ....A          844               ananke\resource\file.png
+2009-06-20 13:33:26 ....A         1176               ananke\resource\folder.png
+2009-06-20 13:33:26 ....A         1176               higan\target-ethos\resource\folder.png
+2009-06-20 13:33:24 ....A         1490               higan\target-ethos\resource\game.png
+2012-08-15 17:26:25 ....A         2256               higan\data\higan.png
+2012-08-15 17:26:02 ....A        25530               higan\data\higan512.png
+2009-06-20 13:33:02 ....A          606               ananke\resource\home.png
+2009-06-20 13:33:02 ....A          606               higan\target-ethos\resource\home.png
+2009-06-20 13:33:26 ....A         1675               higan\target-ethos\resource\unverified.png
+2009-06-20 13:33:02 ....A          652               ananke\resource\up.png
+2009-06-20 13:33:02 ....A          652               higan\target-ethos\resource\up.png
+2012-08-15 17:25:32 ....A        29297               higan\data\higan.ico
+2007-04-17 19:42:08 ....A         5205               higan\sfc\alt\dsp\blargg_common.h
+2010-08-20 04:08:23 ....A          618               higan\sfc\alt\dsp\blargg_config.h
+2007-04-16 23:19:00 ....A         6364               higan\sfc\alt\dsp\blargg_endian.h
+2007-04-17 18:21:22 ....A         3037               higan\sfc\alt\dsp\blargg_source.h
+2013-07-28 05:09:38 ....A          476               higan\libco\libco.h
+2012-05-28 19:01:37 ....A         7751               higan\sfc\alt\dsp\SPC_DSP.h
+2013-07-28 05:09:38 ....A          253               higan\phoenix\reference\action\action.hpp
+2013-07-28 05:09:38 ....A          290               higan\phoenix\cocoa\action\action.hpp
+2013-05-02 11:15:09 ....A          490               higan\target-ethos\settings\advanced.hpp
+2013-07-28 05:09:38 ....A          290               higan\nall\algorithm.hpp
+2013-07-28 05:09:38 ....A         2829               higan\nall\any.hpp
+2013-07-28 05:09:38 ....A          183               higan\phoenix\reference\application.hpp
+2013-07-28 05:09:38 ....A          498               higan\phoenix\cocoa\application.hpp
+2012-03-22 14:16:32 ....A         1434               higan\fc\apu\apu.hpp
+2012-03-22 14:18:14 ....A          521               higan\gb\apu\apu.hpp
+2012-04-16 05:36:37 ....A          283               higan\gba\apu\apu.hpp
+2013-07-28 05:09:38 ....A         2348               higan\nall\beat\archive.hpp
+2012-04-15 02:30:25 ....A         1317               higan\processor\arm\arm.hpp
+2013-05-05 07:38:38 ....A          652               higan\sfc\chip\armdsp\armdsp.hpp
+2013-07-28 05:09:38 ....A         2213               higan\nall\atoi.hpp
+2011-09-27 04:41:44 ....A          556               higan\sfc\system\audio.hpp
+2013-05-02 11:15:34 ....A          467               higan\target-ethos\settings\audio.hpp
+2013-07-28 05:09:38 ....A          545               higan\ruby\audio.hpp
+2013-07-28 05:09:38 ....A          830               higan\nall\stream\auto.hpp
+2013-07-28 05:09:38 ....A         1522               higan\nall\dsp\resample\average.hpp
+2013-05-05 07:13:13 ....A         1300               higan\sfc\alt\ppu-performance\background\background.hpp
+2013-05-05 08:31:28 ....A         1581               higan\sfc\ppu\background\background.hpp
+2013-01-23 00:17:07 ....A           48               higan\sfc\base\base.hpp
+2013-07-28 05:09:38 ....A         1972               higan\nall\beat\base.hpp
+2013-07-28 05:09:38 ....A         2717               higan\nall\string\char\base.hpp
+2013-07-28 05:09:38 ....A         7112               higan\nall\string\base.hpp
+2013-07-28 05:09:38 ....A         2496               higan\nall\base64.hpp
+2013-07-28 05:09:38 ....A         4485               higan\ruby\video\opengl\bind.hpp
+2013-07-28 05:09:38 ....A         2045               higan\nall\bit.hpp
+2013-07-28 05:09:38 ....A         1135               higan\nall\mosaic\bitstream.hpp
+2013-07-28 05:09:38 ....A         3894               higan\nall\string\markup\bml.hpp
+2013-07-28 05:09:38 ....A         3341               higan\nall\bmp.hpp
+2013-05-05 06:36:55 ....A         1061               higan\fc\cartridge\board\board.hpp
+2013-07-28 05:09:38 ....A          209               higan\phoenix\cocoa\browser-window.hpp
+2013-07-28 05:09:38 ....A          209               higan\phoenix\reference\browser-window.hpp
+2013-05-05 05:46:41 ....A          734               higan\target-ethos\general\browser.hpp
+2013-01-22 23:42:47 ....A          475               ananke\database\bsx-satellaview.hpp
+2013-05-05 07:40:05 ....A          801               higan\sfc\chip\bsx\bsx.hpp
+2013-07-28 05:09:38 ....A         1046               higan\nall\dsp\buffer.hpp
+2012-07-08 00:50:25 ....A          301               higan\sfc\chip\sa1\bus\bus.hpp
+2012-07-09 05:53:54 ....A          231               higan\sfc\chip\superfx\bus\bus.hpp
+2013-07-28 05:09:38 ....A          278               higan\phoenix\reference\widget\button.hpp
+2013-07-28 05:09:38 ....A          530               higan\phoenix\cocoa\widget\button.hpp
+2013-05-05 07:14:50 ....A          299               higan\sfc\alt\ppu-performance\cache\cache.hpp
+2013-07-28 05:09:38 ....A          268               higan\phoenix\reference\widget\canvas.hpp
+2013-07-28 05:09:38 ....A         1024               higan\phoenix\cocoa\widget\canvas.hpp
+2013-01-21 06:19:16 ....A          834               higan\fc\cartridge\cartridge.hpp
+2013-01-22 23:52:43 ....A         2952               higan\sfc\cartridge\cartridge.hpp
+2013-05-05 09:00:10 ....A         1279               higan\gb\cartridge\cartridge.hpp
+2013-05-05 09:15:58 ....A          789               higan\gba\cartridge\cartridge.hpp
+2013-07-28 05:09:38 ....A         5093               higan\nall\string\cast.hpp
+2013-07-28 05:09:38 ....A          386               higan\nall\string\char.hpp
+2013-05-02 11:20:48 ....A          404               higan\target-ethos\tools\cheat-database.hpp
+2013-05-05 05:50:01 ....A          763               higan\target-ethos\tools\cheat-editor.hpp
+2013-05-05 06:50:18 ....A          270               higan\fc\cheat\cheat.hpp
+2013-05-05 07:35:47 ....A          443               higan\sfc\cheat\cheat.hpp
+2013-05-05 09:01:33 ....A          270               higan\gb\cheat\cheat.hpp
+2013-07-28 05:09:38 ....A          312               higan\phoenix\reference\widget\check-button.hpp
+2013-07-28 05:09:38 ....A          599               higan\phoenix\cocoa\widget\check-button.hpp
+2013-07-28 05:09:38 ....A          294               higan\phoenix\reference\action\check-item.hpp
+2013-07-28 05:09:38 ....A          493               higan\phoenix\cocoa\action\check-item.hpp
+2013-01-21 07:09:43 ....A          931               higan\sfc\chip\chip.hpp
+2013-05-05 06:43:46 ....A           85               higan\fc\cartridge\chip\chip.hpp
+2013-07-28 05:09:38 ....A          406               higan\phoenix\reference\widget\combo-button.hpp
+2013-07-28 05:09:38 ....A          698               higan\phoenix\cocoa\widget\combo-button.hpp
+2013-07-28 05:09:38 ....A         2044               higan\nall\string\char\compare.hpp
+2013-07-28 05:09:38 ....A         3642               higan\nall\compositor.hpp
+2011-05-06 14:12:23 ....A          597               higan\sfc\config\config.hpp
+2013-07-28 05:09:38 ....A         2869               higan\nall\config.hpp
+2013-05-02 11:04:23 ....A         1115               higan\target-ethos\configuration\configuration.hpp
+2013-07-28 05:09:38 ....A         6295               higan\nall\mosaic\context.hpp
+2012-03-22 14:22:33 ....A         1097               higan\sfc\controller\controller.hpp
+2013-07-28 05:09:38 ....A         1245               higan\nall\string\char\convert.hpp
+2013-07-28 05:09:38 ....A         2069               higan\nall\string\allocator\copy-on-write.hpp
+2013-05-05 08:04:35 ....A          143               higan\sfc\chip\superfx\core\core.hpp
+2013-07-28 05:09:38 ....A         2522               higan\nall\string\core.hpp
+2013-07-28 05:09:38 ....A         3543               higan\nall\dsp\core.hpp
+2013-07-28 05:09:38 ....A        16790               higan\phoenix\core\core.hpp
+2013-07-28 05:09:38 ....A          849               higan\nall\dsp\resample\cosine.hpp
+2010-08-09 05:06:25 ....A         3314               higan\sfc\ppu\counter\counter-inline.hpp
+2010-08-09 05:06:02 ....A         1478               higan\sfc\ppu\counter\counter.hpp
+2012-04-28 09:00:17 ....A         2678               higan\sfc\cpu\cpu.hpp
+2012-04-28 11:54:30 ....A         2954               higan\sfc\alt\cpu\cpu.hpp
+2012-04-28 16:20:07 ....A         2137               higan\gb\cpu\cpu.hpp
+2013-05-05 06:29:05 ....A         1076               higan\fc\cpu\cpu.hpp
+2013-05-05 09:18:14 ....A          983               higan\gba\cpu\cpu.hpp
+2013-07-28 05:09:38 ....A          527               higan\nall\crc16.hpp
+2013-07-28 05:09:38 ....A         3643               higan\nall\crc32.hpp
+2013-07-28 05:09:38 ....A          989               higan\nall\dsp\resample\cubic.hpp
+2013-07-28 05:09:38 ....A          610               higan\nall\string\datetime.hpp
+2013-05-05 07:58:10 ....A         1833               higan\sfc\chip\sdd1\decomp.hpp
+2013-07-28 05:09:38 ....A         6030               higan\nall\beat\delta.hpp
+2013-07-28 05:09:38 ....A           98               higan\phoenix\cocoa\desktop.hpp
+2013-07-28 05:09:38 ....A           98               higan\phoenix\reference\desktop.hpp
+2013-07-28 05:09:38 ....A         5927               higan\nall\windows\detour.hpp
+2013-05-02 11:06:33 ....A          402               higan\target-ethos\general\dip-switches.hpp
+2013-07-28 05:09:38 ....A         7174               higan\nall\directory.hpp
+2013-05-05 08:05:17 ....A          187               higan\sfc\chip\superfx\disasm\disasm.hpp
+2012-03-23 15:01:00 ....A          128               higan\processor\arm\disassembler.hpp
+2013-05-05 06:14:09 ....A          802               higan\processor\r65816\disassembler.hpp
+2013-07-28 05:09:38 ....A         3168               higan\nall\dl.hpp
+2009-06-19 08:55:27 ....A          283               higan\sfc\chip\sa1\dma\dma.hpp
+2010-08-20 04:11:03 ....A         1384               higan\sfc\cpu\dma\dma.hpp
+2011-10-11 21:01:15 ....A          478               higan\fc\apu\dmc.hpp
+2013-07-28 05:09:38 ....A          221               higan\nall\string\markup\document.hpp
+2012-05-28 19:01:47 ....A          491               higan\sfc\alt\dsp\dsp.hpp
+2013-05-05 08:21:06 ....A         4397               higan\sfc\dsp\dsp.hpp
+2013-07-28 05:09:38 ....A          208               higan\nall\dsp.hpp
+2013-07-28 05:09:27 ....A         3952               higan\emulator\emulator.hpp
+2013-07-28 05:09:38 ....A         1701               higan\nall\endian.hpp
+2011-10-11 21:19:02 ....A          257               higan\fc\apu\envelope.hpp
+2013-05-05 07:40:54 ....A         1459               higan\sfc\chip\epsonrtc\epsonrtc.hpp
+2013-05-05 05:45:59 ....A         1321               higan\target-ethos\ethos.hpp
+2013-07-28 05:09:38 ....A         5792               higan\nall\string\eval\evaluator.hpp
+2012-11-04 06:12:17 ....A          794               higan\sfc\chip\event\event.hpp
+2012-12-09 10:12:28 ....A         4249               ananke\heuristics\famicom.hpp
+2013-05-05 06:26:13 ....A         1292               higan\fc\fc.hpp
+2013-07-28 05:09:38 ....A          566               higan\nall\string\file.hpp
+2013-07-28 05:09:38 ....A         1034               higan\nall\stream\file.hpp
+2013-07-28 05:09:38 ....A         9622               higan\nall\file.hpp
+2013-07-28 05:09:38 ....A         4940               higan\nall\filemap.hpp
+2013-07-28 05:09:38 ....A         1608               higan\nall\string\filename.hpp
+2013-07-28 05:09:38 ....A          589               higan\phoenix\core\layout\fixed-layout.hpp
+2013-07-28 05:09:38 ....A          247               higan\phoenix\reference\font.hpp
+2013-07-28 05:09:38 ....A          343               higan\phoenix\cocoa\font.hpp
+2013-07-28 05:09:38 ....A         1587               higan\nall\string\format.hpp
+2013-07-28 05:09:38 ....A         2278               higan\nall\function.hpp
+2012-12-09 10:10:50 ....A         2171               ananke\heuristics\game-boy-advance.hpp
+2012-12-09 10:13:01 ....A         4413               ananke\heuristics\game-boy.hpp
+2012-08-06 21:05:51 ....A          220               higan\sfc\controller\gamepad\gamepad.hpp
+2013-05-05 08:54:22 ....A         1251               higan\gb\gb.hpp
+2013-05-05 09:10:09 ....A         1312               higan\gba\gba.hpp
+2012-05-06 22:39:28 ....A           79               higan\target-ethos\general\general.hpp
+2013-07-28 05:09:38 ....A         2278               higan\nall\group.hpp
+2012-04-28 08:47:41 ....A         2809               higan\processor\gsu\gsu.hpp
+2013-07-28 05:09:38 ....A          533               higan\nall\xorg\guard.hpp
+2013-07-28 05:09:38 ....A          775               higan\nall\windows\guid.hpp
+2013-07-28 05:09:38 ....A          614               higan\nall\stream\gzip.hpp
+2013-07-28 05:09:38 ....A         1708               higan\nall\gzip.hpp
+2013-07-28 05:09:38 ....A         3007               higan\nall\hashset.hpp
+2013-07-28 05:09:38 ....A           94               higan\phoenix\cocoa\header.hpp
+2013-07-28 05:09:38 ....A          196               higan\phoenix\gtk\header.hpp
+2013-07-28 05:09:38 ....A          336               higan\phoenix\windows\header.hpp
+2013-07-28 05:09:38 ....A          494               higan\phoenix\qt\header.hpp
+2013-07-28 05:09:38 ....A         1506               higan\nall\dsp\resample\hermite.hpp
+2013-07-28 05:09:38 ....A          351               higan\phoenix\reference\widget\hex-edit.hpp
+2013-07-28 05:09:38 ....A          520               higan\phoenix\cocoa\widget\hex-edit.hpp
+2012-03-23 12:50:39 ....A          548               higan\processor\hg51b\hg51b.hpp
+2012-11-06 03:57:56 ....A          766               higan\sfc\chip\hitachidsp\hitachidsp.hpp
+2013-07-28 05:09:38 ....A          756               higan\phoenix\core\layout\horizontal-layout.hpp
+2013-07-28 05:09:38 ....A          392               higan\phoenix\reference\widget\horizontal-scroller.hpp
+2013-07-28 05:09:38 ....A          705               higan\phoenix\cocoa\widget\horizontal-scroller.hpp
+2013-07-28 05:09:38 ....A          374               higan\phoenix\reference\widget\horizontal-slider.hpp
+2013-07-28 05:09:38 ....A          696               higan\phoenix\cocoa\widget\horizontal-slider.hpp
+2013-05-02 11:15:59 ....A          403               higan\target-ethos\settings\hotkey.hpp
+2012-10-29 22:59:03 ....A          326               higan\sfc\chip\hsu1\hsu1.hpp
+2013-07-28 05:09:38 ....A         1229               higan\nall\stream\http.hpp
+2013-07-28 05:09:38 ....A         4454               higan\nall\http.hpp
+2011-12-25 23:07:00 ....A          262               higan\gb\cartridge\huc1\huc1.hpp
+2011-12-25 23:09:18 ....A          224               higan\gb\cartridge\huc3\huc3.hpp
+2013-05-05 07:46:05 ....A          490               higan\sfc\chip\icd2\icd2.hpp
+2013-07-28 05:09:38 ....A        15363               higan\nall\image.hpp
+2013-07-28 05:09:38 ....A         8100               higan\nall\inflate.hpp
+2013-05-02 11:16:41 ....A          969               higan\target-ethos\settings\input.hpp
+2013-05-05 05:48:21 ....A         1419               higan\target-ethos\input\input.hpp
+2013-05-05 06:53:16 ....A          359               higan\fc\input\input.hpp
+2013-05-05 08:47:41 ....A          777               higan\sfc\system\input.hpp
+2013-07-28 05:09:38 ....A          663               higan\ruby\input.hpp
+2013-07-28 05:09:38 ....A        12454               higan\nall\input.hpp
+2012-03-29 16:56:10 ....A          725               higan\processor\arm\instructions-arm.hpp
+2012-03-27 23:46:50 ....A          784               higan\processor\arm\instructions-thumb.hpp
+2013-05-02 10:56:49 ....A          883               higan\fc\interface\interface.hpp
+2013-05-02 10:58:28 ....A         1980               higan\sfc\interface\interface.hpp
+2013-05-02 11:01:00 ....A         1145               higan\gb\interface\interface.hpp
+2013-05-02 11:02:13 ....A          819               higan\gba\interface\interface.hpp
+2013-05-05 05:55:37 ....A         3855               higan\emulator\interface.hpp
+2013-05-05 05:56:01 ....A          659               higan\target-ethos\interface\interface.hpp
+2013-05-05 07:44:40 ....A          656               higan\sfc\chip\icd2\interface\interface.hpp
+2013-07-28 05:09:38 ....A         1708               higan\nall\interpolation.hpp
+2013-07-28 05:09:38 ....A         2328               higan\nall\intrinsics.hpp
+2013-07-28 05:09:38 ....A         1726               higan\nall\invoke.hpp
+2013-07-28 05:09:38 ....A         2441               higan\nall\ips.hpp
+2013-07-28 05:09:38 ....A          235               higan\phoenix\reference\action\item.hpp
+2013-07-28 05:09:38 ....A          399               higan\phoenix\cocoa\action\item.hpp
+2012-05-03 21:47:18 ....A          380               higan\sfc\controller\justifier\justifier.hpp
+2013-07-28 05:09:38 ....A          129               higan\phoenix\cocoa\keyboard.hpp
+2013-07-28 05:09:38 ....A          129               higan\phoenix\reference\keyboard.hpp
+2013-07-28 05:09:38 ....A         2270               higan\phoenix\core\keyboard.hpp
+2013-07-28 05:09:38 ....A          207               higan\phoenix\reference\widget\label.hpp
+2013-07-28 05:09:38 ....A          422               higan\phoenix\cocoa\widget\label.hpp
+2013-07-28 05:09:38 ....A         3206               higan\nall\windows\launcher.hpp
+2013-07-28 05:09:38 ....A          145               higan\phoenix\cocoa\widget\layout.hpp
+2013-07-28 05:09:38 ....A          145               higan\phoenix\reference\widget\layout.hpp
+2013-07-28 05:09:38 ....A          286               higan\phoenix\reference\widget\line-edit.hpp
+2013-07-28 05:09:38 ....A          580               higan\phoenix\cocoa\widget\line-edit.hpp
+2013-07-28 05:09:38 ....A          802               higan\nall\dsp\resample\linear.hpp
+2013-07-28 05:09:38 ....A         4070               higan\nall\beat\linear.hpp
+2013-07-28 05:09:38 ....A          739               higan\phoenix\reference\widget\list-view.hpp
+2013-07-28 05:09:38 ....A         2300               higan\phoenix\cocoa\widget\list-view.hpp
+2013-07-28 05:09:38 ....A         1841               higan\nall\string\list.hpp
+2013-07-28 05:09:38 ....A         2152               higan\nall\string\eval\literal.hpp
+2012-04-28 16:20:27 ....A         4068               higan\processor\lr35902\lr35902.hpp
+2013-07-28 05:09:38 ....A         5363               higan\ruby\video\opengl\main.hpp
+2013-07-28 05:09:38 ....A         2131               higan\nall\map.hpp
+2011-09-04 17:09:44 ....A          506               higan\gb\apu\master\master.hpp
+2013-07-28 05:09:38 ....A         1188               higan\nall\string\char\match.hpp
+2013-07-28 05:09:38 ....A          814               higan\nall\matrix.hpp
+2011-01-08 02:00:30 ....A          121               higan\gb\cartridge\mbc0\mbc0.hpp
+2011-12-25 23:16:33 ....A          262               higan\gb\cartridge\mbc1\mbc1.hpp
+2011-12-25 23:18:13 ....A          190               higan\gb\cartridge\mbc2\mbc2.hpp
+2011-12-25 23:20:31 ....A          546               higan\gb\cartridge\mbc3\mbc3.hpp
+2011-12-25 23:22:15 ....A          240               higan\gb\cartridge\mbc5\mbc5.hpp
+2013-05-05 08:29:19 ....A         2472               higan\sfc\memory\memory-inline.hpp
+2011-01-16 13:33:43 ....A          358               higan\sfc\chip\superfx\memory\memory.hpp
+2011-09-05 14:44:24 ....A           99               higan\fc\memory\memory.hpp
+2011-11-16 11:20:07 ....A          422               higan\processor\spc700\memory.hpp
+2012-02-06 01:42:45 ....A          276               higan\sfc\alt\ppu-balanced\memory\memory.hpp
+2012-04-28 09:18:41 ....A         1934               higan\processor\r65816\memory.hpp
+2012-04-28 09:32:41 ....A          171               higan\sfc\cpu\memory\memory.hpp
+2012-07-15 07:44:49 ....A          561               higan\sfc\chip\sa1\memory\memory.hpp
+2013-05-05 08:30:28 ....A         1752               higan\sfc\memory\memory.hpp
+2013-05-05 09:04:44 ....A          603               higan\gb\memory\memory.hpp
+2013-05-05 09:17:12 ....A          846               higan\gba\cartridge\memory.hpp
+2013-05-05 09:24:30 ....A          692               higan\gba\memory\memory.hpp
+2013-07-28 05:09:38 ....A         1240               higan\nall\stream\memory.hpp
+2013-07-28 05:09:38 ....A          297               higan\phoenix\reference\action\menu.hpp
+2013-07-28 05:09:38 ....A          486               higan\phoenix\cocoa\action\menu.hpp
+2013-07-28 05:09:38 ....A          338               higan\phoenix\cocoa\message-window.hpp
+2013-07-28 05:09:38 ....A          338               higan\phoenix\reference\message-window.hpp
+2013-07-28 05:09:38 ....A         2813               higan\nall\beat\metadata.hpp
+2013-07-28 05:09:38 ....A         1104               higan\nall\stream\mmap.hpp
+2009-06-10 10:09:39 ....A           76               higan\sfc\chip\superfx\mmio\mmio.hpp
+2011-01-14 20:30:47 ....A         4685               higan\sfc\chip\sa1\mmio\mmio.hpp
+2011-01-17 13:15:27 ....A         1546               higan\sfc\alt\ppu-performance\mmio\mmio.hpp
+2011-01-21 13:30:24 ....A         4939               higan\sfc\alt\ppu-balanced\mmio\mmio.hpp
+2012-02-08 03:13:01 ....A         1848               higan\sfc\cpu\mmio\mmio.hpp
+2012-03-23 12:41:46 ....A          520               higan\sfc\chip\hitachidsp\mmio.hpp
+2013-05-05 07:45:11 ....A          639               higan\sfc\chip\icd2\mmio\mmio.hpp
+2013-05-05 08:32:59 ....A         3732               higan\sfc\ppu\mmio\mmio.hpp
+2011-08-12 22:43:29 ....A          219               higan\gb\cartridge\mmm01\mmm01.hpp
+2013-05-05 08:23:36 ....A          550               higan\sfc\dsp\moduloarray.hpp
+2013-07-28 05:09:38 ....A          228               higan\nall\mosaic.hpp
+2012-08-06 21:30:48 ....A          392               higan\sfc\controller\mouse\mouse.hpp
+2013-07-28 05:09:38 ....A          118               higan\phoenix\cocoa\mouse.hpp
+2013-07-28 05:09:38 ....A          118               higan\phoenix\reference\mouse.hpp
+2012-05-28 18:57:47 ....A          826               higan\sfc\chip\msu1\msu1.hpp
+2013-07-28 05:09:38 ....A         7055               higan\nall\beat\multi.hpp
+2011-06-24 08:11:18 ....A          166               higan\sfc\controller\multitap\multitap.hpp
+2013-07-28 05:09:38 ....A         1531               higan\nall\nall.hpp
+2013-07-28 05:09:38 ....A          800               higan\nall\dsp\resample\nearest.hpp
+2012-11-06 03:54:04 ....A          426               higan\sfc\chip\necdsp\necdsp.hpp
+2013-07-28 05:09:38 ....A         1119               higan\nall\string\eval\node.hpp
+2013-07-28 05:09:38 ....A         4171               higan\nall\string\markup\node.hpp
+2011-10-11 21:00:08 ....A          257               higan\fc\apu\noise.hpp
+2012-04-05 04:35:58 ....A          467               higan\gb\apu\noise\noise.hpp
+2012-07-08 00:59:32 ....A          225               higan\sfc\chip\nss\nss.hpp
+2012-07-09 06:35:35 ....A          406               higan\sfc\chip\obc1\obc1.hpp
+2013-07-28 05:09:38 ....A          207               higan\phoenix\cocoa\object.hpp
+2013-07-28 05:09:38 ....A          208               higan\phoenix\reference\object.hpp
+2013-07-28 05:09:38 ....A         1924               higan\ruby\video\opengl\opengl.hpp
+2013-07-28 05:09:38 ....A         4823               higan\nall\mosaic\parser.hpp
+2013-07-28 05:09:38 ....A         7359               higan\nall\string\eval\parser.hpp
+2013-07-28 05:09:38 ....A         5857               higan\nall\beat\patch.hpp
+2013-07-28 05:09:38 ....A           74               higan\phoenix\phoenix.hpp
+2013-07-28 05:09:38 ....A         1165               higan\phoenix\cocoa\platform.hpp
+2013-07-28 05:09:38 ....A         1165               higan\phoenix\reference\platform.hpp
+2013-07-28 05:09:38 ....A         1993               higan\nall\platform.hpp
+2013-07-28 05:09:38 ....A         2688               higan\nall\string\platform.hpp
+2013-07-28 05:09:38 ....A        11803               higan\phoenix\windows\platform.hpp
+2013-07-28 05:09:38 ....A        12616               higan\phoenix\gtk\platform.hpp
+2013-07-28 05:09:38 ....A        14695               higan\phoenix\qt\platform.moc.hpp
+2013-07-28 05:09:38 ....A         9286               higan\nall\png.hpp
+2012-04-27 11:13:33 ....A         1815               higan\fc\ppu\ppu.hpp
+2013-05-05 07:02:49 ....A         1686               higan\sfc\alt\ppu-balanced\ppu.hpp
+2013-05-05 07:23:35 ....A         1351               higan\sfc\alt\ppu-performance\ppu.hpp
+2013-05-05 08:42:18 ....A         1398               higan\sfc\ppu\ppu.hpp
+2013-05-05 09:07:42 ....A         1800               higan\gb\ppu\ppu.hpp
+2013-05-05 09:29:04 ....A         1282               higan\gba\ppu\ppu.hpp
+2013-05-05 05:47:36 ....A         1433               higan\target-ethos\general\presentation.hpp
+2013-07-28 05:09:38 ....A         2803               higan\nall\priority-queue.hpp
+2012-04-28 19:22:43 ....A           86               higan\processor\processor.hpp
+2013-04-07 02:40:37 ....A          108               higan\sfc\profile-accuracy.hpp
+2013-04-07 02:40:42 ....A          125               higan\sfc\profile-balanced.hpp
+2013-04-07 02:40:46 ....A          233               higan\sfc\profile-performance.hpp
+2013-07-28 05:09:38 ....A         3190               higan\ruby\video\opengl\program.hpp
+2013-07-28 05:09:38 ....A          271               higan\phoenix\reference\widget\progress-bar.hpp
+2013-07-28 05:09:38 ....A          475               higan\phoenix\cocoa\widget\progress-bar.hpp
+2013-07-28 05:09:38 ....A         1217               higan\nall\property.hpp
+2013-07-28 05:09:38 ....A          996               higan\nall\public-cast.hpp
+2011-10-11 20:58:57 ....A          301               higan\fc\apu\pulse.hpp
+2013-05-05 06:10:12 ....A         3107               higan\processor\r6502\r6502.hpp
+2012-04-28 09:32:22 ....A         6527               higan\processor\r65816\r65816.hpp
+2013-07-28 05:09:38 ....A          350               higan\phoenix\reference\widget\radio-button.hpp
+2013-07-28 05:09:38 ....A          637               higan\phoenix\cocoa\widget\radio-button.hpp
+2013-07-28 05:09:38 ....A          330               higan\phoenix\reference\action\radio-item.hpp
+2013-07-28 05:09:38 ....A          529               higan\phoenix\cocoa\action\radio-item.hpp
+2011-03-20 06:49:21 ....A          184               higan\sfc\random\random.hpp
+2013-07-28 05:09:38 ....A          535               higan\nall\random.hpp
+2013-07-28 05:09:38 ....A          733               higan\nall\string\ref.hpp
+2011-09-27 05:00:36 ....A         3151               higan\processor\r65816\registers.hpp
+2011-11-17 00:08:13 ....A         1587               higan\processor\spc700\registers.hpp
+2012-03-22 14:42:09 ....A          318               higan\sfc\chip\armdsp\registers.hpp
+2012-03-23 12:53:17 ....A          357               higan\processor\hg51b\registers.hpp
+2012-04-08 01:39:02 ....A         2675               higan\gba\apu\registers.hpp
+2012-04-14 02:08:45 ....A         2100               higan\gba\ppu\registers.hpp
+2012-04-22 05:30:11 ....A         1441               higan\processor\upd96050\registers.hpp
+2012-04-22 07:11:55 ....A         3656               higan\gba\cpu\registers.hpp
+2012-04-27 15:42:29 ....A          551               higan\processor\r6502\registers.hpp
+2012-04-28 08:48:29 ....A         4890               higan\processor\gsu\registers.hpp
+2013-05-05 05:59:19 ....A         3365               higan\processor\arm\registers.hpp
+2013-05-05 06:08:10 ....A         3311               higan\processor\lr35902\registers.hpp
+2013-07-28 05:09:38 ....A         4225               higan\nall\windows\registry.hpp
+2013-05-05 07:10:44 ....A         2910               higan\sfc\alt\ppu-balanced\render\render.hpp
+2013-07-28 05:09:38 ....A         1818               higan\nall\string\replace.hpp
+2012-12-24 12:46:01 ....A          199               ananke\resource\resource.hpp
+2013-01-21 05:35:42 ....A          203               higan\target-ethos\resource\resource.hpp
+2013-07-28 05:09:38 ....A         1860               higan\ruby\ruby.hpp
+2012-07-08 00:54:48 ....A          680               higan\sfc\chip\sa1\sa1.hpp
+2013-01-14 17:14:58 ....A          494               ananke\heuristics\satellaview.hpp
+2013-01-23 00:10:33 ....A          470               higan\sfc\slot\satellaview\satellaview.hpp
+2013-01-23 00:18:47 ....A          575               higan\sfc\base\satellaview\satellaview.hpp
+2011-09-23 01:41:22 ....A          481               higan\fc\scheduler\scheduler.hpp
+2012-02-07 02:04:31 ....A          510               higan\sfc\scheduler\scheduler.hpp
+2012-03-19 07:40:31 ....A          372               higan\gba\scheduler\scheduler.hpp
+2012-03-22 14:20:02 ....A          396               higan\gb\scheduler\scheduler.hpp
+2013-05-05 07:20:40 ....A         1050               higan\sfc\alt\ppu-performance\screen\screen.hpp
+2013-05-05 08:36:42 ....A          918               higan\sfc\ppu\screen\screen.hpp
+2012-07-15 07:36:25 ....A          862               higan\sfc\chip\sdd1\sdd1.hpp
+2013-07-28 05:09:38 ....A          213               higan\phoenix\reference\action\separator.hpp
+2013-07-28 05:09:38 ....A          253               higan\phoenix\cocoa\action\separator.hpp
+2013-07-28 05:09:38 ....A         2874               higan\nall\serial.hpp
+2013-07-28 05:09:38 ....A         4345               higan\nall\serializer.hpp
+2013-05-02 11:18:28 ....A          314               higan\target-ethos\settings\server.hpp
+2013-07-28 05:09:38 ....A         6887               higan\nall\set.hpp
+2013-05-02 11:18:49 ....A          481               higan\target-ethos\settings\settings.hpp
+2013-07-28 05:09:38 ....A         1435               higan\nall\dsp\settings.hpp
+2013-05-05 06:59:10 ....A         1814               higan\sfc\sfc.hpp
+2013-07-28 05:09:38 ....A         3979               higan\nall\sha256.hpp
+2013-07-28 05:09:38 ....A         1847               higan\ruby\video\opengl\shaders.hpp
+2013-05-05 08:00:12 ....A          922               higan\sfc\chip\sharprtc\sharprtc.hpp
+2013-07-28 05:09:38 ....A         1233               higan\nall\dsp\resample\sinc.hpp
+2013-07-28 05:09:38 ....A        18247               higan\nall\dsp\resample\lib\sinc.hpp
+2013-07-28 05:09:38 ....A          152               higan\phoenix\cocoa\widget\sizable.hpp
+2013-07-28 05:09:38 ....A          152               higan\phoenix\reference\widget\sizable.hpp
+2013-01-21 07:10:05 ....A           96               higan\sfc\slot\slot.hpp
+2013-07-28 05:09:38 ....A         2332               higan\nall\string\allocator\small-string-optimization.hpp
+2012-04-28 10:15:37 ....A         1764               higan\sfc\smp\smp.hpp
+2013-05-05 07:29:07 ....A         2798               higan\sfc\alt\smp\smp.hpp
+2013-07-28 05:09:38 ....A         2086               higan\nall\sort.hpp
+2012-04-28 10:11:32 ....A         3064               higan\processor\spc700\spc700.hpp
+2013-05-05 08:03:30 ....A         3396               higan\sfc\chip\spc7110\spc7110.hpp
+2013-07-28 05:09:38 ....A         1117               higan\nall\string\split.hpp
+2013-05-05 07:21:32 ....A         1256               higan\sfc\alt\ppu-performance\sprite\sprite.hpp
+2013-05-05 08:37:44 ....A         1380               higan\sfc\ppu\sprite\sprite.hpp
+2012-04-05 04:35:22 ....A          674               higan\gb\apu\square1\square1.hpp
+2012-04-05 04:35:32 ....A          464               higan\gb\apu\square2\square2.hpp
+2013-05-05 05:51:05 ....A          774               higan\target-ethos\tools\state-manager.hpp
+2012-04-03 21:03:51 ....A          101               higan\gba\cpu\state.hpp
+2012-04-18 09:33:44 ....A         1094               higan\gba\ppu\state.hpp
+2013-07-28 05:09:38 ....A         3358               higan\phoenix\core\state.hpp
+2013-07-28 05:09:38 ....A         1266               higan\nall\stdint.hpp
+2013-07-28 05:09:38 ....A          603               higan\nall\stream.hpp
+2013-07-28 05:09:38 ....A         2245               higan\nall\stream\stream.hpp
+2013-07-28 05:09:38 ....A         1436               higan\nall\string.hpp
+2013-07-28 05:09:38 ....A         1122               higan\nall\string\char\strm.hpp
+2013-07-28 05:09:38 ....A         1034               higan\nall\string\char\strpos.hpp
+2013-01-14 17:12:19 ....A          903               ananke\heuristics\sufami-turbo.hpp
+2013-01-22 23:42:47 ....A         4782               ananke\database\sufami-turbo.hpp
+2013-01-21 07:12:07 ....A          216               higan\sfc\slot\sufamiturbo\sufamiturbo.hpp
+2013-07-28 05:09:38 ....A         2380               higan\nall\emulation\super-famicom-usart.hpp
+2013-01-17 01:54:10 ....A        24007               ananke\heuristics\super-famicom.hpp
+2013-01-22 23:42:47 ....A       422264               ananke\database\super-famicom.hpp
+2012-07-09 05:58:32 ....A          499               higan\sfc\chip\superfx\superfx.hpp
+2011-06-26 03:39:04 ....A          317               higan\sfc\controller\superscope\superscope.hpp
+2013-07-28 05:09:38 ....A         3900               higan\ruby\video\opengl\surface.hpp
+2011-10-11 21:13:46 ....A          257               higan\fc\apu\sweep.hpp
+2011-09-23 01:55:58 ....A          360               higan\fc\system\system.hpp
+2012-04-18 12:07:15 ....A          988               higan\gb\system\system.hpp
+2013-01-23 00:25:11 ....A         1110               higan\sfc\system\system.hpp
+2013-05-05 09:33:14 ....A          637               higan\gba\system\system.hpp
+2013-07-28 05:09:38 ....A          366               higan\phoenix\reference\widget\text-edit.hpp
+2013-07-28 05:09:38 ....A          711               higan\phoenix\cocoa\widget\text-edit.hpp
+2013-07-28 05:09:38 ....A         2552               higan\nall\thread.hpp
+2013-07-28 05:09:38 ....A          254               higan\phoenix\reference\timer.hpp
+2013-07-28 05:09:38 ....A          496               higan\phoenix\cocoa\timer.hpp
+2010-12-26 16:16:47 ....A          441               higan\sfc\cpu\timing\timing.hpp
+2012-04-28 08:43:33 ....A          380               higan\sfc\chip\superfx\timing\timing.hpp
+2013-05-05 05:49:17 ....A          645               higan\target-ethos\settings\timing.hpp
+2012-05-06 18:43:57 ....A           87               higan\target-ethos\tools\tools.hpp
+2013-07-28 05:09:38 ....A         1101               higan\nall\traits.hpp
+2011-10-11 20:59:15 ....A          365               higan\fc\apu\triangle.hpp
+2013-07-28 05:09:38 ....A         1444               higan\nall\string\char\trim.hpp
+2013-07-28 05:09:38 ....A         1096               higan\nall\udl.hpp
+2013-07-28 05:09:38 ....A         2898               higan\nall\unzip.hpp
+2012-03-25 14:11:47 ....A          739               higan\processor\upd96050\upd96050.hpp
+2013-07-28 05:09:38 ....A         6989               higan\nall\ups.hpp
+2012-03-10 08:08:16 ....A          769               higan\sfc\controller\usart\usart.hpp
+2013-07-28 05:09:38 ....A          892               higan\nall\string\char\utf8.hpp
+2013-07-28 05:09:38 ....A         1746               higan\nall\windows\utf8.hpp
+2013-05-05 05:52:19 ....A         1062               higan\target-ethos\utility\utility.hpp
+2013-07-28 05:09:38 ....A          734               higan\nall\string\char\utility.hpp
+2013-07-28 05:09:38 ....A         2711               higan\nall\string\utility.hpp
+2013-07-28 05:09:38 ....A         3359               higan\nall\utility.hpp
+2013-07-28 05:09:38 ....A         3488               higan\ruby\video\opengl\utility.hpp
+2013-07-28 05:09:38 ....A          408               higan\nall\string\variadic.hpp
+2013-07-28 05:09:38 ....A         7748               higan\nall\varint.hpp
+2013-07-28 05:09:38 ....A         1153               higan\nall\stream\vector.hpp
+2013-07-28 05:09:38 ....A         1733               higan\nall\string\allocator\vector.hpp
+2013-07-28 05:09:38 ....A         7192               higan\nall\vector.hpp
+2013-07-28 05:09:38 ....A          750               higan\phoenix\core\layout\vertical-layout.hpp
+2013-07-28 05:09:38 ....A          374               higan\phoenix\reference\widget\vertical-scroller.hpp
+2013-07-28 05:09:38 ....A          673               higan\phoenix\cocoa\widget\vertical-scroller.hpp
+2013-07-28 05:09:38 ....A          356               higan\phoenix\reference\widget\vertical-slider.hpp
+2013-07-28 05:09:38 ....A          664               higan\phoenix\cocoa\widget\vertical-slider.hpp
+2013-05-02 11:20:26 ....A          447               higan\target-ethos\settings\video.hpp
+2013-05-05 06:56:44 ....A          208               higan\fc\video\video.hpp
+2013-05-05 08:48:45 ....A          329               higan\sfc\system\video.hpp
+2013-05-05 09:09:27 ....A          299               higan\gb\video\video.hpp
+2013-05-05 09:33:40 ....A          111               higan\gba\video\video.hpp
+2013-07-28 05:09:38 ....A          752               higan\ruby\video.hpp
+2013-07-28 05:09:38 ....A          264               higan\phoenix\reference\widget\viewport.hpp
+2013-07-28 05:09:38 ....A          680               higan\phoenix\cocoa\widget\viewport.hpp
+2012-04-05 04:35:43 ....A          403               higan\gb\apu\wave\wave.hpp
+2013-07-28 05:09:38 ....A          402               higan\phoenix\reference\widget\widget.hpp
+2013-07-28 05:09:38 ....A          457               higan\phoenix\cocoa\widget\widget.hpp
+2013-05-05 05:44:58 ....A          335               higan\target-ethos\window\window.hpp
+2013-05-05 07:22:45 ....A          517               higan\sfc\alt\ppu-performance\window\window.hpp
+2013-05-05 08:40:42 ....A         1617               higan\sfc\ppu\window\window.hpp
+2013-07-28 05:09:38 ....A         1004               higan\phoenix\reference\window.hpp
+2013-07-28 05:09:38 ....A         1837               higan\phoenix\cocoa\window.hpp
+2013-07-28 05:09:38 ....A         4123               higan\nall\string\wrapper.hpp
+2013-07-28 05:09:38 ....A        13226               higan\ruby\audio\xaudio2.hpp
+2013-07-28 05:09:38 ....A         7660               higan\ruby\input\xlibkeys.hpp
+2013-07-28 05:09:38 ....A         6016               higan\nall\string\markup\xml.hpp
+2013-07-28 05:09:38 ....A          235               higan\nall\xorg\xorg.hpp
+2013-07-28 05:09:38 ....A          719               higan\nall\stream\zip.hpp
+2013-07-28 05:09:38 ....A         3625               higan\nall\zip.hpp
+2013-07-28 05:09:38 ....A         3857               higan\libco\amd64.c
+2013-07-28 05:09:38 ....A          940               higan\libco\fiber.c
+2013-07-28 05:09:38 ....A          559               higan\libco\libco.c
+2013-07-28 05:09:38 ....A        11968               higan\libco\ppc.c
+2013-07-28 05:09:38 ....A         2262               higan\libco\sjlj.c
+2013-07-28 05:09:38 ....A         1744               higan\libco\ucontext.c
+2013-07-28 05:09:38 ....A         2491               higan\libco\x86.c
+2013-07-28 05:09:38 ....A          176               higan\phoenix\reference\action\action.cpp
+2013-07-28 05:09:38 ....A          280               higan\phoenix\windows\action\action.cpp
+2013-07-28 05:09:38 ....A          302               higan\phoenix\cocoa\action\action.cpp
+2013-07-28 05:09:38 ....A          612               higan\phoenix\gtk\action\action.cpp
+2013-07-28 05:09:38 ....A         1769               higan\phoenix\qt\action\action.cpp
+2010-08-08 20:01:16 ....A          699               higan\sfc\alt\ppu-balanced\render\addsub.cpp
+2013-07-28 05:14:41 ....A         2826               higan\target-ethos\settings\advanced.cpp
+2011-05-04 14:01:47 ....A         2180               higan\sfc\alt\smp\algorithms.cpp
+2012-04-15 02:34:45 ....A         3338               higan\processor\arm\algorithms.cpp
+2012-04-28 09:21:18 ....A         7473               higan\processor\r65816\algorithms.cpp
+2012-04-28 10:04:02 ....A         2306               higan\processor\spc700\algorithms.cpp
+2013-07-28 05:09:38 ....A         6181               higan\ruby\audio\alsa.cpp
+2012-05-30 22:11:04 ....A         1929               higan\sfc\chip\spc7110\alu.cpp
+2013-04-12 22:31:00 ....A         6094               ananke\ananke.cpp
+2013-07-28 05:09:38 ....A         1934               higan\ruby\audio\ao.cpp
+2013-07-28 05:09:38 ....A          217               higan\phoenix\reference\application.cpp
+2013-07-28 05:09:38 ....A         1061               higan\phoenix\qt\application.cpp
+2013-07-28 05:09:38 ....A         1315               higan\phoenix\gtk\application.cpp
+2013-07-28 05:09:38 ....A         2820               higan\phoenix\cocoa\application.cpp
+2013-07-28 05:09:38 ....A        16401               higan\phoenix\windows\application.cpp
+2012-04-25 16:15:25 ....A         2685               higan\gba\apu\apu.cpp
+2012-04-28 16:31:59 ....A         8250               higan\fc\apu\apu.cpp
+2013-05-05 08:57:57 ....A         3287               higan\gb\apu\apu.cpp
+2013-01-24 01:42:15 ....A          863               ananke\archive.cpp
+2012-04-16 05:13:00 ....A         1713               higan\processor\arm\arm.cpp
+2012-10-15 17:43:08 ....A         2384               higan\sfc\chip\armdsp\armdsp.cpp
+2013-05-02 11:15:46 ....A         2492               higan\target-ethos\settings\audio.cpp
+2013-05-05 08:47:20 ....A         1853               higan\sfc\system\audio.cpp
+2012-05-08 20:32:59 ....A         8250               higan\sfc\ppu\background\background.cpp
+2013-05-05 07:12:50 ....A         6039               higan\sfc\alt\ppu-performance\background\background.cpp
+2013-05-05 09:25:46 ....A         4998               higan\gba\ppu\background.cpp
+2013-05-05 06:38:09 ....A         2524               higan\fc\cartridge\board\bandai-fcg.cpp
+2013-05-05 07:05:14 ....A         6672               higan\sfc\alt\ppu-balanced\render\bg.cpp
+2012-04-18 11:40:35 ....A          615               higan\gba\system\bios.cpp
+2013-05-05 06:37:29 ....A         7705               higan\fc\cartridge\board\board.cpp
+2013-05-02 11:04:05 ....A          544               higan\target-ethos\bootstrap.cpp
+2013-07-28 05:09:38 ....A          253               higan\phoenix\reference\browser-window.cpp
+2013-07-28 05:09:38 ....A         1812               higan\phoenix\qt\browser-window.cpp
+2013-07-28 05:09:38 ....A         2315               higan\phoenix\cocoa\browser-window.cpp
+2013-07-28 05:09:38 ....A         2806               higan\phoenix\gtk\browser-window.cpp
+2013-07-28 05:09:38 ....A         3294               higan\phoenix\windows\browser-window.cpp
+2013-05-05 05:47:13 ....A         4823               higan\target-ethos\general\browser.cpp
+2013-05-05 08:52:44 ....A         1524               higan\sfc\dsp\brr.cpp
+2013-01-24 01:48:50 ....A         2306               ananke\bsx-satellaview.cpp
+2013-05-05 07:39:50 ....A         3758               higan\sfc\chip\bsx\bsx.cpp
+2012-07-08 00:47:43 ....A          717               higan\sfc\chip\sa1\bus\bus.cpp
+2012-07-09 05:59:02 ....A          864               higan\sfc\chip\superfx\bus\bus.cpp
+2013-07-28 05:09:38 ....A          201               higan\phoenix\reference\widget\button.cpp
+2013-07-28 05:09:38 ....A         1514               higan\phoenix\qt\widget\button.cpp
+2013-07-28 05:09:38 ....A         1587               higan\phoenix\gtk\widget\button.cpp
+2013-07-28 05:09:38 ....A         1911               higan\phoenix\cocoa\widget\button.cpp
+2013-07-28 05:09:38 ....A         4084               higan\phoenix\windows\widget\button.cpp
+2013-05-05 07:06:00 ....A         4354               higan\sfc\alt\ppu-balanced\render\cache.cpp
+2013-05-05 07:14:41 ....A         3368               higan\sfc\alt\ppu-performance\cache\cache.cpp
+2013-07-28 05:09:38 ....A          202               higan\phoenix\reference\widget\canvas.cpp
+2013-07-28 05:09:38 ....A         2802               higan\phoenix\qt\widget\canvas.cpp
+2013-07-28 05:09:38 ....A         3416               higan\phoenix\windows\widget\canvas.cpp
+2013-07-28 05:09:38 ....A         3728               higan\phoenix\gtk\widget\canvas.cpp
+2013-07-28 05:09:38 ....A         3909               higan\phoenix\cocoa\widget\canvas.cpp
+2013-07-28 05:09:38 ....A         3854               higan\ruby\input\carbon.cpp
+2013-01-21 06:25:35 ....A         5259               higan\gba\cartridge\cartridge.cpp
+2013-05-05 06:36:16 ....A         1625               higan\fc\cartridge\cartridge.cpp
+2013-05-05 07:31:39 ....A         7216               higan\sfc\cartridge\cartridge.cpp
+2013-05-05 09:00:38 ....A         4667               higan\gb\cartridge\cartridge.cpp
+2013-05-05 09:05:47 ....A         5312               higan\gb\ppu\cgb.cpp
+2013-07-28 05:09:38 ....A         4542               higan\ruby\video\cgl.cpp
+2013-05-02 11:21:06 ....A         2092               higan\target-ethos\tools\cheat-database.cpp
+2013-05-05 05:50:43 ....A         5095               higan\target-ethos\tools\cheat-editor.cpp
+2013-07-28 05:15:19 ....A         3461               higan\fc\cheat\cheat.cpp
+2013-07-28 05:16:18 ....A         3127               higan\gb\cheat\cheat.cpp
+2013-07-28 05:18:45 ....A         2551               higan\sfc\cheat\cheat.cpp
+2013-07-28 05:09:38 ....A          242               higan\phoenix\reference\widget\check-button.cpp
+2013-07-28 05:09:38 ....A          943               higan\phoenix\windows\widget\check-button.cpp
+2013-07-28 05:09:38 ....A         1036               higan\phoenix\qt\widget\check-button.cpp
+2013-07-28 05:09:38 ....A         1112               higan\phoenix\gtk\widget\check-button.cpp
+2013-07-28 05:09:38 ....A         1509               higan\phoenix\cocoa\widget\check-button.cpp
+2013-07-28 05:09:38 ....A          232               higan\phoenix\reference\action\check-item.cpp
+2013-07-28 05:09:38 ....A          441               higan\phoenix\windows\action\check-item.cpp
+2013-07-28 05:09:38 ....A          670               higan\phoenix\qt\action\check-item.cpp
+2013-07-28 05:09:38 ....A          905               higan\phoenix\gtk\action\check-item.cpp
+2013-07-28 05:09:38 ....A         1178               higan\phoenix\cocoa\action\check-item.cpp
+2013-05-05 06:43:38 ....A          284               higan\fc\cartridge\chip\chip.cpp
+2013-07-28 05:09:38 ....A          380               higan\phoenix\reference\widget\combo-button.cpp
+2013-07-28 05:09:38 ....A         1796               higan\phoenix\qt\widget\combo-button.cpp
+2013-07-28 05:09:38 ....A         1841               higan\phoenix\cocoa\widget\combo-button.cpp
+2013-07-28 05:09:38 ....A         2105               higan\phoenix\windows\widget\combo-button.cpp
+2013-07-28 05:09:38 ....A         2117               higan\phoenix\gtk\widget\combo-button.cpp
+2013-01-23 00:26:24 ....A          667               higan\sfc\config\config.cpp
+2013-04-12 22:36:12 ....A          438               ananke\configuration.cpp
+2013-07-28 05:10:40 ....A         2146               higan\target-ethos\configuration\configuration.cpp
+2012-04-28 11:25:51 ....A         1281               higan\sfc\controller\controller.cpp
+2013-05-05 07:27:38 ....A         2759               higan\sfc\alt\smp\core.cpp
+2013-05-05 08:04:57 ....A         3348               higan\sfc\chip\superfx\core\core.cpp
+2013-07-28 05:09:38 ....A        28453               higan\phoenix\core\core.cpp
+2010-08-07 05:54:47 ....A         1151               higan\sfc\dsp\counter.cpp
+2013-05-05 06:30:59 ....A         2196               higan\fc\cpu\cpu.cpp
+2013-05-05 07:00:10 ....A         4249               higan\sfc\alt\cpu\cpu.cpp
+2013-05-05 08:17:09 ....A         4183               higan\sfc\cpu\cpu.cpp
+2013-05-05 09:03:01 ....A         4812               higan\gb\cpu\cpu.cpp
+2013-05-05 09:17:49 ....A         4627               higan\gba\cpu\cpu.cpp
+2012-07-09 06:29:19 ....A         2008               higan\sfc\chip\spc7110\data.cpp
+2012-06-05 22:21:35 ....A         1536               higan\sfc\chip\spc7110\dcu.cpp
+2013-05-05 07:57:02 ....A         7448               higan\sfc\chip\sdd1\decomp.cpp
+2013-05-05 08:02:12 ....A         6249               higan\sfc\chip\spc7110\decompressor.cpp
+2013-07-28 05:09:38 ....A          126               higan\phoenix\reference\desktop.cpp
+2013-07-28 05:09:38 ....A          303               higan\phoenix\windows\desktop.cpp
+2013-07-28 05:09:38 ....A          305               higan\phoenix\qt\desktop.cpp
+2013-07-28 05:09:38 ....A          476               higan\phoenix\cocoa\desktop.cpp
+2013-07-28 05:09:38 ....A         1057               higan\phoenix\gtk\desktop.cpp
+2013-07-28 05:13:58 ....A         1604               higan\target-ethos\general\dip-switches.cpp
+2013-07-28 05:09:38 ....A        13719               higan\ruby\video\direct3d.cpp
+2013-07-28 05:09:38 ....A         4814               higan\ruby\video\directdraw.cpp
+2013-07-28 05:09:38 ....A        13811               higan\ruby\input\directinput.cpp
+2013-07-28 05:09:38 ....A         5661               higan\ruby\audio\directsound.cpp
+2013-05-05 08:06:06 ....A        12519               higan\sfc\chip\superfx\disasm\disasm.cpp
+2012-03-29 17:19:02 ....A        24303               higan\processor\arm\disassembler.cpp
+2012-04-25 15:53:47 ....A        21221               higan\processor\lr35902\disassembler.cpp
+2012-04-28 09:38:50 ....A         5573               higan\processor\r6502\disassembler.cpp
+2012-04-28 10:12:55 ....A        12497               higan\processor\spc700\disassembler.cpp
+2013-05-05 06:13:44 ....A        25935               higan\processor\r65816\disassembler.cpp
+2013-05-05 06:21:12 ....A         6720               higan\processor\upd96050\disassembler.cpp
+2013-05-05 07:28:17 ....A        21598               higan\sfc\alt\smp\disassembler.cpp
+2011-05-05 08:47:22 ....A         6084               higan\sfc\alt\cpu\dma.cpp
+2013-05-05 07:50:25 ....A         3919               higan\sfc\chip\sa1\dma\dma.cpp
+2013-05-05 08:13:20 ....A         7577               higan\sfc\cpu\dma\dma.cpp
+2013-05-05 09:18:55 ....A         1617               higan\gba\cpu\dma.cpp
+2013-05-05 06:34:15 ....A         2344               higan\fc\apu\dmc.cpp
+2013-05-05 09:06:17 ....A         4014               higan\gb\ppu\dmg.cpp
+2012-05-28 19:01:08 ....A         5726               higan\sfc\dsp\dsp.cpp
+2012-05-28 19:01:58 ....A         1360               higan\sfc\alt\dsp\dsp.cpp
+2011-01-23 13:44:13 ....A         3264               higan\sfc\dsp\echo.cpp
+2013-05-05 09:16:35 ....A         2030               higan\gba\cartridge\eeprom.cpp
+2013-05-05 06:34:03 ....A          758               higan\fc\apu\envelope.cpp
+2013-05-05 08:26:59 ....A         1548               higan\sfc\dsp\envelope.cpp
+2013-05-05 07:40:40 ....A         3679               higan\sfc\chip\epsonrtc\epsonrtc.cpp
+2013-07-28 05:19:45 ....A         4446               higan\target-ethos\ethos.cpp
+2013-05-05 07:42:29 ....A         4950               higan\sfc\chip\event\event.cpp
+2013-07-29 11:52:31 ....A         1445               ananke\famicom.cpp
+2013-05-05 09:10:52 ....A          403               higan\gba\apu\fifo.cpp
+2013-03-15 19:32:01 ....A         2959               ananke\file-dialog.cpp
+2013-07-28 05:09:38 ....A         2133               higan\phoenix\core\layout\fixed-layout.cpp
+2013-05-05 09:16:50 ....A         2398               higan\gba\cartridge\flashrom.cpp
+2013-07-28 05:09:38 ....A          292               higan\phoenix\reference\font.cpp
+2013-07-28 05:09:38 ....A         1486               higan\phoenix\qt\font.cpp
+2013-07-28 05:09:38 ....A         1659               higan\phoenix\windows\font.cpp
+2013-07-28 05:09:38 ....A         1808               higan\phoenix\cocoa\font.cpp
+2013-07-28 05:09:38 ....A         2434               higan\phoenix\gtk\font.cpp
+2013-01-24 01:47:46 ....A         2070               ananke\game-boy-advance.cpp
+2013-01-24 01:47:06 ....A         2077               ananke\game-boy.cpp
+2012-08-06 21:08:16 ....A         1592               higan\sfc\controller\gamepad\gamepad.cpp
+2013-05-05 08:22:59 ....A         3858               higan\sfc\dsp\gaussian.cpp
+2013-07-28 05:09:38 ....A         2275               higan\ruby\video\gdi.cpp
+2012-05-06 22:39:20 ....A          103               higan\target-ethos\general\general.cpp
+2013-05-05 07:25:25 ....A         4190               higan\sfc\alt\smp\core\generate.cpp
+2013-07-28 05:09:38 ....A         7835               higan\ruby\video\glx.cpp
+2013-05-05 06:03:05 ....A          581               higan\processor\gsu\gsu.cpp
+2013-07-28 05:09:38 ....A          305               higan\phoenix\reference\widget\hex-edit.cpp
+2013-07-28 05:09:38 ....A          671               higan\phoenix\cocoa\widget\hex-edit.cpp
+2013-07-28 05:09:38 ....A         3942               higan\phoenix\windows\widget\hex-edit.cpp
+2013-07-28 05:09:38 ....A         5683               higan\phoenix\qt\widget\hex-edit.cpp
+2013-07-28 05:09:38 ....A         8058               higan\phoenix\gtk\widget\hex-edit.cpp
+2012-03-23 12:46:04 ....A          491               higan\processor\hg51b\hg51b.cpp
+2012-11-06 03:57:25 ....A         1193               higan\sfc\chip\hitachidsp\hitachidsp.cpp
+2013-07-28 05:09:38 ....A         4402               higan\phoenix\core\layout\horizontal-layout.cpp
+2013-07-28 05:09:38 ....A          290               higan\phoenix\reference\widget\horizontal-scroller.cpp
+2013-07-28 05:09:38 ....A         1029               higan\phoenix\windows\widget\horizontal-scroller.cpp
+2013-07-28 05:09:38 ....A         1118               higan\phoenix\qt\widget\horizontal-scroller.cpp
+2013-07-28 05:09:38 ....A         1262               higan\phoenix\gtk\widget\horizontal-scroller.cpp
+2013-07-28 05:09:38 ....A         2068               higan\phoenix\cocoa\widget\horizontal-scroller.cpp
+2013-07-28 05:09:38 ....A          280               higan\phoenix\reference\widget\horizontal-slider.cpp
+2013-07-28 05:09:38 ....A         1069               higan\phoenix\qt\widget\horizontal-slider.cpp
+2013-07-28 05:09:38 ....A         1153               higan\phoenix\windows\widget\horizontal-slider.cpp
+2013-07-28 05:09:38 ....A         1246               higan\phoenix\gtk\widget\horizontal-slider.cpp
+2013-07-28 05:09:38 ....A         1466               higan\phoenix\cocoa\widget\horizontal-slider.cpp
+2013-05-02 11:16:26 ....A         1981               higan\target-ethos\settings\hotkey.cpp
+2013-05-02 11:13:18 ....A         3381               higan\target-ethos\input\hotkeys.cpp
+2013-05-05 07:44:02 ....A         2459               higan\sfc\chip\hsu1\hsu1.cpp
+2011-12-25 23:08:40 ....A         1185               higan\gb\cartridge\huc1\huc1.cpp
+2011-12-25 23:10:49 ....A         1139               higan\gb\cartridge\huc3\huc3.cpp
+2013-05-05 07:45:50 ....A         1582               higan\sfc\chip\icd2\icd2.cpp
+2013-07-28 05:09:38 ....A         3817               higan\ruby\implementation.cpp
+2012-04-28 11:18:50 ....A          894               higan\fc\input\input.cpp
+2013-05-02 11:18:06 ....A         6454               higan\target-ethos\settings\input.cpp
+2013-05-05 08:48:00 ....A         1140               higan\sfc\system\input.cpp
+2013-07-28 05:11:35 ....A         8439               higan\target-ethos\input\input.cpp
+2013-05-05 06:00:41 ....A        16832               higan\processor\arm\instructions-arm.cpp
+2012-04-15 02:41:11 ....A        11058               higan\processor\arm\instructions-thumb.cpp
+2012-03-23 12:36:16 ....A         8159               higan\processor\hg51b\instructions.cpp
+2012-04-28 08:37:50 ....A        14056               higan\processor\gsu\instructions.cpp
+2012-04-28 16:19:31 ....A        12862               higan\processor\lr35902\instructions.cpp
+2013-05-05 06:11:32 ....A         9449               higan\processor\r6502\instructions.cpp
+2013-05-05 06:19:26 ....A        10439               higan\processor\spc700\instructions.cpp
+2013-05-05 06:23:03 ....A         7531               higan\processor\upd96050\instructions.cpp
+2013-05-02 10:57:40 ....A         3603               higan\fc\interface\interface.cpp
+2013-05-02 11:02:50 ....A         3241               higan\gba\interface\interface.cpp
+2013-05-05 05:41:58 ....A        15607               higan\sfc\interface\interface.cpp
+2013-05-05 05:56:35 ....A         3622               higan\target-ethos\interface\interface.cpp
+2013-05-05 07:45:00 ....A         2929               higan\sfc\chip\icd2\interface\interface.cpp
+2013-05-05 09:04:08 ....A         3982               higan\gb\interface\interface.cpp
+2010-08-07 05:42:04 ....A         2869               higan\sfc\cpu\timing\irq.cpp
+2013-07-28 05:09:38 ....A          168               higan\phoenix\reference\action\item.cpp
+2013-07-28 05:09:38 ....A          514               higan\phoenix\qt\action\item.cpp
+2013-07-28 05:09:38 ....A          849               higan\phoenix\gtk\action\item.cpp
+2013-07-28 05:09:38 ....A          877               higan\phoenix\cocoa\action\item.cpp
+2013-07-28 05:09:38 ....A          949               higan\phoenix\windows\action\item.cpp
+2011-12-11 18:53:06 ....A          983               higan\sfc\cpu\timing\joypad.cpp
+2012-05-03 21:48:59 ....A         3427               higan\sfc\controller\justifier\justifier.cpp
+2013-07-28 05:09:38 ....A          263               higan\phoenix\cocoa\keyboard.cpp
+2013-07-28 05:09:38 ....A          263               higan\phoenix\reference\keyboard.cpp
+2013-07-28 05:09:38 ....A         5521               higan\phoenix\windows\keyboard.cpp
+2013-07-28 05:09:38 ....A         5649               higan\phoenix\gtk\keyboard.cpp
+2013-07-28 05:09:38 ....A         5649               higan\phoenix\qt\keyboard.cpp
+2013-05-05 06:38:02 ....A          802               higan\fc\cartridge\board\konami-vrc1.cpp
+2013-05-05 06:38:23 ....A         1322               higan\fc\cartridge\board\konami-vrc2.cpp
+2013-05-05 06:38:35 ....A         1263               higan\fc\cartridge\board\konami-vrc3.cpp
+2013-05-05 06:38:52 ....A         1357               higan\fc\cartridge\board\konami-vrc4.cpp
+2013-05-05 06:39:07 ....A         1071               higan\fc\cartridge\board\konami-vrc6.cpp
+2013-05-05 06:39:22 ....A          942               higan\fc\cartridge\board\konami-vrc7.cpp
+2013-07-28 05:09:38 ....A          125               higan\phoenix\reference\widget\label.cpp
+2013-07-28 05:09:38 ....A          507               higan\phoenix\qt\widget\label.cpp
+2013-07-28 05:09:38 ....A          520               higan\phoenix\gtk\widget\label.cpp
+2013-07-28 05:09:38 ....A         1460               higan\phoenix\cocoa\widget\label.cpp
+2013-07-28 05:09:38 ....A         1999               higan\phoenix\windows\widget\label.cpp
+2013-07-28 05:09:38 ....A          212               higan\phoenix\reference\widget\line-edit.cpp
+2013-07-28 05:09:38 ....A         1096               higan\phoenix\qt\widget\line-edit.cpp
+2013-07-28 05:09:38 ....A         1139               higan\phoenix\windows\widget\line-edit.cpp
+2013-07-28 05:09:38 ....A         1227               higan\phoenix\gtk\widget\line-edit.cpp
+2013-07-28 05:09:38 ....A         1392               higan\phoenix\cocoa\widget\line-edit.cpp
+2013-05-05 07:07:04 ....A         3080               higan\sfc\alt\ppu-balanced\render\line.cpp
+2013-07-28 05:09:38 ....A          849               higan\phoenix\reference\widget\list-view.cpp
+2013-07-28 05:09:38 ....A         5194               higan\phoenix\qt\widget\list-view.cpp
+2013-07-28 05:09:38 ....A         7069               higan\phoenix\windows\widget\list-view.cpp
+2013-07-28 05:09:38 ....A         8355               higan\phoenix\gtk\widget\list-view.cpp
+2013-07-28 05:09:38 ....A         9964               higan\phoenix\cocoa\widget\list-view.cpp
+2013-05-05 08:39:11 ....A         1797               higan\sfc\ppu\sprite\list.cpp
+2012-04-25 16:03:54 ....A        19602               higan\processor\lr35902\lr35902.cpp
+2013-07-28 05:16:36 ....A        17873               higan\sfc\cartridge\markup.cpp
+2013-05-05 08:54:41 ....A         2602               higan\gb\apu\master\master.cpp
+2011-12-25 23:12:25 ....A          492               higan\gb\cartridge\mbc0\mbc0.cpp
+2011-12-25 23:17:59 ....A         1582               higan\gb\cartridge\mbc1\mbc1.cpp
+2011-12-25 23:20:21 ....A          976               higan\gb\cartridge\mbc2\mbc2.cpp
+2011-12-25 23:22:04 ....A         2993               higan\gb\cartridge\mbc3\mbc3.cpp
+2011-12-25 23:23:45 ....A         1209               higan\gb\cartridge\mbc5\mbc5.cpp
+2010-10-08 17:18:52 ....A          828               higan\sfc\alt\cpu\memory.cpp
+2011-01-23 14:20:35 ....A         3775               higan\sfc\alt\ppu-balanced\memory\memory.cpp
+2011-05-02 12:08:38 ....A         2268               higan\sfc\alt\smp\memory.cpp
+2012-03-25 14:12:54 ....A         1247               higan\processor\upd96050\memory.cpp
+2012-04-16 01:21:26 ....A         1644               higan\gba\cpu\memory.cpp
+2012-04-17 01:47:16 ....A         2488               higan\sfc\chip\armdsp\memory.cpp
+2012-04-25 15:54:34 ....A          442               higan\gb\cpu\memory.cpp
+2012-04-28 09:42:59 ....A          618               higan\processor\r6502\memory.cpp
+2012-04-28 10:13:20 ....A         4709               higan\sfc\smp\memory.cpp
+2012-04-28 11:19:04 ....A          935               higan\fc\memory\memory.cpp
+2012-06-25 12:16:06 ....A         1014               higan\sfc\cpu\memory\memory.cpp
+2012-07-09 05:59:32 ....A         2888               higan\sfc\chip\superfx\memory\memory.cpp
+2012-11-06 03:57:30 ....A         5228               higan\sfc\chip\hitachidsp\memory.cpp
+2013-05-05 07:41:26 ....A         4299               higan\sfc\chip\epsonrtc\memory.cpp
+2013-05-05 07:52:23 ....A         8084               higan\sfc\chip\sa1\memory\memory.cpp
+2013-05-05 07:59:22 ....A         2051               higan\sfc\chip\sharprtc\memory.cpp
+2013-05-05 08:29:50 ....A         1882               higan\sfc\memory\memory.cpp
+2013-05-05 09:05:01 ....A         1079               higan\gb\memory\memory.cpp
+2013-05-05 09:24:06 ....A         3309               higan\gba\memory\memory.cpp
+2013-05-05 09:26:25 ....A         3893               higan\gba\ppu\memory.cpp
+2013-07-28 05:09:38 ....A          248               higan\phoenix\reference\action\menu.cpp
+2013-07-28 05:09:38 ....A         1299               higan\phoenix\cocoa\action\menu.cpp
+2013-07-28 05:09:38 ....A         1445               higan\phoenix\gtk\action\menu.cpp
+2013-07-28 05:09:38 ....A         1666               higan\phoenix\qt\action\menu.cpp
+2013-07-28 05:09:38 ....A         4017               higan\phoenix\windows\action\menu.cpp
+2013-07-28 05:09:38 ....A          506               higan\phoenix\reference\message-window.cpp
+2013-07-28 05:09:38 ....A         2399               higan\phoenix\windows\message-window.cpp
+2013-07-28 05:09:38 ....A         2531               higan\phoenix\gtk\message-window.cpp
+2013-07-28 05:09:38 ....A         2787               higan\phoenix\qt\message-window.cpp
+2013-07-28 05:09:38 ....A         3136               higan\phoenix\cocoa\message-window.cpp
+2013-05-05 08:23:17 ....A          716               higan\sfc\dsp\misc.cpp
+2013-05-05 06:44:08 ....A         2648               higan\fc\cartridge\chip\mmc1.cpp
+2013-05-05 06:44:30 ....A         4334               higan\fc\cartridge\chip\mmc3.cpp
+2013-05-05 06:45:40 ....A        12467               higan\fc\cartridge\chip\mmc5.cpp
+2013-05-05 06:46:16 ....A         4965               higan\fc\cartridge\chip\mmc6.cpp
+2011-06-26 05:05:02 ....A         7525               higan\sfc\alt\cpu\mmio.cpp
+2012-03-31 15:58:03 ....A          864               higan\gba\memory\mmio.cpp
+2012-04-16 00:58:51 ....A         5367               higan\gba\apu\mmio.cpp
+2012-04-25 14:44:41 ....A         4463               higan\gb\ppu\mmio.cpp
+2012-04-28 16:16:13 ....A         6206               higan\gb\cpu\mmio.cpp
+2013-05-05 07:04:29 ....A        18560               higan\sfc\alt\ppu-balanced\mmio\mmio.cpp
+2013-05-05 07:20:15 ....A        24356               higan\sfc\alt\ppu-performance\mmio\mmio.cpp
+2013-05-05 07:45:29 ....A         2327               higan\sfc\chip\icd2\mmio\mmio.cpp
+2013-05-05 07:53:46 ....A        15824               higan\sfc\chip\sa1\mmio\mmio.cpp
+2013-05-05 08:07:22 ....A         1929               higan\sfc\chip\superfx\mmio\mmio.cpp
+2013-05-05 08:15:23 ....A        11977               higan\sfc\cpu\mmio\mmio.cpp
+2013-05-05 08:35:59 ....A        24990               higan\sfc\ppu\mmio\mmio.cpp
+2013-05-05 09:20:37 ....A        10261               higan\gba\cpu\mmio.cpp
+2013-05-05 09:27:23 ....A         5720               higan\gba\ppu\mmio.cpp
+2011-12-25 23:15:37 ....A         1462               higan\gb\cartridge\mmm01\mmm01.cpp
+2013-05-05 07:07:52 ....A         4498               higan\sfc\alt\ppu-balanced\render\mode7.cpp
+2013-05-05 07:13:53 ....A         3119               higan\sfc\alt\ppu-performance\background\mode7.cpp
+2013-05-05 08:32:14 ....A         2778               higan\sfc\ppu\background\mode7.cpp
+2013-05-05 09:27:38 ....A          815               higan\gba\ppu\mosaic.cpp
+2012-08-06 21:39:49 ....A         2142               higan\sfc\controller\mouse\mouse.cpp
+2013-07-28 05:09:38 ....A          137               higan\phoenix\cocoa\mouse.cpp
+2013-07-28 05:09:38 ....A          137               higan\phoenix\reference\mouse.cpp
+2013-07-28 05:09:38 ....A          454               higan\phoenix\qt\mouse.cpp
+2013-07-28 05:09:38 ....A          460               higan\phoenix\windows\mouse.cpp
+2013-07-28 05:09:38 ....A          762               higan\phoenix\gtk\mouse.cpp
+2013-05-05 07:47:03 ....A         4795               higan\sfc\chip\msu1\msu1.cpp
+2012-05-03 21:43:23 ....A          941               higan\sfc\controller\multitap\multitap.cpp
+2012-11-06 03:54:11 ....A         1179               higan\sfc\chip\necdsp\necdsp.cpp
+2013-05-05 06:39:40 ....A          954               higan\fc\cartridge\board\nes-axrom.cpp
+2013-05-05 06:39:53 ....A         1077               higan\fc\cartridge\board\nes-bnrom.cpp
+2013-05-05 06:40:06 ....A         1159               higan\fc\cartridge\board\nes-cnrom.cpp
+2013-05-05 06:40:24 ....A          739               higan\fc\cartridge\board\nes-exrom.cpp
+2013-05-05 06:40:44 ....A         2306               higan\fc\cartridge\board\nes-fxrom.cpp
+2013-05-05 06:40:58 ....A         1299               higan\fc\cartridge\board\nes-gxrom.cpp
+2013-05-05 06:41:15 ....A         1005               higan\fc\cartridge\board\nes-hkrom.cpp
+2013-05-05 06:41:37 ....A          993               higan\fc\cartridge\board\nes-nrom.cpp
+2013-05-05 06:41:57 ....A         2431               higan\fc\cartridge\board\nes-pxrom.cpp
+2013-05-05 06:42:14 ....A         1983               higan\fc\cartridge\board\nes-sxrom.cpp
+2013-05-05 06:42:29 ....A         1221               higan\fc\cartridge\board\nes-txrom.cpp
+2013-05-05 06:42:42 ....A         1186               higan\fc\cartridge\board\nes-uxrom.cpp
+2012-04-05 04:29:34 ....A         2095               higan\gba\apu\noise.cpp
+2013-05-05 06:34:42 ....A         1089               higan\fc\apu\noise.cpp
+2013-05-05 08:55:18 ....A         2229               higan\gb\apu\noise\noise.cpp
+2012-07-08 01:02:11 ....A          358               higan\sfc\chip\nss\nss.cpp
+2013-05-05 07:09:25 ....A         8042               higan\sfc\alt\ppu-balanced\render\oam.cpp
+2012-07-09 06:36:54 ....A         2039               higan\sfc\chip\obc1\obc1.cpp
+2013-05-05 09:28:20 ....A         2737               higan\gba\ppu\object.cpp
+2013-07-28 05:09:38 ....A           88               higan\phoenix\cocoa\object.cpp
+2013-07-28 05:09:38 ....A           88               higan\phoenix\reference\object.cpp
+2013-07-28 05:09:38 ....A          322               higan\phoenix\windows\object.cpp
+2012-04-28 09:17:50 ....A         6139               higan\processor\r65816\opcode_misc.cpp
+2012-04-28 09:15:22 ....A         3410               higan\processor\r65816\opcode_pc.cpp
+2012-04-28 09:13:52 ....A         6404               higan\processor\r65816\opcode_read.cpp
+2012-04-28 09:10:23 ....A         3736               higan\processor\r65816\opcode_rmw.cpp
+2012-04-28 09:08:34 ....A         4358               higan\processor\r65816\opcode_write.cpp
+2011-05-04 15:06:30 ....A         9527               higan\sfc\alt\smp\core\opcycle_misc.cpp
+2011-05-04 15:06:30 ....A        11773               higan\sfc\alt\smp\core\opcycle_mov.cpp
+2011-05-04 15:06:30 ....A        19390               higan\sfc\alt\smp\core\opcycle_pc.cpp
+2011-05-04 15:06:30 ....A        23495               higan\sfc\alt\smp\core\opcycle_read.cpp
+2011-05-04 15:06:30 ....A         7775               higan\sfc\alt\smp\core\opcycle_rmw.cpp
+2013-07-28 05:09:38 ....A         5168               higan\ruby\audio\openal.cpp
+2011-05-04 15:06:30 ....A         4618               higan\sfc\alt\smp\core\op_misc.cpp
+2011-05-04 15:06:30 ....A         6009               higan\sfc\alt\smp\core\op_mov.cpp
+2011-05-04 15:06:30 ....A         9032               higan\sfc\alt\smp\core\op_pc.cpp
+2011-05-04 15:06:30 ....A        11855               higan\sfc\alt\smp\core\op_read.cpp
+2011-05-04 15:06:30 ....A         3795               higan\sfc\alt\smp\core\op_rmw.cpp
+2013-07-28 05:09:38 ....A         2618               higan\ruby\audio\oss.cpp
+2013-01-24 01:44:01 ....A          500               ananke\patch.cpp
+2013-07-28 05:09:38 ....A           74               higan\phoenix\phoenix.cpp
+2013-07-28 05:09:38 ....A         1022               higan\phoenix\reference\platform.cpp
+2013-07-28 05:09:38 ....A         1045               higan\phoenix\cocoa\platform.cpp
+2013-07-28 05:09:38 ....A         1048               higan\phoenix\gtk\platform.cpp
+2013-07-28 05:09:38 ....A         1070               higan\phoenix\windows\platform.cpp
+2013-07-28 05:09:38 ....A         1076               higan\phoenix\qt\platform.cpp
+2013-05-05 06:55:07 ....A        13137               higan\fc\ppu\ppu.cpp
+2013-05-05 07:11:44 ....A        10538               higan\sfc\alt\ppu-balanced\ppu.cpp
+2013-05-05 07:24:13 ....A         3696               higan\sfc\alt\ppu-performance\ppu.cpp
+2013-05-05 08:42:03 ....A         3010               higan\sfc\ppu\ppu.cpp
+2013-05-05 09:07:11 ....A         3671               higan\gb\ppu\ppu.cpp
+2013-05-05 09:28:47 ....A         3701               higan\gba\ppu\ppu.cpp
+2013-07-28 05:22:12 ....A         9528               higan\target-ethos\general\presentation.cpp
+2013-07-28 05:09:38 ....A          153               higan\phoenix\reference\widget\progress-bar.cpp
+2013-07-28 05:09:38 ....A          523               higan\phoenix\gtk\widget\progress-bar.cpp
+2013-07-28 05:09:38 ....A          571               higan\phoenix\qt\widget\progress-bar.cpp
+2013-07-28 05:09:38 ....A          725               higan\phoenix\windows\widget\progress-bar.cpp
+2013-07-28 05:09:38 ....A          760               higan\phoenix\cocoa\widget\progress-bar.cpp
+2013-05-05 06:35:01 ....A          973               higan\fc\apu\pulse.cpp
+2013-07-28 05:09:38 ....A         4769               higan\ruby\audio\pulseaudio.cpp
+2013-07-28 05:09:38 ....A         2517               higan\ruby\audio\pulseaudiosimple.cpp
+2012-04-28 09:47:42 ....A        10586               higan\processor\r6502\r6502.cpp
+2012-04-28 09:21:38 ....A         1811               higan\processor\r65816\r65816.cpp
+2013-07-28 05:09:38 ....A          296               higan\phoenix\reference\widget\radio-button.cpp
+2013-07-28 05:09:38 ....A         1070               higan\phoenix\windows\widget\radio-button.cpp
+2013-07-28 05:09:38 ....A         1567               higan\phoenix\cocoa\widget\radio-button.cpp
+2013-07-28 05:09:38 ....A         1694               higan\phoenix\qt\widget\radio-button.cpp
+2013-07-28 05:09:38 ....A         1979               higan\phoenix\gtk\widget\radio-button.cpp
+2013-07-28 05:09:38 ....A          282               higan\phoenix\reference\action\radio-item.cpp
+2013-07-28 05:09:38 ....A          840               higan\phoenix\windows\action\radio-item.cpp
+2013-07-28 05:09:38 ....A         1056               higan\phoenix\qt\action\radio-item.cpp
+2013-07-28 05:09:38 ....A         1253               higan\phoenix\cocoa\action\radio-item.cpp
+2013-07-28 05:09:38 ....A         1673               higan\phoenix\gtk\action\radio-item.cpp
+2013-05-05 08:43:19 ....A          331               higan\sfc\random\random.cpp
+2013-07-28 05:09:38 ....A        26867               higan\ruby\input\rawinput.cpp
+2012-03-23 12:53:00 ....A         2474               higan\processor\hg51b\registers.cpp
+2012-03-31 18:06:55 ....A          281               higan\gba\apu\registers.cpp
+2012-04-13 06:13:46 ....A         3639               higan\gba\ppu\registers.cpp
+2012-04-15 02:00:30 ....A         1884               higan\processor\arm\registers.cpp
+2012-04-18 10:45:19 ....A         5918               higan\gba\cpu\registers.cpp
+2013-05-05 07:10:12 ....A         3613               higan\sfc\alt\ppu-balanced\render\render.cpp
+2012-12-24 12:46:01 ....A        15632               ananke\resource\resource.cpp
+2013-01-21 05:35:42 ....A        20254               higan\target-ethos\resource\resource.cpp
+2013-07-28 05:09:38 ....A         9963               higan\ruby\ruby.cpp
+2013-05-05 07:54:28 ....A         6286               higan\sfc\chip\sa1\sa1.cpp
+2013-01-21 06:56:14 ....A         2681               higan\sfc\slot\satellaview\satellaview.cpp
+2013-05-05 07:30:34 ....A         3038               higan\sfc\base\satellaview\satellaview.cpp
+2012-04-25 16:16:12 ....A          474               higan\gba\scheduler\scheduler.cpp
+2012-04-28 11:19:20 ....A          449               higan\fc\scheduler\scheduler.cpp
+2013-05-05 08:44:15 ....A          537               higan\sfc\scheduler\scheduler.cpp
+2013-05-05 09:08:16 ....A          510               higan\gb\scheduler\scheduler.cpp
+2013-05-05 07:21:16 ....A         4050               higan\sfc\alt\ppu-performance\screen\screen.cpp
+2013-05-05 08:37:14 ....A         6519               higan\sfc\ppu\screen\screen.cpp
+2013-05-05 09:30:50 ....A         3403               higan\gba\ppu\screen.cpp
+2013-05-05 07:58:42 ....A         5102               higan\sfc\chip\sdd1\sdd1.cpp
+2013-07-28 05:09:38 ....A         3505               higan\ruby\video\sdl.cpp
+2013-07-28 05:09:38 ....A         7422               higan\ruby\input\sdl.cpp
+2013-07-28 05:09:38 ....A           94               higan\phoenix\reference\action\separator.cpp
+2013-07-28 05:09:38 ....A          142               higan\phoenix\windows\action\separator.cpp
+2013-07-28 05:09:38 ....A          230               higan\phoenix\gtk\action\separator.cpp
+2013-07-28 05:09:38 ....A          243               higan\phoenix\cocoa\action\separator.cpp
+2013-07-28 05:09:38 ....A          258               higan\phoenix\qt\action\separator.cpp
+2013-05-05 09:12:51 ....A         1939               higan\gba\apu\sequencer.cpp
+2012-03-22 14:57:34 ....A          706               higan\sfc\alt\dsp\serialization.cpp
+2013-05-05 05:58:38 ....A         1952               higan\processor\arm\serialization.cpp
+2013-05-05 06:04:03 ....A         1812               higan\processor\gsu\serialization.cpp
+2013-05-05 06:05:11 ....A          532               higan\processor\hg51b\serialization.cpp
+2013-05-05 06:08:18 ....A          414               higan\processor\lr35902\serialization.cpp
+2013-05-05 06:12:15 ....A          401               higan\processor\r6502\serialization.cpp
+2013-05-05 06:15:57 ....A          621               higan\processor\r65816\serialization.cpp
+2013-05-05 06:17:44 ....A          469               higan\processor\spc700\serialization.cpp
+2013-05-05 06:23:32 ....A         1040               higan\processor\upd96050\serialization.cpp
+2013-05-05 06:35:21 ....A          535               higan\fc\apu\serialization.cpp
+2013-05-05 06:52:37 ....A          560               higan\fc\cpu\serialization.cpp
+2013-05-05 06:53:48 ....A          174               higan\fc\input\serialization.cpp
+2013-05-05 06:55:35 ....A         1740               higan\fc\ppu\serialization.cpp
+2013-05-05 06:56:10 ....A         1226               higan\fc\system\serialization.cpp
+2013-05-05 07:01:32 ....A         2003               higan\sfc\alt\cpu\serialization.cpp
+2013-05-05 07:03:10 ....A         5628               higan\sfc\alt\ppu-balanced\serialization.cpp
+2013-05-05 07:24:52 ....A         5380               higan\sfc\alt\ppu-performance\serialization.cpp
+2013-05-05 07:34:46 ....A          110               higan\sfc\cartridge\serialization.cpp
+2013-05-05 07:39:08 ....A          762               higan\sfc\chip\armdsp\serialization.cpp
+2013-05-05 07:40:11 ....A          146               higan\sfc\chip\bsx\serialization.cpp
+2013-05-05 07:41:33 ....A          945               higan\sfc\chip\epsonrtc\serialization.cpp
+2013-05-05 07:43:20 ....A          809               higan\sfc\chip\hitachidsp\serialization.cpp
+2013-05-05 07:44:16 ....A          379               higan\sfc\chip\hsu1\serialization.cpp
+2013-05-05 07:46:13 ....A          757               higan\sfc\chip\icd2\serialization.cpp
+2013-05-05 07:47:18 ....A          459               higan\sfc\chip\msu1\serialization.cpp
+2013-05-05 07:47:48 ....A          696               higan\sfc\chip\necdsp\serialization.cpp
+2013-05-05 07:48:35 ....A          186               higan\sfc\chip\obc1\serialization.cpp
+2013-05-05 07:54:46 ....A         2550               higan\sfc\chip\sa1\serialization.cpp
+2013-05-05 07:58:56 ....A          290               higan\sfc\chip\sdd1\serialization.cpp
+2013-05-05 07:59:36 ....A          298               higan\sfc\chip\sharprtc\serialization.cpp
+2013-05-05 08:02:28 ....A         1152               higan\sfc\chip\spc7110\serialization.cpp
+2013-05-05 08:08:04 ....A          306               higan\sfc\chip\superfx\serialization.cpp
+2013-05-05 08:17:24 ....A         2868               higan\sfc\cpu\serialization.cpp
+2013-05-05 08:23:54 ....A         1667               higan\sfc\dsp\serialization.cpp
+2013-05-05 08:42:51 ....A         6831               higan\sfc\ppu\serialization.cpp
+2013-05-05 08:45:13 ....A          123               higan\sfc\slot\sufamiturbo\serialization.cpp
+2013-05-05 08:46:00 ....A         1244               higan\sfc\smp\serialization.cpp
+2013-05-05 08:48:32 ....A         2646               higan\sfc\system\serialization.cpp
+2013-05-05 08:58:09 ....A          283               higan\gb\apu\serialization.cpp
+2013-05-05 09:01:11 ....A         1269               higan\gb\cartridge\serialization.cpp
+2013-05-05 09:03:39 ....A         1375               higan\gb\cpu\serialization.cpp
+2013-05-05 09:07:51 ....A         1063               higan\gb\ppu\serialization.cpp
+2013-05-05 09:08:48 ....A         1272               higan\gb\system\serialization.cpp
+2013-05-05 09:13:18 ....A         3015               higan\gba\apu\serialization.cpp
+2013-05-05 09:17:18 ....A          169               higan\gba\cartridge\serialization.cpp
+2013-05-05 09:22:34 ....A         3613               higan\gba\cpu\serialization.cpp
+2013-05-05 09:24:48 ....A           62               higan\gba\memory\serialization.cpp
+2013-05-05 09:31:34 ....A         3133               higan\gba\ppu\serialization.cpp
+2013-05-05 09:32:43 ....A         1271               higan\gba\system\serialization.cpp
+2013-05-02 11:18:37 ....A         1122               higan\target-ethos\settings\server.cpp
+2013-05-02 11:19:10 ....A         2095               higan\target-ethos\settings\settings.cpp
+2013-07-28 05:09:38 ....A           61               higan\phoenix\windows\settings.cpp
+2013-07-28 05:09:38 ....A          750               higan\phoenix\qt\settings.cpp
+2013-07-28 05:09:38 ....A          851               higan\phoenix\gtk\settings.cpp
+2013-05-05 07:59:50 ....A         2511               higan\sfc\chip\sharprtc\sharprtc.cpp
+2013-05-05 07:28:46 ....A         2959               higan\sfc\alt\smp\smp.cpp
+2013-05-05 08:46:21 ....A         2347               higan\sfc\smp\smp.cpp
+2012-04-28 10:09:47 ....A        12279               higan\processor\spc700\spc700.cpp
+2012-07-09 20:23:40 ....A         7584               higan\sfc\chip\spc7110\spc7110.cpp
+2010-08-20 04:07:48 ....A        26485               higan\sfc\alt\dsp\SPC_DSP.cpp
+2013-05-05 07:22:12 ....A         6151               higan\sfc\alt\ppu-performance\sprite\sprite.cpp
+2013-05-05 08:38:35 ....A         5957               higan\sfc\ppu\sprite\sprite.cpp
+2012-04-05 02:08:32 ....A          819               higan\gba\apu\square.cpp
+2012-04-08 01:20:03 ....A         2601               higan\gba\apu\square1.cpp
+2013-05-05 08:56:06 ....A         3688               higan\gb\apu\square1\square1.cpp
+2012-04-08 01:20:17 ....A         1384               higan\gba\apu\square2.cpp
+2013-05-05 08:56:49 ....A         2371               higan\gb\apu\square2\square2.cpp
+2013-05-05 05:51:34 ....A         4572               higan\target-ethos\tools\state-manager.cpp
+2013-01-24 01:48:18 ....A         2889               ananke\sufami-turbo.cpp
+2013-01-21 07:16:14 ....A          286               higan\sfc\slot\sufamiturbo\sufamiturbo.cpp
+2013-05-05 06:43:25 ....A         5404               higan\fc\cartridge\board\sunsoft-5b.cpp
+2013-07-29 11:53:35 ....A         8340               ananke\super-famicom.cpp
+2012-07-09 05:59:55 ....A         1277               higan\sfc\chip\superfx\superfx.cpp
+2012-04-28 16:39:56 ....A         3688               higan\sfc\controller\superscope\superscope.cpp
+2013-05-05 06:35:30 ....A         1007               higan\fc\apu\sweep.cpp
+2013-01-12 22:11:34 ....A         1656               higan\fc\system\system.cpp
+2013-01-12 22:13:54 ....A         1613               higan\gba\system\system.cpp
+2013-05-05 08:49:57 ....A         7724               higan\sfc\system\system.cpp
+2013-05-05 09:09:08 ....A         2027               higan\gb\system\system.cpp
+2012-04-28 08:30:28 ....A         6204               higan\processor\gsu\table.cpp
+2012-04-28 09:34:18 ....A        11372               higan\processor\r65816\table.cpp
+2013-07-28 05:09:38 ....A          318               higan\phoenix\reference\widget\text-edit.cpp
+2013-07-28 05:09:38 ....A         1486               higan\phoenix\qt\widget\text-edit.cpp
+2013-07-28 05:09:38 ....A         1696               higan\phoenix\windows\widget\text-edit.cpp
+2013-07-28 05:09:38 ....A         2407               higan\phoenix\gtk\widget\text-edit.cpp
+2013-07-28 05:09:38 ....A         2471               higan\phoenix\cocoa\widget\text-edit.cpp
+2012-05-24 13:26:36 ....A         1799               higan\sfc\chip\sharprtc\time.cpp
+2012-05-25 12:31:00 ....A         3746               higan\sfc\chip\epsonrtc\time.cpp
+2013-05-05 09:23:13 ....A         1139               higan\gba\cpu\timer.cpp
+2013-07-28 05:09:38 ....A          182               higan\phoenix\reference\timer.cpp
+2013-07-28 05:09:38 ....A          496               higan\phoenix\qt\timer.cpp
+2013-07-28 05:09:38 ....A          722               higan\phoenix\windows\timer.cpp
+2013-07-28 05:09:38 ....A          745               higan\phoenix\gtk\timer.cpp
+2013-07-28 05:09:38 ....A         1092               higan\phoenix\cocoa\timer.cpp
+2011-05-05 08:45:22 ....A          617               higan\sfc\alt\smp\timing.cpp
+2011-06-26 05:07:58 ....A         3267               higan\sfc\alt\cpu\timing.cpp
+2012-02-12 07:25:08 ....A         5421               higan\sfc\cpu\timing\timing.cpp
+2012-04-28 08:44:56 ....A         1995               higan\sfc\chip\superfx\timing\timing.cpp
+2012-04-28 16:24:28 ....A         2137               higan\gb\cpu\timing.cpp
+2013-05-05 05:49:27 ....A         3818               higan\target-ethos\settings\timing.cpp
+2013-05-05 06:30:14 ....A         1364               higan\fc\cpu\timing.cpp
+2013-05-05 08:46:51 ....A         1626               higan\sfc\smp\timing.cpp
+2012-05-06 18:44:00 ....A          111               higan\target-ethos\tools\tools.cpp
+2013-05-05 06:35:45 ....A         1195               higan\fc\apu\triangle.cpp
+2012-03-25 14:11:13 ....A          853               higan\processor\upd96050\upd96050.cpp
+2013-03-15 11:34:53 ....A         2470               higan\sfc\controller\usart\usart.cpp
+2013-05-05 05:53:22 ....A         9276               higan\target-ethos\utility\utility.cpp
+2013-07-28 05:09:38 ....A         1689               higan\phoenix\cocoa\utility.cpp
+2013-07-28 05:09:38 ....A         8789               higan\phoenix\windows\utility.cpp
+2013-07-28 05:09:38 ....A         8951               higan\phoenix\qt\utility.cpp
+2013-07-28 05:09:38 ....A         9552               higan\phoenix\gtk\utility.cpp
+2013-07-28 05:09:38 ....A         4374               higan\phoenix\core\layout\vertical-layout.cpp
+2013-07-28 05:09:38 ....A          280               higan\phoenix\reference\widget\vertical-scroller.cpp
+2013-07-28 05:09:38 ....A          992               higan\phoenix\windows\widget\vertical-scroller.cpp
+2013-07-28 05:09:38 ....A         1090               higan\phoenix\qt\widget\vertical-scroller.cpp
+2013-07-28 05:09:38 ....A         1236               higan\phoenix\gtk\widget\vertical-scroller.cpp
+2013-07-28 05:09:38 ....A         2028               higan\phoenix\cocoa\widget\vertical-scroller.cpp
+2013-07-28 05:09:38 ....A          270               higan\phoenix\reference\widget\vertical-slider.cpp
+2013-07-28 05:09:38 ....A         1041               higan\phoenix\qt\widget\vertical-slider.cpp
+2013-07-28 05:09:38 ....A         1129               higan\phoenix\windows\widget\vertical-slider.cpp
+2013-07-28 05:09:38 ....A         1220               higan\phoenix\gtk\widget\vertical-slider.cpp
+2013-07-28 05:09:38 ....A         1426               higan\phoenix\cocoa\widget\vertical-slider.cpp
+2012-04-27 11:17:46 ....A          556               higan\gba\video\video.cpp
+2013-03-18 14:26:09 ....A         1823               higan\fc\video\video.cpp
+2013-05-02 11:20:36 ....A         2411               higan\target-ethos\settings\video.cpp
+2013-05-05 08:49:17 ....A         3710               higan\sfc\system\video.cpp
+2013-05-05 09:09:42 ....A         1528               higan\gb\video\video.cpp
+2013-07-28 05:09:38 ....A          189               higan\phoenix\reference\widget\viewport.cpp
+2013-07-28 05:09:38 ....A         1327               higan\phoenix\cocoa\widget\viewport.cpp
+2013-07-28 05:09:38 ....A         2067               higan\phoenix\qt\widget\viewport.cpp
+2013-07-28 05:09:38 ....A         2322               higan\phoenix\windows\widget\viewport.cpp
+2013-07-28 05:09:38 ....A         2917               higan\phoenix\gtk\widget\viewport.cpp
+2013-05-05 08:27:32 ....A         4071               higan\sfc\dsp\voice.cpp
+2013-05-05 06:46:47 ....A         1662               higan\fc\cartridge\chip\vrc1.cpp
+2013-05-05 06:47:23 ....A         3309               higan\fc\cartridge\chip\vrc2.cpp
+2013-05-05 06:47:42 ....A         2100               higan\fc\cartridge\chip\vrc3.cpp
+2013-05-05 06:48:13 ....A         4702               higan\fc\cartridge\chip\vrc4.cpp
+2013-05-05 06:49:19 ....A         6526               higan\fc\cartridge\chip\vrc6.cpp
+2013-05-05 06:49:47 ....A         3371               higan\fc\cartridge\chip\vrc7.cpp
+2013-05-05 08:57:32 ....A         1916               higan\gb\apu\wave\wave.cpp
+2013-05-05 09:14:13 ....A         2079               higan\gba\apu\wave.cpp
+2013-07-28 05:09:38 ....A         4013               higan\ruby\video\wgl.cpp
+2013-07-28 05:09:38 ....A          438               higan\phoenix\reference\widget\widget.cpp
+2013-07-28 05:09:38 ....A         1455               higan\phoenix\gtk\widget\widget.cpp
+2013-07-28 05:09:38 ....A         1478               higan\phoenix\qt\widget\widget.cpp
+2013-07-28 05:09:38 ....A         1773               higan\phoenix\cocoa\widget\widget.cpp
+2013-07-28 05:09:38 ....A         1921               higan\phoenix\windows\widget\widget.cpp
+2013-05-05 05:45:37 ....A         1099               higan\target-ethos\window\window.cpp
+2013-05-05 07:23:15 ....A         2982               higan\sfc\alt\ppu-performance\window\window.cpp
+2013-05-05 08:40:57 ....A         4767               higan\sfc\ppu\window\window.cpp
+2013-07-28 05:09:38 ....A         1368               higan\phoenix\reference\window.cpp
+2013-07-28 05:09:38 ....A         7803               higan\phoenix\windows\window.cpp
+2013-07-28 05:09:38 ....A        10149               higan\phoenix\qt\window.cpp
+2013-07-28 05:09:38 ....A        11698               higan\phoenix\cocoa\window.cpp
+2013-07-28 05:09:38 ....A        13230               higan\phoenix\gtk\window.cpp
+2013-05-05 07:11:18 ....A         2309               higan\sfc\alt\ppu-balanced\render\windows.cpp
+2013-07-28 05:09:38 ....A          845               higan\ruby\input\x.cpp
+2013-07-28 05:09:38 ....A         5207               higan\ruby\audio\xaudio2.cpp
+2013-07-28 05:09:38 ....A         4612               higan\ruby\video\xshm.cpp
+2013-07-28 05:09:38 ....A        16265               higan\ruby\video\xv.cpp
+2013-07-28 05:09:38 ....A           24               higan\phoenix\windows\phoenix.rc
+2012-08-15 22:51:10 ....A           69               higan\target-ethos\resource.rc
+2012-08-15 17:20:08 ....A          485               higan\data\higan.Manifest
+2013-07-28 05:09:38 ....A          730               higan\phoenix\windows\phoenix.Manifest
+2011-05-04 13:59:04 ....A           60               higan\sfc\alt\smp\core\cc.sh
+2011-05-04 14:27:14 ....A         3028               higan\sfc\alt\smp\core\op_misc.b
+2008-04-10 10:08:20 ....A         4102               higan\sfc\alt\smp\core\op_mov.b
+2008-04-10 10:08:20 ....A         3130               higan\sfc\alt\smp\core\op_pc.b
+2008-04-10 10:08:20 ....A         4415               higan\sfc\alt\smp\core\op_read.b
+2008-04-10 10:08:20 ....A         1476               higan\sfc\alt\smp\core\op_rmw.b
+2012-11-21 12:07:27 ....A      2037747               higan\data\cheats.bml
+2013-01-12 22:08:03 ....A           20               higan\profile\Famicom.sys\manifest.bml
+2013-01-12 22:08:32 ....A           58               higan\profile\Game Boy.sys\manifest.bml
+2013-01-12 22:09:07 ....A           65               higan\profile\Game Boy Color.sys\manifest.bml
+2013-01-12 22:09:42 ....A           68               higan\profile\Game Boy Advance.sys\manifest.bml
+2013-01-12 22:10:31 ....A           61               higan\profile\Super Famicom.sys\manifest.bml
+2012-12-24 12:45:46 ....A          184               ananke\resource\resource.bml
+2013-01-21 05:35:31 ....A          190               higan\target-ethos\resource\resource.bml
+2012-08-15 17:19:27 ....A          129               higan\data\higan.desktop
+2013-07-28 05:09:38 ....A        32373               higan\phoenix\qt\platform.moc
+2013-04-07 02:54:19 ....A          363               higan\data\Info.plist
+2012-04-18 11:12:51 ....A          256               higan\profile\Game Boy.sys\boot.rom
+2012-04-18 11:25:05 ....A         2048               higan\profile\Game Boy Color.sys\boot.rom
+2012-04-18 11:00:33 ....A           64               higan\profile\Super Famicom.sys\ipl.rom
+2013-07-28 05:09:38 ....A            0            0  higan\phoenix\reference\header.hpp
+2017-02-28 08:39:14 D....            0            0  higan\target-ethos\window
+2017-02-28 08:39:14 D....            0            0  higan\target-ethos\utility
+2017-02-28 08:39:14 D....            0            0  higan\target-ethos\tools
+2017-02-28 08:39:14 D....            0            0  higan\target-ethos\settings
+2017-02-28 08:39:14 D....            0            0  higan\target-ethos\resource
+2017-02-28 08:39:12 D....            0            0  higan\target-ethos\interface
+2017-02-28 08:39:12 D....            0            0  higan\target-ethos\input
+2017-02-28 08:39:13 D....            0            0  higan\target-ethos\general
+2017-02-28 08:39:11 D....            0            0  higan\target-ethos\configuration
+2017-02-28 08:39:14 D....            0            0  higan\target-ethos
+2017-02-28 08:39:14 D....            0            0  higan\sfc\system
+2017-02-28 08:39:14 D....            0            0  higan\sfc\smp
+2017-02-28 08:39:14 D....            0            0  higan\sfc\slot\sufamiturbo
+2017-02-28 08:39:13 D....            0            0  higan\sfc\slot\satellaview
+2017-02-28 08:39:10 D....            0            0  higan\sfc\slot
+2017-02-28 08:39:13 D....            0            0  higan\sfc\scheduler
+2017-02-28 08:39:13 D....            0            0  higan\sfc\random
+2017-02-28 08:39:14 D....            0            0  higan\sfc\ppu\window
+2017-02-28 08:39:13 D....            0            0  higan\sfc\ppu\sprite
+2017-02-28 08:39:13 D....            0            0  higan\sfc\ppu\screen
+2017-02-28 08:39:12 D....            0            0  higan\sfc\ppu\mmio
+2017-02-28 08:39:08 D....            0            0  higan\sfc\ppu\counter
+2017-02-28 08:39:12 D....            0            0  higan\sfc\ppu\background
+2017-02-28 08:39:13 D....            0            0  higan\sfc\ppu
+2017-02-28 08:39:12 D....            0            0  higan\sfc\memory
+2017-02-28 08:39:12 D....            0            0  higan\sfc\interface
+2017-02-28 08:39:14 D....            0            0  higan\sfc\dsp
+2017-02-28 08:39:14 D....            0            0  higan\sfc\cpu\timing
+2017-02-28 08:39:12 D....            0            0  higan\sfc\cpu\mmio
+2017-02-28 08:39:12 D....            0            0  higan\sfc\cpu\memory
+2017-02-28 08:39:11 D....            0            0  higan\sfc\cpu\dma
+2017-02-28 08:39:13 D....            0            0  higan\sfc\cpu
+2017-02-28 08:39:14 D....            0            0  higan\sfc\controller\usart
+2017-02-28 08:39:14 D....            0            0  higan\sfc\controller\superscope
+2017-02-28 08:39:12 D....            0            0  higan\sfc\controller\multitap
+2017-02-28 08:39:12 D....            0            0  higan\sfc\controller\mouse
+2017-02-28 08:39:12 D....            0            0  higan\sfc\controller\justifier
+2017-02-28 08:39:11 D....            0            0  higan\sfc\controller\gamepad
+2017-02-28 08:39:11 D....            0            0  higan\sfc\controller
+2017-02-28 08:39:11 D....            0            0  higan\sfc\config
+2017-02-28 08:39:14 D....            0            0  higan\sfc\chip\superfx\timing
+2017-02-28 08:39:12 D....            0            0  higan\sfc\chip\superfx\mmio
+2017-02-28 08:39:12 D....            0            0  higan\sfc\chip\superfx\memory
+2017-02-28 08:39:11 D....            0            0  higan\sfc\chip\superfx\disasm
+2017-02-28 08:39:11 D....            0            0  higan\sfc\chip\superfx\core
+2017-02-28 08:39:11 D....            0            0  higan\sfc\chip\superfx\bus
+2017-02-28 08:39:14 D....            0            0  higan\sfc\chip\superfx
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\spc7110
+2017-02-28 08:39:14 D....            0            0  higan\sfc\chip\sharprtc
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\sdd1
+2017-02-28 08:39:12 D....            0            0  higan\sfc\chip\sa1\mmio
+2017-02-28 08:39:12 D....            0            0  higan\sfc\chip\sa1\memory
+2017-02-28 08:39:11 D....            0            0  higan\sfc\chip\sa1\dma
+2017-02-28 08:39:11 D....            0            0  higan\sfc\chip\sa1\bus
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\sa1
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\obc1
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\nss
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\necdsp
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\msu1
+2017-02-28 08:39:12 D....            0            0  higan\sfc\chip\icd2\mmio
+2017-02-28 08:39:12 D....            0            0  higan\sfc\chip\icd2\interface
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\icd2
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\hsu1
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\hitachidsp
+2017-02-28 08:39:11 D....            0            0  higan\sfc\chip\event
+2017-02-28 08:39:14 D....            0            0  higan\sfc\chip\epsonrtc
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\bsx
+2017-02-28 08:39:13 D....            0            0  higan\sfc\chip\armdsp
+2017-02-28 08:39:10 D....            0            0  higan\sfc\chip
+2017-02-28 08:39:11 D....            0            0  higan\sfc\cheat
+2017-02-28 08:39:13 D....            0            0  higan\sfc\cartridge
+2017-02-28 08:39:13 D....            0            0  higan\sfc\base\satellaview
+2017-02-28 08:39:10 D....            0            0  higan\sfc\base
+2017-02-28 08:39:14 D....            0            0  higan\sfc\alt\smp\core
+2017-02-28 08:39:14 D....            0            0  higan\sfc\alt\smp
+2017-02-28 08:39:14 D....            0            0  higan\sfc\alt\ppu-performance\window
+2017-02-28 08:39:13 D....            0            0  higan\sfc\alt\ppu-performance\sprite
+2017-02-28 08:39:13 D....            0            0  higan\sfc\alt\ppu-performance\screen
+2017-02-28 08:39:12 D....            0            0  higan\sfc\alt\ppu-performance\mmio
+2017-02-28 08:39:11 D....            0            0  higan\sfc\alt\ppu-performance\cache
+2017-02-28 08:39:12 D....            0            0  higan\sfc\alt\ppu-performance\background
+2017-02-28 08:39:13 D....            0            0  higan\sfc\alt\ppu-performance
+2017-02-28 08:39:14 D....            0            0  higan\sfc\alt\ppu-balanced\render
+2017-02-28 08:39:12 D....            0            0  higan\sfc\alt\ppu-balanced\mmio
+2017-02-28 08:39:12 D....            0            0  higan\sfc\alt\ppu-balanced\memory
+2017-02-28 08:39:13 D....            0            0  higan\sfc\alt\ppu-balanced
+2017-02-28 08:39:13 D....            0            0  higan\sfc\alt\dsp
+2017-02-28 08:39:14 D....            0            0  higan\sfc\alt\cpu
+2017-02-28 08:39:10 D....            0            0  higan\sfc\alt
+2017-02-28 08:39:10 D....            0            0  higan\sfc
+2017-02-28 08:39:10 D....            0            0  higan\ruby\video\opengl
+2017-02-28 08:39:14 D....            0            0  higan\ruby\video
+2017-02-28 08:39:14 D....            0            0  higan\ruby\input
+2017-02-28 08:39:14 D....            0            0  higan\ruby\audio
+2017-02-28 08:39:13 D....            0            0  higan\ruby
+2017-02-28 08:39:14 D....            0            0  higan\profile\Super Famicom.sys
+2017-02-28 08:39:14 D....            0            0  higan\profile\Game Boy.sys
+2017-02-28 08:39:14 D....            0            0  higan\profile\Game Boy Color.sys
+2017-02-28 08:39:14 D....            0            0  higan\profile\Game Boy Advance.sys
+2017-02-28 08:39:14 D....            0            0  higan\profile\Famicom.sys
+2017-02-28 08:39:14 D....            0            0  higan\profile
+2017-02-28 08:39:14 D....            0            0  higan\processor\upd96050
+2017-02-28 08:39:13 D....            0            0  higan\processor\spc700
+2017-02-28 08:39:14 D....            0            0  higan\processor\r65816
+2017-02-28 08:39:13 D....            0            0  higan\processor\r6502
+2017-02-28 08:39:13 D....            0            0  higan\processor\lr35902
+2017-02-28 08:39:13 D....            0            0  higan\processor\hg51b
+2017-02-28 08:39:14 D....            0            0  higan\processor\gsu
+2017-02-28 08:39:13 D....            0            0  higan\processor\arm
+2017-02-28 08:39:10 D....            0            0  higan\processor
+2017-02-28 08:39:14 D....            0            0  higan\phoenix\windows\widget
+2017-02-28 08:39:13 D....            0            0  higan\phoenix\windows\action
+2017-02-28 08:39:14 D....            0            0  higan\phoenix\windows
+2017-02-28 08:39:14 D....            0            0  higan\phoenix\reference\widget
+2017-02-28 08:39:13 D....            0            0  higan\phoenix\reference\action
+2017-02-28 08:39:14 D....            0            0  higan\phoenix\reference
+2017-02-28 08:39:14 D....            0            0  higan\phoenix\qt\widget
+2017-02-28 08:39:13 D....            0            0  higan\phoenix\qt\action
+2017-02-28 08:39:14 D....            0            0  higan\phoenix\qt
+2017-02-28 08:39:14 D....            0            0  higan\phoenix\gtk\widget
+2017-02-28 08:39:13 D....            0            0  higan\phoenix\gtk\action
+2017-02-28 08:39:14 D....            0            0  higan\phoenix\gtk
+2017-02-28 08:39:14 D....            0            0  higan\phoenix\core\layout
+2017-02-28 08:39:11 D....            0            0  higan\phoenix\core
+2017-02-28 08:39:14 D....            0            0  higan\phoenix\cocoa\widget
+2017-02-28 08:39:13 D....            0            0  higan\phoenix\cocoa\action
+2017-02-28 08:39:14 D....            0            0  higan\phoenix\cocoa
+2017-02-28 08:39:13 D....            0            0  higan\phoenix
+2017-02-28 08:39:14 D....            0            0  higan\out
+2017-02-28 08:39:14 D....            0            0  higan\obj
+2017-02-28 08:39:10 D....            0            0  higan\nall\xorg
+2017-02-28 08:39:10 D....            0            0  higan\nall\windows
+2017-02-28 08:39:10 D....            0            0  higan\nall\string\markup
+2017-02-28 08:39:09 D....            0            0  higan\nall\string\eval
+2017-02-28 08:39:10 D....            0            0  higan\nall\string\char
+2017-02-28 08:39:10 D....            0            0  higan\nall\string\allocator
+2017-02-28 08:39:10 D....            0            0  higan\nall\string
+2017-02-28 08:39:10 D....            0            0  higan\nall\stream
+2017-02-28 08:39:09 D....            0            0  higan\nall\mosaic
+2017-02-28 08:39:10 D....            0            0  higan\nall\emulation
+2017-02-28 08:39:10 D....            0            0  higan\nall\dsp\resample\lib
+2017-02-28 08:39:10 D....            0            0  higan\nall\dsp\resample
+2017-02-28 08:39:10 D....            0            0  higan\nall\dsp
+2017-02-28 08:39:09 D....            0            0  higan\nall\beat
+2017-02-28 08:39:10 D....            0            0  higan\nall
+2017-02-28 08:39:10 D....            0            0  higan\libco
+2017-02-28 08:39:14 D....            0            0  higan\gba\video
+2017-02-28 08:39:14 D....            0            0  higan\gba\system
+2017-02-28 08:39:13 D....            0            0  higan\gba\scheduler
+2017-02-28 08:39:13 D....            0            0  higan\gba\ppu
+2017-02-28 08:39:13 D....            0            0  higan\gba\memory
+2017-02-28 08:39:12 D....            0            0  higan\gba\interface
+2017-02-28 08:39:14 D....            0            0  higan\gba\cpu
+2017-02-28 08:39:13 D....            0            0  higan\gba\cartridge
+2017-02-28 08:39:14 D....            0            0  higan\gba\apu
+2017-02-28 08:39:10 D....            0            0  higan\gba
+2017-02-28 08:39:14 D....            0            0  higan\gb\video
+2017-02-28 08:39:14 D....            0            0  higan\gb\system
+2017-02-28 08:39:13 D....            0            0  higan\gb\scheduler
+2017-02-28 08:39:13 D....            0            0  higan\gb\ppu
+2017-02-28 08:39:12 D....            0            0  higan\gb\memory
+2017-02-28 08:39:12 D....            0            0  higan\gb\interface
+2017-02-28 08:39:14 D....            0            0  higan\gb\cpu
+2017-02-28 08:39:11 D....            0            0  higan\gb\cheat
+2017-02-28 08:39:12 D....            0            0  higan\gb\cartridge\mmm01
+2017-02-28 08:39:12 D....            0            0  higan\gb\cartridge\mbc5
+2017-02-28 08:39:12 D....            0            0  higan\gb\cartridge\mbc3
+2017-02-28 08:39:12 D....            0            0  higan\gb\cartridge\mbc2
+2017-02-28 08:39:12 D....            0            0  higan\gb\cartridge\mbc1
+2017-02-28 08:39:12 D....            0            0  higan\gb\cartridge\mbc0
+2017-02-28 08:39:12 D....            0            0  higan\gb\cartridge\huc3
+2017-02-28 08:39:12 D....            0            0  higan\gb\cartridge\huc1
+2017-02-28 08:39:13 D....            0            0  higan\gb\cartridge
+2017-02-28 08:39:14 D....            0            0  higan\gb\apu\wave
+2017-02-28 08:39:14 D....            0            0  higan\gb\apu\square2
+2017-02-28 08:39:13 D....            0            0  higan\gb\apu\square1
+2017-02-28 08:39:13 D....            0            0  higan\gb\apu\noise
+2017-02-28 08:39:12 D....            0            0  higan\gb\apu\master
+2017-02-28 08:39:13 D....            0            0  higan\gb\apu
+2017-02-28 08:39:10 D....            0            0  higan\gb
+2017-02-28 08:39:14 D....            0            0  higan\fc\video
+2017-02-28 08:39:14 D....            0            0  higan\fc\system
+2017-02-28 08:39:13 D....            0            0  higan\fc\scheduler
+2017-02-28 08:39:13 D....            0            0  higan\fc\ppu
+2017-02-28 08:39:12 D....            0            0  higan\fc\memory
+2017-02-28 08:39:12 D....            0            0  higan\fc\interface
+2017-02-28 08:39:13 D....            0            0  higan\fc\input
+2017-02-28 08:39:14 D....            0            0  higan\fc\cpu
+2017-02-28 08:39:11 D....            0            0  higan\fc\cheat
+2017-02-28 08:39:14 D....            0            0  higan\fc\cartridge\chip
+2017-02-28 08:39:14 D....            0            0  higan\fc\cartridge\board
+2017-02-28 08:39:11 D....            0            0  higan\fc\cartridge
+2017-02-28 08:39:14 D....            0            0  higan\fc\apu
+2017-02-28 08:39:10 D....            0            0  higan\fc
+2017-02-28 08:39:09 D....            0            0  higan\emulator
+2017-02-28 08:39:14 D....            0            0  higan\data
+2017-02-28 08:39:14 D....            0            0  higan
+2017-02-28 08:39:14 D....            0            0  ananke\resource
+2017-02-28 08:39:14 D....            0            0  ananke\obj
+2017-02-28 08:39:10 D....            0            0  ananke\heuristics
+2017-02-28 08:39:10 D....            0            0  ananke\database
+2017-02-28 08:39:14 D....            0            0  ananke
+------------------- ----- ------------ ------------  ------------------------
+2017-02-28 08:39:14            5439440       810115  1067 files, 202 folders

@@ -1,0 +1,35 @@
+   Date      Time    Attr         Size   Compressed  Name
+------------------- ----- ------------ ------------  ------------------------
+2015-09-28 10:14:48 ....A      2224359       361591  cheats.bml
+2013-01-12 22:08:03 ....A           20               Famicom.sys\manifest.bml
+2013-01-12 22:08:32 ....A           58               Game Boy.sys\manifest.bml
+2013-01-12 22:09:07 ....A           65               Game Boy Color.sys\manifest.bml
+2013-01-12 22:09:42 ....A           68               Game Boy Advance.sys\manifest.bml
+2013-01-12 22:10:31 ....A           61               Super Famicom.sys\manifest.bml
+2013-04-07 01:26:07 ....A           68               Video Shaders\Edge Detection.shader\manifest.bml
+2013-04-07 01:42:00 ....A           64               Video Shaders\Scanlines.shader\manifest.bml
+2013-08-17 00:19:26 ....A           65               Video Shaders\Curvature.shader\manifest.bml
+2016-01-16 06:33:24 ....A         4600               settings.bml
+2015-12-29 02:10:39 ....A       316398               Database\Super Famicom.bml
+2013-08-21 05:45:22 ....A          379               Video Shaders\Curvature.shader\curvature.fs
+2013-08-21 05:45:40 ....A          508               Video Shaders\Edge Detection.shader\edge-detection.fs
+2013-08-21 05:45:58 ....A          379               Video Shaders\Scanlines.shader\scanline.fs
+2012-04-18 11:12:51 ....A          256               Game Boy.sys\boot.rom
+2012-04-18 11:25:05 ....A         2048               Game Boy Color.sys\boot.rom
+2012-04-18 11:00:33 ....A           64               Super Famicom.sys\ipl.rom
+2016-01-16 06:34:21 ....A      4222464      1691702  higan-accuracy.exe
+2016-01-16 06:34:21 ....A      4228608               higan-balanced.exe
+2016-01-16 06:34:21 ....A      4289024               higan-performance.exe
+2016-01-16 06:34:21 ....A       867328               icarus.exe
+2017-02-28 08:33:35 D....            0            0  Video Shaders\Scanlines.shader
+2017-02-28 08:33:35 D....            0            0  Video Shaders\Edge Detection.shader
+2017-02-28 08:33:35 D....            0            0  Video Shaders\Curvature.shader
+2017-02-28 08:33:35 D....            0            0  Video Shaders
+2017-02-28 08:33:35 D....            0            0  Super Famicom.sys
+2017-02-28 08:33:35 D....            0            0  Game Boy.sys
+2017-02-28 08:33:35 D....            0            0  Game Boy Color.sys
+2017-02-28 08:33:35 D....            0            0  Game Boy Advance.sys
+2017-02-28 08:33:35 D....            0            0  Famicom.sys
+2017-02-28 08:33:35 D....            0            0  Database
+------------------- ----- ------------ ------------  ------------------------
+2017-02-28 08:33:35           16156884      2053293  21 files, 10 folders
