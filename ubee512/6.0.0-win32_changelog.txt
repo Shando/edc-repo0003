@@ -1,0 +1,24 @@
+13 February 2017 - uBee
+-----------------------
+uBee512 v6.0.0
+
+New for this release:
+* In full screen or a maximised window using OpenGL mode, preserve the
+  MicroBee display's 4:3 aspect ratio (especially on wide-screen 16:9
+  monitors)
+
+Changes:
+* Revise video output to only redraw those parts of the screen that have
+  changed, improving emulator performance.
+* Changes made to 'keystd.c' to lower 'stopshift' and 'makeshift' values to
+  work in Early Word (earlier version).
+* Windows binary packages now ships with SDL-1.2.15 (final) DLL which
+  replaces the older SDL-1.2.14 version.  The SDL (Windows) changelog is
+  here: https://www.libsdl.org/release/changes-1.2.html
+
+Fixed:
+* LibDsk build for Linux was using wrong build prefix so was being built
+  against an older LibDsk build.  Should now be LibDsk-1.4.2
+* In memmap.c comment out the printf("file=...") line in sram_load().
+* Fixed sram_save() in memmap.c to ignore an open new file error, now it
+  only warns if using verbose mode.

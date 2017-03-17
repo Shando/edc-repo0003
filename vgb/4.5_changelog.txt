@@ -1,0 +1,35 @@
+New in VGB 4.5
+  * {VGB-Windows} is now free for everyone to use. 
+  * {VGB-Android} is available from the Google Play. 
+  * VGB-Symbian, VGB-MSDOS, and VGB-PocketPC are discontinued. 
+  * Added GameBoy Light emulation. 
+  * Added TAMA5 mapper emulation (Tamagotchi 3). 
+  * Added MMM01 mapper emulation (Taito Variety Pack and Momotaro Collection 2). 
+  * Added MBC7 mapper emulation (Kirby's Tilt'n'Tumble). 
+  * Added optional DI+HALT CPU bug emulation. 
+  * Added proper noise channel emulation. 
+  * Added 93cXX serial EEPROM emulation. 
+  * Added tilt sensor emulation. 
+  * Added support for .IPS files. For "mygame.gb", use "mygame.ips". 
+  * Added support for .PAL files. For "mygame.gb", use "mygame.pal". 
+  * Added "instant replay" feature letting you go back in time ([F8]). 
+  * Added tool that lets you hunt for new GameShark cheats ([F5]). 
+  * Added "vertical scanlines" emulation, as found in old LCDs. 
+  * Added "raster effect" emulation, as found in newer LCDs. 
+  * No longer compressing .SAV files, to avoid confusing the users. 
+  * Made LYC IRQ happen instantly when LYC set to the current scanline. 
+  * Made LCD controller reset scanline when it is reenabled. 
+  * Now enabling LCD controller on startup (Aerostar, Alfred Chicken, etc). 
+  * Now disabling IRQs on startup (Robocop 2, Shadowgate, etc). 
+  * Now checking IRQs when ISWITCH/IFLAGS modified (Final Fantasy Legend). 
+  * Now "ticking" RTC while not playing (time progress in Pokemon, etc). 
+  * Now clearing scratch RAM after reset. 
+  * Now locking out opposite arrow keys. 
+  * Now resetting DIVREG on writes. 
+  * Fixed IRQ priorities, with VBlank IRQ getting top priority. 
+  * Fixed sprites-over-window display to avoid hiding sprites. 
+  * Fixed corrupted Super GameBoy backdrop on startup. 
+  * Fixed saving and restoring sound chip state. 
+  * Fixed saving and restoring SGB colors. 
+  * Fixed "JR offset" and "JR Z,offset" instruction timings. 
+  * Fixed exit from HALT instruction. 
