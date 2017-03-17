@@ -1,0 +1,7 @@
+v0.317
+ADDED: Check the Edit ROM menu item to be able to edit the ROM.
+ADDED: Onscreen keyboard.
+ADDED: Added extra suffixes for Spool file loading ( .ja4,  .fs)
+FIXED: The Copy, Fill and Find function didn't actually work properly!!
+FIXED: If you cancelled load WAV file in WAV browser SpudACE crashed.
+REMOVED: OpenGL buttons in Options.

@@ -1,0 +1,2 @@
+1.5.1
+- Fixed a number of bugs, including Donkey Kong Land and possibly other roms being broken, and a bug that caused it to sometimes not work on a secondary monitor. 

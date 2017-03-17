@@ -1,0 +1,9 @@
+1.5 
+  * AVI writer 
+  * Greatly improved efficiency (about 10-30% faster, depending on the system) 
+  * Improved accuracy 
+  * Improved sound quality 
+  * Lower audio latency 
+  * Preview screenshots in select state window 
+  * Improvements to debugger, including selectable RGBDS or WLA assembler syntax, "ld d,d" debug messages, and editing the palette in the vram viewer. 
+  * Fixed a large number of bugs, including "alt+F4 loads state", and "timing in LSDJ is unstable"

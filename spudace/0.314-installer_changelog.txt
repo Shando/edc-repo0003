@@ -1,0 +1,5 @@
+v0.314
+ADDED: BORDER can now be set to full size, medium size or no BORDER.
+ADDED: AY sound card emulation.
+ADD: another screen colour option.
+FIXED: A very obscure bug in the Z80 core which no-one has noticed (including me until I fixed it).

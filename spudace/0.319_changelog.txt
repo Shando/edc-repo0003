@@ -1,0 +1,4 @@
+v0.319
+FIXED: SpudACE crashed when stereo sound was deselected. [Pegaz]
+FIXED: Sound wasn't paused when doing UI related stuff. [Pegaz]
+FIXED: Auto rewind & focus statuses weren't being saved when SPudACE was shut down. [Pegaz]

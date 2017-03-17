@@ -1,0 +1,6 @@
+1.5.3 (2017-03-04)
+- Accuracy improvements, including: pokemon (all versions) now has correct TID for speedruns.
+- Fixed a large number of bugs and problems, including: "uncoverable direct3d error" on some Optimus laptops.
+- Added improved support for automation/commandline use.
+- Significant performance/efficiency improvement with most roms.
+- Added support for loading RTC .sav files where a timestamp in the future does not (incorrectly) advance time. 

@@ -1,0 +1,11 @@
+1.4 
+  * greatly improved game link accuracy, most games should now work perfectly. 
+  * added optional HQ2X and Scale2x graphics filters 
+  * various accuracy improvements including sound registers, joypad timing, and lcd/interrupt timing 
+  * Performance/efficiency improvements including waitloop detection and more efficient high quality sound rendering and others 
+  * Major debugger improvements: Supports SYM files containing debug symbols. "on jump" access breakpoints. immideate entry of data into assembler, data, and stack viewer. improved assembler flexibility. Multiline code/data entry window. Keyboard shortcut for navigation to previous/next breakpoint, label etc. Live update memory mode. edit IO map registers. Fixed causes of accidental running while debugging. 
+  * Sound quality improvements: CH3 and CH4 are now bandlimited in high quality mode. Improved DC offset accuracy. fixed sound timing inaccuracies. 
+  * Improved WAV writer + screenshot recording. Fixed audio/video desync problems. Exported files are now better named. 
+  * fixed windows 98 compatibility problem. eliminated requirement for DX9. improved wine support. 
+  * New truecolor/hi-res icon. 
+  * Many small bug fixes and improvements.

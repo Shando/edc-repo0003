@@ -1,0 +1,2 @@
+1.4.1
+- fixed time keeping problems (hiccups) on windows 7. fixed inaccuracy in mid-scanline change of LCDC bits (gejmboj). fixed a condition that would cause inaccurate timing of interrupt (final fantasy adventure). added "gameboy or GBC" system mode setting. fixed searching any opcode with a space giving "IO error 105". added field in IO map to view/edit the "low" bank of multicart emulation. fixed "remotejoy" bring broken. screen window can now init on secondary monitor. fixed failure of GUI elements initing on secondary monitor. fixed wrong field in wav file written. 
